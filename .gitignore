@@ -1,7 +1,6 @@
 # Secrets — Withings OAuth credentials and tokens
 .env
 .env.local
-tokens.json
 
 # OS / editor noise
 .DS_Store
