@@ -1,0 +1,27 @@
+# Secrets — Withings OAuth credentials and tokens
+.env
+.env.local
+tokens.json
+
+# OS / editor noise
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python-version
+venv/
+.venv/
+env/
+
+# Logs / temp
+*.log
+*.tmp
+.cache/
+
+# Local Claude state (if any)
+.claude/
