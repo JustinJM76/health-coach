@@ -74,6 +74,7 @@ _Last updated: 2026-04-25_
 
 - **Wife is a stakeholder, not just a constituent.** She has independent weight-loss interest. Treat her requests as program input.
 - **Wife requested plant protein variety** (chickpeas, lentils, etc.) — flagged "a lot of chicken" as too much. Coach acknowledged: original week's plan was 3 chicken / 2 turkey / 1 salmon / 1 spaghetti. Going forward target ≥1 plant-forward dinner/week, reduce chicken count.
+- **2026-04-30 — first wife-input loop closed.** Chickpeas added to Thursday Greek salad per her request. She "really appreciated" the addition. Household-stakeholder feedback channel confirmed working — keep the loop alive.
 - Plant proteins are **additive** for Justin (he needs 150–180 g protein/day; legumes alone won't hit that) but excellent for satiety, fiber, lower calorie density. Hybrid plates (lentil soup + chicken sausage; chickpea curry + grilled chicken) work better than pure-veg dinners for him.
 - **Open item:** wife's own goals/preferences not yet captured. Offered to factor her in directly if Justin shares her input.
 
@@ -129,6 +130,7 @@ _Last updated: 2026-04-25_
 ## What's working — confirmed interventions
 
 - **Protein primer before lunch (~25g, post-workout):** Day 3, Justin self-reported *"It prevents me from making stupid decisions about what I'm going to eat — I really feel it working."* Felt mechanism, not rule-following. This is the opposite of his historical white-knuckle → burnout pattern. **Protect at all costs.**
+- **No prep-time snacking — confirmed 2026-04-25 on a hard day:** Justin's words: *"I spent this afternoon doing strenuous yard work. Burned a bunch of calories, but didn't feel the need to snack. Even while prepping food I was good (other than my prep beer). This is a big change for me; snacking while cooking has been a big source of surplus calories."* Hard-day adherence (vs. easy-day) is the signal that the change is structural, not fair-weather. The prep-time pretzel-chips-and-guac pattern is broken.
 
 ## Eating psychology — TEMPLATE EATER (added 2026-04-22)
 
@@ -161,3 +163,12 @@ _Last updated: 2026-04-25_
 - Exercise specifics (reps, other exercises, joint flare frequency)
 - Water intake estimate
 - Binge protocol design (when Justin ready)
+
+## Hypothesis log
+
+**Gluten / wheat sensitivity → joint inflammation (logged 2026-05-02):**
+- Justin reported elevated hand/foot stiffness morning of 5/2. Two confounders: significant overnight weather change (barometric/temp shift, known PsA aggravator) AND elevated wheat intake the prior day (pasta, garlic bread, breadcrumbs in meatballs).
+- **Family history:** Justin's mother has a wheat sensitivity that manifests as joint inflammation. Genetic/familial signal worth respecting.
+- **Status:** single data point + multiple confounders. NOT actionable yet. Filed as a hypothesis to test via structured elimination experiment.
+- **Proposed test design (when Justin commits):** 2 wk baseline + daily 1-5 stiffness score → 2-3 wk gluten elimination + same scoring → reintroduction + monitor. ~6 weeks total. Plan around a slow week (no big social food anchors) for clean results.
+- **Don't chase prematurely.** Heavy-wheat days will recur; another correlation observation will help confirm before committing to a multi-week elimination.

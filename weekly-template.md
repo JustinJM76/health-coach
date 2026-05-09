@@ -36,6 +36,37 @@ Rotate freely based on what's in the fridge:
 
 Friday: no primer (Mexican lunch is the anchor).
 
+## Stretching / mobility (added 2026-05-04)
+
+**Phase 1 (current): post-workout stretching, 5–7 min, Mon/Tue/Thu after the workout finisher (when you're warm).**
+
+Each stretch held 30–45 sec, both sides where applicable:
+1. **Standing forward fold** (slight knee bend if needed; back-friendly). Hamstrings + low back.
+2. **Half-kneeling hip flexor** (lunge stance, knee down, hips forward). Counters all-day sitting.
+3. **Open book / thoracic rotation** (side-lying, knees stacked, top arm rotates open). Mid-back mobility.
+4. **Doorway pec stretch** (forearm against frame, step through). Counters rounded-shoulder posture.
+5. **Seated figure-4** (ankle on opposite knee, lean forward gently). Glutes / piriformis — back-friendly.
+
+**Phase 2 (weeks 3–4):** add a 10-min mobility session Saturday or Sunday morning. Cat-cow, dead bugs, bird dogs, child's pose.
+
+**Phase 3 (later, optional):** one gentle/restorative yoga session per week.
+
+**Hard avoid given Justin's disc-injury history:** loaded forward flexion (weighted toe-touches, traditional sit-ups). Hip-hinge patterns are the eventual replacement, introduced only at light load.
+
+## Minimum-effective-dose workout (added 2026-05-04)
+
+When the normal workout slot gets eaten by work or life, this is the floor that preserves the streak:
+
+- **20 min of something** — bands or elliptical or both
+- One compound movement (KB squats OR pushups, not both) for 3 sets
+- Done.
+
+**Even tighter (no 20 min available):**
+- 5 min: 20 bodyweight squats + 10 pushups + 30 sec plank, repeat 2×
+- Or: walk through a status meeting
+
+**Rule:** a missed workout *day* is fine. A missed workout *week* is what the program is protecting against. If Mon–Wed gets nuked, hit Thu. If Mon–Thu disappears, do something Saturday.
+
 ## Workout rotation (4x/week — Mon–Thu)
 
 Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No dedicated session needed — movement is baked in.
@@ -58,9 +89,10 @@ Rotate these. All hit ~30–45 g protein, all are spicy-capable (bring hot sauce
 | Option | Notes |
 |---|---|
 | Turkey taco bowl | Taco-seasoned ground turkey + corn + greens + salsa + hot sauce. Skip tortilla/chips. |
-| ½ turkey sandwich + ½ can soup | Multigrain, mustard, no mayo. **Portion-dialed-down from week 1.** |
+| ½ turkey sandwich + ½ can soup | Multigrain, mustard, no mayo. **Portion-dialed-down from week 1.** Soup pick: Progresso Tomato Sausage & Lentil (~22g protein/can; lentils = plant-protein bonus) or any high-protein soup (>15g/can). |
 | Big salad + protein | Chicken or egg or tuna on greens. Light Caesar or oil+vinegar, ≤2 tbsp. |
 | Leftovers from last night's dinner | Portion = 1 adult-sized plate, not "finish the container." |
+| **Sunday burrito turkey over corn + avocado/salsa** | Confirmed weekly extension — Sun burrito filling is large enough to fuel one or two later lunches (typically Wed and/or Fri). Fast, no cooking. |
 
 **Friday is Mexican lunch with the guys.** Anchor. Don't touch.
 
@@ -83,7 +115,7 @@ Kitchen closes after the snack (or at 4 pm if you skipped) — no re-entry until
 | **Mon** | Crockpot meal. Wife self-serves at 6. | Justin eats **7 pm** after 2nd drive | Slow-cooker chili, shredded chicken, pulled pork (lean), beef stew. Veg on the side. |
 | **Tue** | Quick dinner with wife. | 6:30 | Stir-fry, pan-seared chicken, salmon. **Risk: 7:30 feeding kids → drift. Rule: serve them, do NOT plate for self.** |
 | **Wed** | Quick dinner with wife. | 6:30 | Same quick rotation. Subway for kids OR leftovers = fine (not eating out with them). |
-| **Thu** | **Real dinner.** | 6:15 | Best night for a proper meal — roast, baked salmon, stuffed peppers, etc. |
+| **Thu** | **Real dinner.** | 6:15 | Best night for a proper meal. Rotation: **Greek lemon chicken sheet pan** (every other week — see `recipes/`), pork tenderloin (air fryer) + brussels sprouts, baked salmon variant, sheet-pan chicken thighs (see `recipes/`), stuffed peppers, etc. |
 | **Fri** | Light dinner — ordered or made. | 6 | Already had Mexican + 2 beers at lunch. **Go lighter:** protein bowl, Cobb salad, grilled fish. Not pizza. |
 | **Sat** | Family dinner — cook or takeout. | Varies | Cooking preferred. Takeout fine when life says so. |
 | **Sun** | Turkey burritos (anchor). | ~7 | + 9pm ice cream date with wife = accepted IF deviation. Do not add to or expand this. |

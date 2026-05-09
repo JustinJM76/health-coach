@@ -107,9 +107,17 @@ All of it lands in `journal/YYYY-MM-DD.md`.
 - **Friday or Saturday AM:** weekly review + dinner planning for the coming week, before you shop.
 - **Every 2 weeks (first: Sun 2026-05-04):** look at the trend line, decide what to keep/drop/modify.
 
-## Binge protocol
+## Binge / comfort-food protocol — DRAFTED 2026-04-29
 
-**Open.** We'll design this together the first time you feel the urge. Leaving it open on purpose — imposed protocols tend not to fire when the moment comes. Working hypothesis for the shape: a pre-committed pause (text me first, 15-minute walk, a glass of water), plus a "damage-control" ritual if it happens anyway so a slip doesn't turn into a three-day tailspin.
+**Designed.** See `comfort-food-protocol.md`.
+
+Triggered by Day 9: post-dentist comfort-food urge that Justin successfully resisted, then volunteered the disclosure plus stated readiness to design the protocol. Triggers identified: exhaustion, financial stress, physical/emotional discomfort.
+
+The protocol's design respects the principle we set at intake: imposed protocols don't fire when the moment comes. So the structure was drafted from Justin's own articulated backup plan ("if the craving was really bad, I would have reached for the cottage cheese and waited a while before ordering a pizza"). Coach systematized; Justin owns it.
+
+Three-step cascade: (1) name the urge, (2) primer + 20 min delay, (3) controlled indulgence with damage-control if step 2 doesn't catch it. Plus exhaustion-specific and financial-stress-specific variants.
+
+Will be refined each time it fires (logged in journal entries).
 
 ## Mid-week addition (2026-04-22): weekly template design
 
@@ -157,6 +165,57 @@ Going forward: ≥1 plant-forward dinner per week, reduce chicken count, priorit
 ## Review log
 
 _(Appended after each review.)_
+
+### 2026-05-04 — First formal 2-week review (14 days in)
+
+**Numbers:**
+- Home scale start: 250.0 lb
+- 7-day trailing avg: 242.9 lb (down 4.6 lb on the trailing line over 12 days of Withings data)
+- Pace faster than 1 lb/wk target; week-1 was glycogen+water dominant. Expect slope to find a more sustainable level over weeks 3–4.
+
+**Major structural wins (Justin's words and observations):**
+- Afternoon snack appetite "completely disappeared" — confirmed structural, not white-knuckle.
+- GI improvements: less night-time gas/bloating; one consistent AM poop vs prior 2–3/day variable; clothes fitting noticeably better. All connected — gut + insulin + visceral fat all responding.
+- Estimated ~1000 cal/day swing from prior baseline (afternoon drift + pre-prep grazing + oversized lunches removed; primer + extra protein added; net deficit substantial).
+- Hard-day adherence proven 3 separate times (yard work day, patio build day, post-dentist comfort food urge).
+- Comfort-food protocol designed Day 9 from Justin's own articulated structure.
+- Wife stakeholder loop closed: chickpea request → showed up in salad → "really appreciated."
+- Sleep improving: 11:15 target hit ~50%+ weeknights, midnight-wakes resolved with 8pm water cutoff.
+
+**Justin's open feedback:**
+- Very little friction; feels great about all of it.
+- IF + primer combo works because both are decision-free.
+- Coach-supported meal planning is "significant de-stressor."
+- Wants more "why" / science alongside the "what" going forward.
+- Workout schedule unpredictable — needs minimum-effective-dose protocol for tight-work days.
+
+**Decisions / additions out of this review:**
+
+KEEP (no change): primer, cottage cheese default, apple/fruit dessert, 8pm water cutoff, Mon–Thu workout split, weekly template, family anchors, Friday flex pattern.
+
+MODIFY (small):
+- Push protein consistently to 150–180 g/day target by eating full dinner protein, adding HB egg to lunches, etc.
+- Plant-forward dinners ≥1/week (chickpeas in Thursday salad was v1).
+- Add **post-workout stretching protocol** (Phase 1: 5 stretches, ~5–7 min, Mon/Tue/Thu). Phase 2 (weeks 3–4): Sat/Sun mobility session. Phase 3 later: one weekly gentle yoga.
+- Add **minimum-effective-dose workout fallback** (20 min something) for unpredictable work days.
+
+EXPLORE / FILE:
+- Wheat sensitivity hypothesis (still single data point + confounders; await second correlation).
+- Comfort-food protocol stress-testing (will know when it fires in anger).
+- Recipe rotation expansion (target: 5 saved recipes by next review).
+
+DEFER:
+- 35 lb KB upgrade (bands not yet maxed).
+- Saturday alcohol dose experiment (revisit only if trend stalls).
+- Calorie counting (not needed; counterproductive).
+
+NEW:
+- **Diet soda** declared as a managed craving (not active habit). Coach offered sparkling water swap + restaurant default (soda water + lime).
+- **Hydration:** Justin self-aware that natural thirst is low. Voluntary tracking continues; environmental cues (desk water bottle, water-before-coffee anchor).
+- **Coaching style addition:** include brief mechanism ("the why") with recommendations going forward. Not constant; at decision points.
+- **Avocado position:** good food, not magic; fine as topping (¼–½ avo on a salad/wrap), not as snack-as-meal substitute (240 cal, 3g protein — wrong density for the goal).
+
+**Next review: Sunday 2026-05-18** (2 more weeks).
 
 ### 2026-04-25 — Mid-week informal review (5 days in)
 

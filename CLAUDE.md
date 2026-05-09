@@ -25,6 +25,9 @@ Lose weight sustainably: **250 lb → 220 lb** (set 2026-04-21).
 - `profile.md` — static profile info (demographics, labs, history, preferences); update as we learn.
 - `plan.md` — current intervention plan + what's working.
 - `weekly-template.md` — the operational Mon–Sun template (workouts, meals, anchors, rules). **The day-to-day source of truth.**
+- `comfort-food-protocol.md` — what runs when Justin feels a comfort-food / binge urge. Designed with Justin on Day 9.
+- `recipes/` — saved recipes with iteration notes.
+- `references/` — curated reading list and other reference material.
 - `journal/YYYY-MM-DD.md` — one file per daily check-in.
 - `conversation-history/` — chronological summaries of past coaching sessions (for context recovery if conversation is lost).
 - `measurements.csv` — Withings scale export (weight, body composition). Body-comp readings are NOT trustworthy on this scale; weight only.
