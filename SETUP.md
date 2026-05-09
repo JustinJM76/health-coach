@@ -4,16 +4,16 @@ This project tracks Justin's coaching program. The bulk of it is plain markdown 
 
 ## Repository contents (what gets committed)
 
-- All `.md` files (`CLAUDE.md`, `plan.md`, `profile.md`, `weekly-template.md`, `journal/*.md`, `conversation-history/*.md`, this file)
-- `withings_sync.py`
-- `measurements.csv` (the synced weight log — not secret, useful to have committed)
-- `lab-results/` (your bloodwork PDFs — these contain PHI, your call whether to commit)
+- All `.md` files (top-level `CLAUDE.md`, `README.md`, this file, plus all `.md` files under `justin/`, `larissa/`, `household/`)
+- `justin/withings_sync.py` — Justin's Withings OAuth sync
+- `justin/measurements.csv` — synced weight log (not secret; useful to have committed)
+- `justin/lab-results/` — your bloodwork PDFs (PHI; your call whether to commit)
 - `.gitignore`
 
 ## NEVER committed (in .gitignore)
 
-- `.env` — Withings client ID and secret
-- `tokens.json` — OAuth access + refresh tokens
+- `.env` (and `.env.local`) — Withings client ID and secret. Lives at `justin/.env`. The gitignore pattern matches `.env` anywhere in the tree.
+- `tokens.json` — OAuth access + refresh tokens. **Currently NOT in .gitignore by Justin's choice** so the cloud bootstrap path works. If that changes, re-add the line.
 - `.DS_Store`, `__pycache__/`, etc.
 
 ## Migrating to a private GitHub repo
@@ -41,12 +41,11 @@ git push -u origin main
 ### Step 2 — Verify nothing leaked
 
 After pushing, browse the repo on github.com and confirm:
-- No `.env` file visible
-- No `tokens.json` visible
-- `measurements.csv` is there (this is fine — it's your weight log, not a credential)
-- `lab-results/` PDFs — confirm these are intentional (they contain PHI)
+- No `.env` file visible (anywhere — should be gitignored from any directory)
+- `justin/measurements.csv` is there (this is fine — it's your weight log, not a credential)
+- `justin/lab-results/` PDFs — confirm these are intentional (they contain PHI)
 
-If you accidentally committed `.env` or `tokens.json`: those credentials are now compromised. Rotate them immediately — regenerate the Withings client secret on the Withings developer portal, then redo the OAuth dance.
+If you accidentally committed `.env`: that credential is now compromised. Rotate it immediately — regenerate the Withings client secret on the Withings developer portal, then redo the OAuth dance.
 
 ## Running from the cloud (Claude Code in a remote dev environment)
 
@@ -69,7 +68,7 @@ The Withings credentials need to be available as environment variables to the cl
 4. Once the Codespace boots, secrets are available as env vars automatically. Test:
    ```bash
    echo $WITHINGS_CLIENT_ID    # should print your client ID
-   python withings_sync.py     # should run; first run needs OAuth (see "First-run OAuth" below)
+   python justin/withings_sync.py     # should run; first run needs OAuth (see "First-run OAuth" below)
    ```
 5. `tokens.json` will be written into the Codespace's persistent workspace volume. It survives across Codespace stop/start cycles for the same Codespace, but is NOT pushed to git (it's gitignored).
 
@@ -97,12 +96,12 @@ jobs:
           WITHINGS_SECRET: ${{ secrets.WITHINGS_SECRET }}
           WITHINGS_CALLBACK_URL: ${{ secrets.WITHINGS_CALLBACK_URL }}
           WITHINGS_API_ENDPOINT: ${{ secrets.WITHINGS_API_ENDPOINT }}
-        run: python withings_sync.py
+        run: python justin/withings_sync.py
       - name: Commit measurements
         run: |
           git config user.name "withings-bot"
           git config user.email "actions@github.com"
-          git add measurements.csv
+          git add justin/measurements.csv
           git diff --staged --quiet || git commit -m "sync: $(date -u +%F)"
           git push
 ```
@@ -118,7 +117,7 @@ Simplest fallback. Keep doing what you're doing on your laptop. The CSV gets pus
 The OAuth flow needs a browser to authorize, which is awkward in a headless cloud environment. Two clean approaches:
 
 1. **Do the OAuth dance locally first**, then upload `tokens.json` to the cloud as a one-time bootstrap:
-   - Run `python withings_sync.py` locally → completes browser auth → writes `tokens.json`
+   - Run `python justin/withings_sync.py` locally → completes browser auth → writes `tokens.json`
    - Copy the `tokens.json` contents into a Codespace secret, e.g. `WITHINGS_TOKENS_JSON`
    - On the cloud, write a tiny startup step: `echo "$WITHINGS_TOKENS_JSON" > tokens.json` before running the sync
    - From there, the script auto-refreshes the token silently
@@ -137,7 +136,7 @@ Practical recommendation: do (1) once. Refresh tokens are durable; you should ra
 - [ ] Browse repo on github.com, confirm no secrets leaked
 - [ ] In repo Settings → Secrets → Codespaces, add the 4 Withings vars
 - [ ] (Optional) Add `WITHINGS_TOKENS_JSON` secret containing the JSON contents of your local `tokens.json`
-- [ ] Spin up a Codespace, run `python withings_sync.py`, confirm it pulls measurements
+- [ ] Spin up a Codespace, run `python justin/withings_sync.py`, confirm it pulls measurements
 
 ## When in doubt
 

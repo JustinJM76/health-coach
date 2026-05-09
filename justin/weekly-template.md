@@ -115,7 +115,7 @@ Kitchen closes after the snack (or at 4 pm if you skipped) — no re-entry until
 | **Mon** | Crockpot meal. Wife self-serves at 6. | Justin eats **7 pm** after 2nd drive | Slow-cooker chili, shredded chicken, pulled pork (lean), beef stew. Veg on the side. |
 | **Tue** | Quick dinner with wife. | 6:30 | Stir-fry, pan-seared chicken, salmon. **Risk: 7:30 feeding kids → drift. Rule: serve them, do NOT plate for self.** |
 | **Wed** | Quick dinner with wife. | 6:30 | Same quick rotation. Subway for kids OR leftovers = fine (not eating out with them). |
-| **Thu** | **Real dinner.** | 6:15 | Best night for a proper meal. Rotation: **Greek lemon chicken sheet pan** (every other week — see `recipes/`), pork tenderloin (air fryer) + brussels sprouts, baked salmon variant, sheet-pan chicken thighs (see `recipes/`), stuffed peppers, etc. |
+| **Thu** | **Real dinner.** | 6:15 | Best night for a proper meal. Rotation: **Greek lemon chicken sheet pan** (every other week — see `../household/recipes/`), pork tenderloin (air fryer) + brussels sprouts, baked salmon variant, sheet-pan chicken thighs, etc. |
 | **Fri** | Light dinner — ordered or made. | 6 | Already had Mexican + 2 beers at lunch. **Go lighter:** protein bowl, Cobb salad, grilled fish. Not pizza. |
 | **Sat** | Family dinner — cook or takeout. | Varies | Cooking preferred. Takeout fine when life says so. |
 | **Sun** | Turkey burritos (anchor). | ~7 | + 9pm ice cream date with wife = accepted IF deviation. Do not add to or expand this. |
