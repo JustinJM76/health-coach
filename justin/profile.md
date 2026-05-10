@@ -149,7 +149,7 @@ _Last updated: 2026-04-25_
 - **Primer slot:**
   - ✓ Cottage cheese (2 × 4 oz cups + diced strawberries) — *loves it*, lock in as default
   - ✓ 2 hard-boiled eggs + Frank's Red Hot — works
-  - ◯ Greek yogurt — untested
+  - ✓ Greek yogurt — uses **Fage 5% (full-fat)** specifically, not lower-fat versions. Justin reports it more appetizing and filling. Coach concurs: fat slows gastric emptying + triggers CCK satiety; dairy fat does not carry the same cardiovascular risk as other saturated-fat sources (recent meta-analyses neutral-to-protective). Used 2–3x/week as rotation; calorie premium offset by satiety gain.
 - **Lunch slot — confirmed working:**
   - ½ turkey sandwich (multigrain, mustard only) + ½ can soup (Progresso chicken & sausage gumbo) — *slightly too much food given primer*, consider portion dial-down
   - Turkey taco bowl (taco-seasoned ground turkey + corn + greens + salsa/avo)

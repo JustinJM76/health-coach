@@ -1,59 +1,81 @@
 # Larissa — health profile
 
-_Created 2026-05-09. Starter file with coach-side observations from Justin's program. **All items marked TBC are to be confirmed during intake** — they are working hypotheses, not facts._
+_Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Update opportunistically as the program evolves._
 
 ## Demographics
-- _TBC: age, height, current weight (if she wants to track)_
 - Wife of Justin (49M); mother of 2 athletically active teen daughters
+- _Open: age, height, current weight (not tracked at home; she has not committed to scale tracking — TBD if she wants to)_
 
 ## Goals
-- TBC (Justin reported she's interested in shedding "a few pounds"; specific target unconfirmed)
-- TBC: timeline preference, sustainability priorities, what she's tried before
+- **Primary stated goal: lose ~5 lb** (modest, specific, sustainable framing — not a crash project)
+- **Bigger frame: eat and move well through perimenopause** — weight loss is one signal among several; energy and physical fitness equally weighted
+- **Protein curiosity:** wants guidance on how to add more protein paired with weight loss — already started by adding Greek yogurt to morning oatmeal
+- **6-month vision of success:** lost some of the weight, feels energetic, feels physically fit
 
 ## Medical / vitals
-- TBC: last physical date + lab results
-- TBC: medications, conditions, allergies
-- TBC: relevant injury history
+- **Last bloodwork:** 2025-11-07 (file in `lab-results/bloodwork-20251107.md`). Read summary:
+  - **Generally healthy:** A1C 5.5, fasting glucose 92, kidney + liver panels normal, CBC normal (no anemia), TSH 2.08 (thyroid in range)
+  - **Borderline-high lipids:** Total cholesterol 234, LDL 154 (HDL 59 and triglycerides 104 are good). Estrogen decline in peri tends to push LDL up; lifestyle levers (fiber, plant protein, strength work, less ultra-processed carbs) are the same levers we'd use for the broader goals.
+  - **Gaps worth requesting at next visit:** ferritin (iron stores — common fatigue driver in cycling/peri women), vitamin D (25-OH), B12. Could meaningfully narrow the fatigue investigation.
+- **Perimenopause:** confirmed self-identified stage. Recent night hot flashes contributing to sleep fragmentation (see Daily rhythm).
+- _Open: medications, conditions, allergies, injury history (not yet asked / volunteered)_
 
 ## Daily rhythm
-- **Eating window:** Does NOT do intermittent fasting (eats breakfast) — TBC specifics
-- **Mornings:** Has been adding Greek yogurt to oatmeal (recent protein-focused move) — TBC current breakfast pattern
-- **Work:** Works outside the home — TBC schedule, type, food environment
-- **Household:** coordinates kids' activities with Justin; cooks some/none family meals (TBC division)
-- **Sleep:** TBC
+
+**Eating window:** does NOT do intermittent fasting; eats breakfast.
+- Mornings: oatmeal + Greek yogurt (recent protein-forward move)
+- _Open: typical lunch, snacks, dinner specifics from her side (dinner is per family meal plan)_
+
+**Work:** Mon–Fri, primarily desk-based. Standing desk used ~1 hr/day with intentional ankle/calf work (relevés, calf pumps, raise/lower). Stairs once weekly each direction (down then up, 7th floor). Otherwise mostly seated.
+
+**Sleep:**
+- Bedtime: 10:00–10:30 pm
+- Sleep latency: 0–30 min
+- Weekday wake: 5:45 am (rests in bed → up around 6:15 am) → roughly 7.25–7.75 hrs
+- Weekend: variable — one day sleeping in to ~8:00–8:30 am (rest till ~9:00), the other up around 8:00 am
+- Mostly restful, BUT recent uptick in **night wakings** — dreams or **night hot flashes**. Falls back asleep within ~10 min.
+
+**Household:** coordinates kids' activities with Justin. Justin owns family dinner infrastructure (planning, shopping, cooking) — Larissa is a stakeholder.
 
 ## Eating preferences
-- **Plant-protein preference confirmed via Justin's program:** actively requested chickpeas, lentils, etc. in family meals; appreciated chickpeas added to Greek salad
-- **Leftovers for work lunches** — values cook-once-eat-twice planning
-- TBC: typical breakfast, lunch, snacks, dinner
-- TBC: dislikes, allergies, sensitivities
+- **Plant-protein preference (confirmed):** chickpeas, lentils, etc. — actively requests in family meals; appreciated the chickpea addition to Greek salad
+- **Leftovers for work lunches (confirmed):** values cook-once-eat-twice planning. Lunch + breakfast are *her zone* (handled independently from family dinner plan).
+- **Recent change:** Greek yogurt added to morning oatmeal as a protein move
+- _Open: typical lunch composition, snack patterns, dislikes/sensitivities beyond what's listed_
 
 ## Family meals (Justin-owned infrastructure)
-- **Justin plans, shops, and cooks family dinners.** Larissa is a stakeholder, not a co-planner.
-- Family dinners across the week are in `../household/meal-plan-current.md`. Larissa can flag preferences/dislikes via `../household/shared-notes.md` or directly to Justin.
-- Sunday burrito night (family anchor)
-- Saturday family dinner (sometimes home, sometimes takeout)
-- Larissa's **lunches and breakfasts are her zone** — handled independently, often leftovers to work.
+- Justin plans, shops, and cooks family dinners. Larissa is a stakeholder, not a co-planner.
+- Family dinners across the week: see `../household/meal-plan-current.md`. Larissa can flag preferences via `../household/shared-notes.md` or directly to Justin.
+- Sunday burrito night (family anchor); Saturday family dinner; Sunday 9pm date-night ice cream with Justin.
+- Larissa's lunches and breakfasts are her zone — handled independently, often leftovers to work.
 
-## Exercise
-- TBC: current activity level, types of movement, preferences, joint or back issues
+## Exercise (current baseline — solid for a desk-job week, gap noted)
+- **Sun:** minimal physical activity
+- **Mon:** 45 min lyrical dance class
+- **Tue:** 25 min elliptical
+- **Wed:** 25 min elliptical
+- **Thu:** 45 min jazz dance class (more aerobic)
+- **Fri:** typically no exercise (tired from the week)
+- **Sat:** no scheduled physical activity
+- Workday: mostly sitting; standing desk ~1 hr/day with deliberate calf/ankle work; stairs once/week each direction
+- **Notable gap:** no formal resistance / strength training. Flagged as a future thread — high-leverage for perimenopause (muscle preservation, bone density, glucose regulation, body composition during weight loss). Justin's home gym (20 lb kettlebell, Bodylastics resistance bands) is a potential resource. Not pushed in session 1.
 
 ## Patterns / history
-- TBC: prior diet/exercise programs, what worked, what didn't, where things stalled
+- Past energy levels were consistently high; the recent fatigue is a noticeable change to her — *not her baseline.*
+- _Open: prior diet/exercise programs, what worked, what didn't, where things stalled_
+
+## Active investigations / hypotheses
+- **Fatigue (started a few months ago, ~2x/week, not every week):** working hypothesis is sleep fragmentation from night hot flashes. Pattern of fatigue cadence (intermittent, not every week) matches typical hot-flash clustering. Labs ruled out the obvious physiological alternatives. **Larissa is keeping informal notes for the next 1–2 weeks** on whether tired days line up with hot-flash nights. If yes → intervention shifts toward sleep/cooling. If no → widen the search.
 
 ## Coaching preferences
-- TBC: preferred cadence (daily? weekly?)
-- TBC: preferred tone/style
-- TBC: interest in science/mechanism (Justin is a "science nerd"; Larissa may differ)
-- TBC: tracking tolerance (Justin's program is built against tracking burnout; her tolerance may differ)
+- **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
+- **Style:** appreciates substance + reasoning paired with practical takeaways; responsive to a "here's what I noticed, here's a hypothesis to test" frame
+- _Open: degree of mechanism/science detail preference (further calibration as we go)_
+- _Open: tracking tolerance — no scale at home yet, no food log; will revisit if/when relevant_
 
-## Open items for intake
-- All "TBC" items above
-- Specific weight-loss target (if any)
-- Whether to add a Withings scale or other tracking
-- Whether/how to use the cross-session notes channel
-- Privacy preferences (what shared, what kept individual)
-
----
-
-_The first coaching session in this folder is intake. Confirm/correct/expand this profile in collaboration with Larissa. Do not assume any "TBC" item is true until she confirms it._
+## Open items / future threads
+- Ferritin / Vit D / B12 at next physician visit
+- Resistance training conversation (separate, dedicated exchange)
+- Protein-pairing-with-weight-loss guidance (specifics to come; she's curious and primed)
+- Whether to add weight tracking
+- Specifics on lunches/snacks (not pushed in session 1)
