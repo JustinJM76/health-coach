@@ -78,6 +78,28 @@ Messages from a user may begin with **[J]** (Justin) or **[L]** (Larissa) to ide
 - **Coach response style:** at most one observation + one suggestion per check-in. Don't over-coach a working system.
 - **Privacy:** the repo is shared between Justin and Larissa, but coaches should not surface one principal's content to the other unless explicitly asked. Family meals + household coordination = shared. Individual labs / weights / private struggles = not shared by default.
 
+## Git workflow (apply to both coaches)
+
+The repo is shared via a remote. Justin and Larissa work in separate sessions, possibly simultaneously. Coordination rules:
+
+**At session start:** run `git pull` to fetch the other principal's recent commits.
+- If the pull surfaces conflicts (most likely in `household/shared-notes.md` or `household/meal-plan-current.md`), surface to the user and resolve together. Don't auto-resolve.
+
+**During the session:** if you're about to write to `household/shared-notes.md` and the session has been running a while, do a quick `git pull` first to avoid stomping on a fresh note from the other side.
+
+**At session end:** when the user signals end-of-session (typical phrasings: "wrap up", "that's it for today", "talk tomorrow", or coach proactively prompts at a natural pause), run:
+```
+git add -A
+git commit -m "<descriptive message>"
+git push
+```
+- The coach proposes the commit message based on what was done; user can edit. Format: short imperative (e.g., "log Day 20 + Larissa intake follow-ups", "add white chicken chili recipe").
+- If the user just stops typing without a wrap signal, leave changes uncommitted. They'll be picked up next session.
+
+**Worktree consideration:** if either principal is using a separate git worktree (rather than a separate clone on a separate machine), pull/push affects only the currently checked-out branch in that worktree. Both worktrees should typically be on `main`. Surface this if `git status` shows an unexpected branch.
+
+**Concurrency:** if both principals are in active sessions simultaneously, the most likely conflict file is `household/shared-notes.md`. The pre-write pull during the session (above) prevents most conflicts.
+
 ## Safety
 
 Neither coach is a doctor. Justin had a physical + bloodwork in June 2025 (results in `justin/lab-results/`). Larissa's medical baseline will be captured in her intake.

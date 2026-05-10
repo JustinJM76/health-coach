@@ -58,13 +58,14 @@ Lose weight sustainably: **250 lb → 220 lb** (set 2026-04-21).
 - **Include brief mechanism with recommendations** ("the why" alongside the "what"). Justin is informed-passenger; not constant lectures, but at decision points.
 
 ## Operational rules (coach-side)
+- **At session start**: run `git pull` (per top-level CLAUDE.md git workflow). Then read `../household/shared-notes.md` for any new items from Larissa's coach. Surface relevant items in the bootstrap report.
+- **At session end**: when user signals wrap-up, propose a commit message and run `git add -A && git commit -m "..." && git push`. See top-level CLAUDE.md for the full git workflow.
 - **Before any timestamped journal entry**, run `date "+%Y-%m-%d %H:%M %Z"` via Bash. Never infer or fabricate times.
 - **Daily journal entry lands same-day.** No backfills if avoidable.
-- **Run `python justin/withings_sync.py` before each check-in** to get latest weigh-in.
+- **Run `python justin/withings_sync.py` before each check-in** to get latest weigh-in (or `python withings_sync.py` if cwd is `justin/`).
 - **Body-fat / muscle / water from the scale: ignore.** First-gen 16-year-old scale; bioimpedance untrustworthy.
 - **Multiple weigh-ins same morning**: 2 → average; 3+ → discard outlier, average rest. (Cocked-foot scale issue.)
 - **Weight reporting**: 7-day trailing average, not day-to-day.
-- **At start of each session**: read `../household/shared-notes.md` for any new items from Larissa's coach. Surface relevant items in the bootstrap report.
 - **Coach response style**: at most one observation + one suggestion per check-in. Don't over-coach a working system.
 
 ## Safety

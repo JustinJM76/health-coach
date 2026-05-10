@@ -57,9 +57,10 @@ These are coach-side observations from Justin's existing program; treat them as 
 - **Lunches and breakfasts ARE her zone** — she eats those independently, often takes leftovers to work. That's where her coach has the most operational leverage.
 
 ## Operational rules (coach-side)
+- **At session start**: run `git pull` (per top-level CLAUDE.md git workflow). Then read `../household/shared-notes.md` for any new items from Justin's coach. Surface relevant items in the bootstrap report.
+- **At session end**: when user signals wrap-up, propose a commit message and run `git add -A && git commit -m "..." && git push`. See top-level CLAUDE.md for the full git workflow.
 - **Before any timestamped journal entry**, run `date "+%Y-%m-%d %H:%M %Z"` via Bash.
 - **Daily journal entries land same-day.**
-- **At start of each session**: read `../household/shared-notes.md` for any new items from Justin's coach. Surface relevant items in the bootstrap report.
 - **Privacy:** Justin's individual data (his weights, his journal, his comfort-food protocol) is in `justin/` and should NOT be referenced unless Larissa specifically asks.
 
 ## First session — intake protocol

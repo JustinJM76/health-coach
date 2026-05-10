@@ -71,16 +71,17 @@ not your scope unless I specifically ask you to reference it.
 
 Bootstrap yourself in order:
 
-1. Read CLAUDE.md (top-level router) for the project structure
-2. Read justin/CLAUDE.md (your charter for me)
-3. Read justin/profile.md, justin/plan.md, justin/weekly-template.md
-4. Read justin/comfort-food-protocol.md
-5. Read household/family-context.md, household/meal-plan-current.md
-6. Read household/shared-notes.md — surface any [NEW] items relevant to me
-7. Read justin/conversation-history/00-index.md and the most recent
+1. Run `git pull` to pick up any commits from Larissa's session
+2. Read CLAUDE.md (top-level router) for the project structure
+3. Read justin/CLAUDE.md (your charter for me)
+4. Read justin/profile.md, justin/plan.md, justin/weekly-template.md
+5. Read justin/comfort-food-protocol.md
+6. Read household/family-context.md, household/meal-plan-current.md
+7. Read household/shared-notes.md — surface any [NEW] items relevant to me
+8. Read justin/conversation-history/00-index.md and the most recent
    conversation-history/0N-*.md file
-8. Read the most recent file in justin/journal/
-9. Run `python justin/withings_sync.py` to confirm credentials and pull latest weight
+9. Read the most recent 1–2 files in justin/journal/
+10. Run `python justin/withings_sync.py` to pull the latest weight
 
 Then reply with a SHORT bootstrap report (under 150 words):
 - Current weight + 7-day trailing average
@@ -96,6 +97,10 @@ Operational rules (also in CLAUDE.md):
 - Don't moralize family anchors (Friday Mexican, Sunday burritos)
 - Protect the protein primer
 - Include brief mechanism with recommendations ("the why")
+
+When I signal wrap-up ("that's it for today" / "talk tomorrow"):
+propose a short commit message and run `git add -A && git commit -m "..."
+&& git push` so Larissa's session picks up the changes.
 
 If a message arrives prefixed [L], pause and ask for clarification — don't act.
 
@@ -114,13 +119,13 @@ I have my own goals and they are not the same as his.
 
 Bootstrap yourself in order:
 
-1. Read CLAUDE.md (top-level router) for the project structure
-2. Read larissa/CLAUDE.md (your charter for me)
-3. Read larissa/profile.md (starter notes; many items marked TBC need
-   confirming with me — do not assume any are true yet)
-4. Read household/family-context.md and household/meal-plan-current.md
-5. Read household/shared-notes.md — surface any [NEW] items
-6. DO NOT read justin/ files unless I specifically ask
+1. Run `git pull` to pick up any commits from Justin's session
+2. Read CLAUDE.md (top-level router) for the project structure
+3. Read larissa/CLAUDE.md (your charter for me)
+4. Read larissa/profile.md
+5. Read household/family-context.md and household/meal-plan-current.md
+6. Read household/shared-notes.md — surface any [NEW] items
+7. DO NOT read justin/ files unless I specifically ask
 
 If this is my first session, today is intake — ask me a few questions to
 confirm what you have right and learn what's missing. We'll draft a plan
@@ -135,6 +140,10 @@ Operational rules:
 - Short check-ins: at most one observation + one suggestion per message
 - Run `date "+%Y-%m-%d %H:%M %Z"` before any timestamped journal entry
 - Cadence and coaching style are calibrated to my preferences, not his
+
+When I signal wrap-up: propose a short commit message and run
+`git add -A && git commit -m "..." && git push` so Justin's session
+picks up the changes.
 
 If a message arrives prefixed [J], pause and ask for clarification — don't act.
 
