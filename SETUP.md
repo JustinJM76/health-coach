@@ -141,3 +141,82 @@ Practical recommendation: do (1) once. Refresh tokens are durable; you should ra
 ## When in doubt
 
 If anything looks like it might leak a secret (a file unexpectedly staged, a script printing tokens), STOP and ask. It's much easier to not commit a secret than to clean one up after the fact.
+
+## Pi home-server setup — always-on coach sessions (May 2026)
+
+The Pi runs two persistent Claude Code Remote Control sessions (one per coach) as systemd user services. They're reachable from the Claude desktop and iOS apps under the names `Health Coach - Justin` and `Health Coach - Larissa`. Conversation context survives reboots via UUID-pinned local sessions.
+
+**Files (NOT in repo — live on the Pi only):**
+
+`~/.local/bin/coach-remote-control` (chmod +x):
+```bash
+#!/bin/bash
+# First run: --session-id (creates). Subsequent: --resume (preserves history).
+set -euo pipefail
+[[ $# -eq 2 ]] || { echo "Usage: $0 <uuid> <name>" >&2; exit 64; }
+UUID="$1"; NAME="$2"
+CLAUDE_BIN="${CLAUDE_BIN:-/home/justin/.local/bin/claude}"
+SESSION_FILE="$HOME/.claude/projects/$(pwd | sed 's|/|-|g')/${UUID}.jsonl"
+if [[ -f "$SESSION_FILE" ]]; then
+    exec "$CLAUDE_BIN" --dangerously-skip-permissions --resume "$UUID" --remote-control "$NAME"
+else
+    exec "$CLAUDE_BIN" --dangerously-skip-permissions --session-id "$UUID" --remote-control "$NAME"
+fi
+```
+
+`~/.config/systemd/user/claude-justin.service` (Larissa's is identical, swap dir/UUID/name):
+```ini
+[Unit]
+Description=Claude Code Remote Control - Justin's coach
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/home/justin/health-coach/justin
+Environment=TERM=xterm-256color
+ExecStart=/usr/bin/script -qfc "/home/justin/.local/bin/coach-remote-control <UUID> 'Health Coach - Justin'" /dev/null
+Restart=always
+RestartSec=10
+StandardInput=null
+
+[Install]
+WantedBy=default.target
+```
+
+**Pinned UUIDs (current Pi):**
+- Justin: `d5f7e107-6f15-42d9-8cac-29b38f69f9a7`
+- Larissa: `6a71ec10-95f3-4b22-a02b-15a3db59b3ab`
+
+Fresh installs should generate new ones: `cat /proc/sys/kernel/random/uuid`.
+
+**Why each piece:**
+- `script -qfc ... /dev/null` — Claude refuses interactive mode without a TTY; `script` allocates one.
+- Stable UUID + wrapper — Remote Control URL rotates per restart, but the local `<uuid>.jsonl` is the actual conversation transcript. Pinning the UUID and using `--resume` after first start preserves history.
+- `--dangerously-skip-permissions` — no permission prompts when driving from phone. Trade-off accepted; sessions are scoped to their own coach directories.
+
+**One-time enable:**
+```bash
+mkdir -p ~/.config/systemd/user
+# write the two .service files and the wrapper
+chmod +x ~/.local/bin/coach-remote-control
+systemctl --user daemon-reload
+systemctl --user enable --now claude-justin.service claude-larissa.service
+sudo loginctl enable-linger justin   # so services start at boot without a login
+```
+
+**Verify:** `systemctl --user is-active claude-justin claude-larissa` → both `active`. Sessions appear in claude.ai/code by name within ~10 seconds.
+
+**Logs (ANSI-stripped):**
+```bash
+journalctl _SYSTEMD_USER_UNIT=claude-justin.service -f --all -o cat | sed 's/\x1b\[[0-9;]*[mGKHJABCDsu]//g'
+```
+
+**Reset a coach session (lose history):**
+```bash
+systemctl --user stop claude-justin
+rm ~/.claude/projects/-home-justin-health-coach-justin/*.jsonl
+systemctl --user start claude-justin
+```
+
+**Known limitation:** every service restart leaks one Remote Control entry into the desktop/iOS app session list. No cleanup tooling ships as of May 2026 (Anthropic issues #50884, #50496). Pick the active entry by name; ignore the duplicates.
