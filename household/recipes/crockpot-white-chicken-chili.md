@@ -75,5 +75,8 @@ Justin's bowl: ~30g protein, ~350 cal, satisfying. The beans + chicken combo car
 
 ## Iteration notes
 
-### v1 — 2026-05-13 (planned)
-_To be filled in after cooking — what worked, what to change, family reception, Justin's spice calibration._
+### v1 — 2026-05-13 (cooked)
+- **Family hit.** Stays in rotation.
+- **Flavors:** great — no seasoning adjustments needed.
+- **Texture:** slightly thin. **For next time: bump solids — more chicken (try 2 lb), more onion (try 1 large or 2 medium), more corn (try 1.5 cups).** Same liquid amount, denser pot.
+- Alternative thickening lever if needed: mash more of the beans against the crockpot wall in the last 30 min (already noted in method), or add a second can of beans.

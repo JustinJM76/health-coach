@@ -71,9 +71,17 @@ When the normal workout slot gets eaten by work or life, this is the floor that 
 
 Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No dedicated session needed — movement is baked in.
 
+### Standard warmup (before every session)
+
+- Band pull-aparts 2×15 (rear delt / upper back activation; postural balance for push days)
+- Arm circles, each direction (shoulder mobility for pushups + presses)
+- Bodyweight squats × 10 (hip/knee prep before KB squats — joint-constraint friendly)
+
+### Rotation
+
 | Day | Session | Notes |
 |---|---|---|
-| **Mon** | Lower + Push — KB squats 3×10 @ 20 lb, pushups 3×10, glute bridges 3×10, 20 min elliptical | Original circuit |
+| **Mon** | Lower + Push + Core — KB squats 3×10 @ 20 lb, pushups 3×10, glute bridges 3×10, **dead bug 3×8/side**, 20 min elliptical | Core slot added 2026-05-18 for parity with Tue/Thu (4 strength moves). Dead bug = anti-extension brace; pairs with KB squat bracing. Rotate within the core slot in later weeks if appropriate (bird dog, Pallof variations, hollow holds — all disc-friendly). |
 | **Tue** | Upper Pull + Core — band row 3×12, lat pulldown 3×12, chest press 3×12, Pallof press 3×10/side, 15 min elliptical | Bands. Dial resistance up from day 1. |
 | **Wed** | Cardio + light mobility — 25 min elliptical + band pull-aparts 2×15 + stretching | Meeting day; keep it short and low-load. Workout shifts to ~1:15–1:45pm after the 12–1 meeting. |
 | **Thu** | Full body — KB squats 3×8, band rows 3×10, pushups 3×10, band chest press 3×10, 15 min elliptical | Heaviest session of the week |

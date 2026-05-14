@@ -10,7 +10,7 @@ _Lunches and breakfasts for each principal are individual and not tracked here._
 |---|---|---|
 | **Sat 5/9 (tonight)** | Turkey burritos (shifted from Sun) | Family anchor moved up because Sunday is Mother's Day. |
 | **Sun 5/10 (Mother's Day)** | Steamed lobster + asparagus + corn + green salad + small potatoes + crusty bread | MIL coming over. Larissa's day. |
-| **Mon 5/11** | Leftover pulled chicken | Over greens or on a bun. |
+| **Mon 5/11** | Rotisserie chicken (store-bought) | Original plan was leftover pulled chicken — finished Sun lunch. Over greens or on a bun. |
 | **Tue 5/12** | Stir-fry — frozen shrimp + bagged veg + small rice | Quick, ~20 min. |
 | **Wed 5/13** | NEW crockpot: White chicken chili (recipe in `recipes/`) | Set in AM. |
 | **Thu 5/14** *(D2 chorus 5:30)* | Salmon + roasted broccoli + small rice (air fryer) | Done eating by 7:15 to handle drive. |
