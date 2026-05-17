@@ -13,7 +13,8 @@ Rotations are **within** a slot, not across. Primer is always "primer slot" — 
 | Time | Block |
 |---|---|
 | 6:45–7:00 | Out of bed. 12 oz water immediately. |
-| 7:00–8:00 | Kids/wife/cats. Coffee + book/news. |
+| 7:00–7:15 | **AM 10-min walk** (added 2026-05-17) — outdoor, weather permitting. Primary lever: morning sunlight exposure (biggest circadian-rhythm regulator we have); secondary: gentle movement transition from sleep to work. Stretching (5 min mobility) as bad-weather fallback. |
+| 7:15–8:00 | Kids/wife/cats. Coffee + book/news. |
 | 8:00–12:00 | Work block 1. Standing 11:30–12 meeting. |
 | 12:30–1:00 | **Workout** (see rotation below). Wed shifts later. Fri rest. |
 | ~1:00 | **Kitchen entry rule: primer first.** Before any prep, eat the primer. |
@@ -35,6 +36,20 @@ Rotate freely based on what's in the fridge:
 | 1 cup Greek yogurt (plain or low-sugar) | ~20 g | Hot sauce not recommended here |
 
 Friday: no primer (Mexican lunch is the anchor).
+
+## Hydration anchors (added 2026-05-14, formalized 2026-05-17)
+
+Anchor-based, not ounce-tracked. Reporting is yes/no per anchor at check-ins.
+
+| Anchor | Pour | Notes |
+|---|---|---|
+| On rising | 12 oz water | Already in daily anchor table |
+| With primer (~1pm) | 1 glass (~12–16 oz) | Skip on Friday (no primer) |
+| With lunch | 1 glass | |
+| Start of afternoon work block (~2pm) | 1 glass | The slot most likely to be missed |
+| With dinner | 1 glass | |
+
+Why structural (not thirst-driven): Justin's natural thirst runs low. Mild dehydration masquerades as afternoon hunger and degrades workout perception. Hot/active days or alcohol days: front-load, don't catch up. Coach surfaces hydration at check-ins periodically per Justin's request.
 
 ## Stretching / mobility (added 2026-05-04)
 
@@ -167,7 +182,15 @@ Before writing any timestamped entry in `journal/YYYY-MM-DD.md`, run `date "+%Y-
   - **2 readings:** average them.
   - **3+ readings:** discard outlier(s), average the rest. Justin re-weighs to resolve disagreement.
 - **Body-fat / muscle / water readings:** **ignore entirely.** Scale is ~16 years old, first-gen bioimpedance; the numbers are not trustworthy. Weight is the only signal worth logging from this scale.
-- **Future measurements to consider** (when Justin is ready — don't push):
-  - **Waist circumference** (tape measure, weekly) — strongly correlated with visceral fat; meaningful health signal; cheap. Most likely first add.
+- **Waist circumference (added 2026-05-17):**
+  - **Cadence:** weekly, Saturday AM fasted (same rhythm as weigh-in + grocery shop).
+  - **Location:** natural waist — midway between bottom of lowest rib and top of iliac crest. NOT belly button (location shifts with body composition; wrecks the trend).
+  - **Posture:** standing upright, feet ~10 in apart, arms relaxed at sides. Don't suck in. Don't push out.
+  - **Tape:** soft cloth / fiberglass (not metal). Snug to skin without compression. Parallel to floor — easy to let it ride up in the back.
+  - **Breath:** end of normal exhale. Same breath state weekly.
+  - **Two reads, average them** (same protocol as scale).
+  - **Precision:** ¼ inch / 0.5 cm.
+  - **Log:** in Saturday journal entry as `Waist: X.X in (avg of two reads)`. Spin up CSV at ~4 data points.
+- **Other future measurements (when/if Justin is ready):**
   - Progress photos (monthly, standardized lighting/pose) — behavioral anchor for some people
-  - DEXA scan — one-time baseline if he gets curious about real body comp
+  - DEXA scan — one-time baseline if curious about real body comp

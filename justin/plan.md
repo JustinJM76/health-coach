@@ -7,6 +7,10 @@ _First review: Sun 2026-05-04 (2 weeks in)_
 
 The Noom/Simple history says the failure mode is clear: heavy tracking + rigid rules → ~6-month cliff → rebound. We design for sustainability from day one:
 
+**Goal framing:** 220 lb is the *current* goal, set 2026-04-21. As of the 5/17 review, Justin is open to a Phase 2 (target ~210 or ~200) depending on body composition, energy, lifts, and felt experience at 220. Approach: don't slow approaching 220, but at 220 explicitly shift to maintenance for 3–4 weeks (let the body settle out of deficit) before deciding Phase 2. Adds at the 220 checkpoint: waist circumference (one cheap measurement that informs composition decisions better than scale alone).
+
+
+
 - **No calorie counting. No macro targets.** We track behaviors and the weight trend, not food arithmetic.
 - **Minimum viable tracking.** Brief food log for pattern-spotting and accountability, not for math.
 - **One lever at a time.** Three small experiments. Not a 40-item overhaul.
@@ -165,6 +169,66 @@ Going forward: ≥1 plant-forward dinner per week, reduce chicken count, priorit
 ## Review log
 
 _(Appended after each review.)_
+
+### 2026-05-17 — Second formal 2-week review (Day 27)
+
+**Numbers:**
+- 7-day trailing avg: **239.7 lb** (down from 242.9 at 5/4 review — −3.2 lb on trailing line in 13 days)
+- Total off baseline (250.0 home scale, Day 1): **−10.3 lb**
+- Best daily: 238.2 lb (Fri 5/15)
+- **First sub-240 on the trailing line** since program start
+- Pace: ~1.6 lb/wk, slightly above the 1 lb/wk target. Justin explicitly happy with this rate as long as it remains sustainable; "everything feels very sustainable."
+
+**Major patterns this window:**
+
+1. **Plate-composition flex is now a real skill.** 5 documented self-modifications within meals (lemon-not-butter on Mother's Day lobster; 100-cal bounded almond pack instead of prep-time grazing 5/12; 10 oz cottage cheese big primer for late 1:30 lunch 5/13; spaghetti pivot to meatball-forward / small pasta / no bread / green beans 5/15; controlled fajita night with 2 tortillas 5/16). Pattern: template provides the slot, Justin reshapes the plate based on the day. Opposite of the white-knuckle pattern.
+
+2. **Sleep — n=1 structural finding + intervention in motion.** Mattress rotation experiment 5/14 flipped Justin's and Larissa's sleep in opposite directions on the same night. Justin: best sleep he can remember, zero morning back pain (he normally has mild low-back AM soreness — disc-injury-history-relevant). Larissa: tossed all night. Conclusion: mattress is worn. Mattress shopping initiated; new mattress acquisition expected over 5/16–5/17 weekend. Sleep lever shifts from behavioral (bedtime hit?) to structural (sleep quality + morning soreness).
+
+3. **Hydration tightening (user-initiated, 5/14).** Justin flagged hydration off; coach + Justin built anchor-based plan (5 fixed pours tied to existing events — 12 oz on rising, glass with primer, glass with lunch, glass at start of afternoon work block, glass with dinner). ~75–80 oz with zero counting. Coach surfaces hydration at check-ins periodically per Justin's request.
+
+4. **Recipe rotation hit target (5 saved).** Greek lemon chicken sheet pan, sheet-pan chicken thighs, Italian beef meatballs, crockpot white chicken chili, shrimp stir-fry. Chili already v1-iterated (bump solids next time). Recipes are living documents.
+
+5. **Household architecture cleanly operational.** Folder restructure stable since 5/9; cross-session shared-notes channel load-tested across multiple round-trips; privacy rule honored.
+
+**Justin's open feedback / insights this review:**
+
+- **Food-noise reduction observation (Day 27).** Justin reports significant reduction in food-noise — the pre-program pattern of thinking about/fantasizing about pizza or fried food and struggling to resist the pantry is "gone." Asked if he's getting GLP-1-like benefits without the drug. Confirmed: yes, mechanistically real. Endogenous GLP-1 from primer (protein + fat) + sustained IF reducing baseline ghrelin + reward-stacked foods removed from frequent rotation reducing dopaminergic salience + template removing decision moments. He's getting a meaningful subset of GLP-1 effect via compounding behavioral mechanisms. The advantage over pharmacological GLP-1: doesn't reverse on stopping (because the behaviors *are* the program). This is the strongest sustainability argument identified so far. Logged in profile.md "What's working."
+- Family: daughters enjoy the variety, miss some comfort foods (pizza, lasagne) but pushback isn't strong. Justin himself doesn't miss them. Open option: occasional comfort-food family meal every 2–3 weeks with Friday-flex applied to Justin's plate (parallel portions or restructured plate).
+- AM walk addition (see below) — Justin's idea to add a 10-min AM something.
+
+**Decisions / additions out of this review:**
+
+KEEP (no change): primer, cottage cheese default, apple/fruit dessert, 8pm water cutoff, Mon–Thu workout split, weekly template, family anchors, Friday flex pattern, comfort-food protocol (still hasn't fired in anger — file as floor, not active tool), Phase 1 stretching, minimum-effective-dose workout fallback.
+
+MODIFY (already in motion or now formalized):
+- **Hydration anchor plan** formalized (5 fixed pours, yes/no reporting, coach surfaces periodically).
+- **Mon workout gets dead bug 3×8/side** (locked for 5/18, parity with Tue/Thu) + rotation note for later weeks (bird dog, Pallof variations, hollow holds — all disc-friendly).
+- **Standard warmup formalized** in `weekly-template.md` (band pull-aparts 2×15, arm circles, BW squats ×10 before every session).
+- **Sleep tracking emphasis shifts** from "bedtime hit?" to "sleep quality + morning back pain" while the new mattress lands.
+
+NEW:
+- **AM 10-min walk slot.** ~First 30 min after waking, weather permitting. Primary lever: morning sunlight exposure (single biggest circadian-rhythm regulator). Stacks with the new mattress investment. Stretching as bad-weather fallback. Logged in `weekly-template.md`.
+- **Phase 2 goal framing.** 220 is the current goal but not necessarily the final goal. At 220: celebrate the milestone, shift to maintenance for 3–4 weeks (let body settle out of deficit), then reassess. Phase 2 might target 210 or 200 *or* maintenance — decision driven by composition, energy, lifts, felt experience, and waist circumference (the one measurement worth adding at the 220 checkpoint). Don't slow approaching 220, but explicitly switch to maintenance on arrival rather than rolling momentum past it.
+- **Plate-composition flex skill named.** This is now an established behavior, not a one-off win.
+- **Bounded snack tool** (100-cal pre-portioned pack) added as a third tool for prep-time hunger.
+- **Recipe-as-living-document** pattern named.
+
+EXPLORE / FILE:
+- **Mattress effect** — once new mattress lands, watch for downstream effects on afternoon snack intensity, stress reactivity, workout perception.
+- **Memorial Day weekend camping (5/22–5/25)** — Justin pre-framed correctly: maintain IF + primer + protein-forward where reasonable; intentional relaxation elsewhere; accept a few days of setback. Practical adds: protein-portable primer options (cottage cheese cups, HB eggs, jerky), hydration anchor with extra emphasis (alcohol + sun + camping-food sodium), protein-with-each-meal is the one not to abandon, post-trip Tuesday just resume the template (no make-up restriction).
+- **Wheat sensitivity hypothesis** — still single data point + multiple confounders. No new correlation this window. Continue to file, don't chase.
+- **Occasional extended fasts (OMAD 1–2×/week for autophagy)** — discussed Day 27. Decision: **defer, revisit at maintenance / Phase 2 decision point.** Reasons: human evidence for "16-hour autophagy trigger" weaker than podcast discourse suggests; Justin already getting baseline autophagy at 17:7; marginal autophagy gains uncertain; concrete costs (protein/muscle protection during deficit; workout fueling; system complexity vs. template-eater principle). Not contraindicated, just not the right risk/reward in deficit phase. Revisit at 220.
+
+DEFER:
+- 35 lb KB upgrade (bands still have headroom).
+- Saturday alcohol dose experiment (trend on pace; no trigger to touch).
+- Calorie counting (still not needed).
+
+ADD (revised in-review per Justin's push 2026-05-17):
+- **Waist circumference, weekly Saturday AM fasted.** Reversed from initial DEFER — Justin's case for trend-building beats waiting for a single 220-checkpoint snapshot. Visceral-fat proxy; can decouple from scale weight (recomposition signal). Logged in journal on measurement days; will spin up a CSV once we have ~4 data points. First measurement: Justin's choice of today (baseline before camping) or Sat 5/30 (clean start post-trip).
+
+**Next formal review: Sunday 2026-05-31.** (Note: 5/22–5/25 camping weekend falls in the window. Expect a noisy trailing-line bump 5/25–5/29 that resolves by next review.)
 
 ### 2026-05-04 — First formal 2-week review (14 days in)
 
