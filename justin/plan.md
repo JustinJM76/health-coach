@@ -215,6 +215,7 @@ NEW:
 - **Recipe-as-living-document** pattern named.
 
 EXPLORE / FILE:
+- **Family-history sweep** (proposed via shared-notes 2026-05-18). Justin's intake captured only single-line family history (mother's wheat sensitivity / joint connection). Schedule 10–15 min of directed questions at a coming check-in; results land in `profile.md` under new Family history section. Cardiovascular, bone density, autoimmune, metabolic, mental health, cancer — all in scope.
 - **Mattress effect** — once new mattress lands, watch for downstream effects on afternoon snack intensity, stress reactivity, workout perception.
 - **Memorial Day weekend camping (5/22–5/25)** — Justin pre-framed correctly: maintain IF + primer + protein-forward where reasonable; intentional relaxation elsewhere; accept a few days of setback. Practical adds: protein-portable primer options (cottage cheese cups, HB eggs, jerky), hydration anchor with extra emphasis (alcohol + sun + camping-food sodium), protein-with-each-meal is the one not to abandon, post-trip Tuesday just resume the template (no make-up restriction).
 - **Wheat sensitivity hypothesis** — still single data point + multiple confounders. No new correlation this window. Continue to file, don't chase.
