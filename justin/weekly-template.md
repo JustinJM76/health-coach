@@ -13,8 +13,9 @@ Rotations are **within** a slot, not across. Primer is always "primer slot" — 
 | Time | Block |
 |---|---|
 | 6:45–7:00 | Out of bed. 12 oz water immediately. |
-| 7:00–7:15 | **AM 10-min walk** (added 2026-05-17) — outdoor, weather permitting. Primary lever: morning sunlight exposure (biggest circadian-rhythm regulator we have); secondary: gentle movement transition from sleep to work. Stretching (5 min mobility) as bad-weather fallback. |
-| 7:15–8:00 | Kids/wife/cats. Coffee + book/news. |
+| 7:00–7:25 | Kids/wife/cats. D2 leaves for the bus at 7:25. |
+| 7:25–7:40 | **AM 10-min walk** (added 2026-05-17, slot revised 2026-05-19 — kicks off right after D2's bus departure). Outdoor, weather permitting. Primary lever: morning sunlight exposure (still well within the early-morning circadian-anchor window); secondary: gentle movement transition from sleep to work. Stretching (5 min mobility) as bad-weather fallback. **Note:** slot is school-year-anchored; revisit when school ends. |
+| 7:40–8:00 | Coffee + book/news. |
 | 8:00–12:00 | Work block 1. Standing 11:30–12 meeting. |
 | 12:30–1:00 | **Workout** (see rotation below). Wed shifts later. Fri rest. |
 | ~1:00 | **Kitchen entry rule: primer first.** Before any prep, eat the primer. |
