@@ -65,7 +65,11 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - _Open: prior diet/exercise programs, what worked, what didn't, where things stalled_
 
 ## Active investigations / hypotheses
-- **Fatigue (started a few months ago, ~2x/week, not every week):** working hypothesis is sleep fragmentation from night hot flashes. Pattern of fatigue cadence (intermittent, not every week) matches typical hot-flash clustering. Labs ruled out the obvious physiological alternatives. **Larissa is keeping informal notes for the next 1–2 weeks** on whether tired days line up with hot-flash nights. If yes → intervention shifts toward sleep/cooling. If no → widen the search.
+- **Fatigue (started a few months ago, ~2x/week, not every week):**
+  - _2026-05-25 update — experiment ran 17 days (5/9–5/25)._
+  - **Original hot-flash hypothesis partially refuted.** Held for one acute case (5/11 hot + uncomfortable → next-day fatigue). Warm wakings on 5/17, 5/18, 5/24 did NOT produce next-day fatigue. Warm wakings have also gotten milder since new mattress arrived 5/18 ("warm, back to sleep quickly").
+  - **New working hypothesis: bedtime drift.** Late bedtimes (Thu 5/21 — cleanest data point, no camping confound; Sat 5/23 and Sun 5/24 confounded by camping) line up with tired patches. The 5/24 pattern (~9 hrs sleep but 6pm crash after 11:30 bedtime) suggests circadian shift, not duration.
+  - **Next experiment:** anchor bedtime ~10:30 for 7–10 days including weekends; continue the table log; revisit if patches persist.
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
@@ -79,3 +83,5 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - Protein-pairing-with-weight-loss guidance (specifics to come; she's curious and primed)
 - Whether to add weight tracking
 - Specifics on lunches/snacks (not pushed in session 1)
+- Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
+- Bedtime-anchor experiment in progress (assigned 2026-05-25; debrief next session)

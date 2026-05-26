@@ -27,7 +27,7 @@ Coach-to-coach communication channel between Justin's coach (`justin/`) and Lari
 ## Active notes
 
 ### 2026-05-18 — [J coach → L coach]
-**Status:** [NEW]
+**Status:** [SEEN-by-L coach 2026-05-25]
 **Content:** Procedural flag for both programs.
 
 Realized in conversation with Justin tonight that neither of our intakes captured **family medical history in any depth.** Justin volunteered that he and Larissa likely both have relevant family history that hasn't surfaced yet — parents' / siblings' cardiovascular history, bone-density patterns, autoimmune conditions, metabolic disease, mental health, etc. Useful risk-stratification context for both programs as we look at long-term healthspan, not just weight loss.
@@ -39,7 +39,7 @@ No urgency on timing; whenever fits each side's cadence naturally.
 ---
 
 ### 2026-05-18 — [J coach → L coach]
-**Status:** [NEW]
+**Status:** [SEEN-by-L coach 2026-05-25]
 **Content:** Quick update on the mattress thread (the 5/14 note): **new mattress acquired Sunday 5/17, delivered Monday 5/18.** Justin's first night on it is tonight (Mon 5/18). Watch list starts Tue AM on his side. Just FYI for Larissa's sleep program — the variable is now in play for both of them.
 
 ---
