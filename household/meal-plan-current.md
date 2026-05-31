@@ -4,32 +4,34 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-05-16 (Sat) — 2026-05-22 (Fri)
+## Week of 2026-05-31 (Sun) — 2026-06-06 (Sat)
+
+_First week post-dance-season — schedule eases up, aiming for a couple of real family dinners. Planned 5/31._
 
 | Day | Plan | Notes |
 |---|---|---|
-| **Sat 5/16 (tonight, grill)** | Grilled flank or skirt steak (fajita-marinated) + grilled peppers + onions + corn on the cob | First red meat in 2+ weeks — variety move. Marinade: olive oil + soy + lime + garlic + cumin, 30+ min. |
-| **Sun 5/17** | Turkey burritos (family anchor) + 9pm ice cream date | Standard. 2-week formal review around this day. |
-| **Mon 5/18** *(drives 3:30–4:30 + 5:15–6:45)* | Pork tenderloin (air fryer) + brussels sprouts + small starch | Schedule a touch lighter than usual — Justin cooking at 6, eating at 6:30. Crockpot slot deferred this week. New Mon workout: dead bug added (3×8/side). |
-| **Tue 5/19** | Pan-seared salmon + bagged stir-fry veg + small rice | Game night; quick ~20 min. |
-| **Wed 5/20** | Chickpea curry + side of shrimp + naan/rice | Plant-forward week pick. Shrimp keeps Justin's protein target. |
-| **Thu 5/21** *(D2 3:15–4:45)* | Greek lemon chicken sheet pan + roasted veg | "Real dinner" — every-other-week rotation. Done eating by 7:15 for drive. |
-| **Fri 5/22** | Mexican lunch (J only) → light dinner | Cobb salad or leftovers. |
+| **Sun 5/31** | Turkey burritos (family anchor) + 9pm ice cream date | Standard. Formal 2-week review around this day. |
+| **Mon 6/1** *(wide open after 5)* | Greek lemon chicken sheet pan + roasted veg | "Real dinner" pulled to Mon since the evening's open — see `recipes/greek-lemon-chicken-sheet-pan.md`. Frees Thu for grill night. |
+| **Tue 6/2** *(L out w/ friend; J game night 7:30)* | Shrimp stir-fry (frozen shrimp + bagged veg + rice) for J + girls | Quick ~20 min, family hit. Serve girls, plate one adult portion for self — kitchen closed before game night. |
+| **Wed 6/3** *(girls music lessons; prep+eat window 5:15–6:45)* | Chickpea curry + side of shrimp + naan/rice | Plant-forward landing. Fast enough for the tight window. |
+| **Thu 6/4** *(wide open after 5:30, nice weather)* | **Grilled pork chops** + corn + grilled veg | Grill night. **Oven fallback** (sheet pan ~400°F) if weather turns — easy swap, no plan change. |
+| **Fri 6/5** | Mexican lunch (J only) → dinner out with friends | No plan needed. |
+| **Sat 6/6** | TBD at Fri/Sat planning | — |
 
 ### Week protein parade
-Steak → turkey → pork → salmon → chickpea+shrimp → chicken → light. No consecutive same-protein. Plant-forward landing Wed.
+Turkey → chicken → shrimp → chickpea (plant) → pork → out. No consecutive same-protein. Plant-forward landing Wed.
 
-### Past week archive (2026-05-09 → 2026-05-15)
+### Past week archive (2026-05-16 → 2026-05-22)
 
 | Day | Plan | Outcome |
 |---|---|---|
-| Sat 5/9 | Turkey burritos | Family anchor. |
-| Sun 5/10 (Mother's Day) | Steamed lobster + sides | MIL came over; Justin used lemon-not-butter; half-tiramisu dessert, skipped ice cream. |
-| Mon 5/11 | Rotisserie chicken (pulled chicken finished Sun lunch) | Clean swap. |
-| Tue 5/12 | Shrimp stir-fry (frozen shrimp + bagged veg + rice) | Family hit. NEW recipe saved. |
-| Wed 5/13 | White chicken chili (crockpot) | Family hit; iteration note: bump solids next time. |
-| Thu 5/14 | Salmon + brussels sprouts (subbed from broccoli) + small rice | Clean. |
-| Fri 5/15 | Spaghetti + meatballs (subbed from Cobb salad) | Plate-composition pivot — meatball-forward, small pasta, no bread, lots of green beans. |
+| Sat 5/16 | Grilled fajita-marinated steak + peppers/onions/corn | First red meat in 2+ weeks — variety move. |
+| Sun 5/17 | Turkey burritos + ice cream date | Family anchor; 2-week review day. |
+| Mon 5/18 | Pork tenderloin (air fryer) + brussels sprouts + small starch | Lighter schedule day; dead bug added to Mon workout. |
+| Tue 5/19 | Pan-seared salmon + stir-fry veg + small rice | Game night; quick. |
+| Wed 5/20 | Chickpea curry + side of shrimp + naan/rice | Plant-forward pick. |
+| Thu 5/21 | Greek lemon chicken sheet pan + roasted veg | "Real dinner" rotation. |
+| Fri 5/22 | Mexican lunch (J) → light dinner | Then camping Fri 5/22–Mon 5/25 (not journaled per Justin). |
 
 ## Planning principles
 

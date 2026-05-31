@@ -97,14 +97,22 @@ Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No d
 
 | Day | Session | Notes |
 |---|---|---|
-| **Mon** | Lower + Push + Core — KB squats 3×10 @ 20 lb, pushups 3×10, glute bridges 3×10, **dead bug 3×8/side**, 20 min elliptical | Core slot added 2026-05-18 for parity with Tue/Thu (4 strength moves). Dead bug = anti-extension brace; pairs with KB squat bracing. Rotate within the core slot in later weeks if appropriate (bird dog, Pallof variations, hollow holds — all disc-friendly). |
-| **Tue** | Upper Pull + Core — band row 3×12, lat pulldown 3×12, chest press 3×12, Pallof press 3×10/side, 15 min elliptical | Bands. Dial resistance up from day 1. |
+| **Mon** | Lower + Push + Core — KB squats **3×12 @ 20 lb** (interim — see KB progression below), pushups 3×10, glute bridges 3×10, **dead bug 3×8/side**, 20 min elliptical | Core slot added 2026-05-18 for parity with Tue/Thu (4 strength moves). Dead bug = anti-extension brace; pairs with KB squat bracing. Rotate within the core slot in later weeks if appropriate (bird dog, Pallof variations, hollow holds — all disc-friendly). |
+| **Tue** | Upper Pull + Core — band row 3×12, lat pulldown 3×12, chest press 3×12, Pallof press 3×10/side, 15 min elliptical | Bands. **Baseline resistance bumped 2026-05-28** (added a band on row/press work — clean form, formalized at 5/31 review). Dial up from day 1. |
 | **Wed** | Cardio + light mobility — 25 min elliptical + band pull-aparts 2×15 + stretching | Meeting day; keep it short and low-load. Workout shifts to ~1:15–1:45pm after the 12–1 meeting. |
-| **Thu** | Full body — KB squats 3×8, band rows 3×10, pushups 3×10, band chest press 3×10, 15 min elliptical | Heaviest session of the week |
+| **Thu** | Full body — KB squats **3×12 @ 20 lb** (interim — see KB progression below), band rows 3×10, pushups 3×10, band chest press 3×10, 15 min elliptical | Heaviest session of the week. Band row/press at the bumped 5/28 baseline. |
 | **Fri** | REST | Mexican lunch day |
 | **Sat / Sun** | Active recovery — outdoor work, yard, hiking, chores | No structured workout |
 
 Joint status gets logged after each session. Progression (adding reps/tubes/KB weight) is handled at the biweekly review, not daily.
+
+### KB squat progression (decided 2026-05-31)
+
+Moving from rep-driven to **load-driven** progression — heavier load preserves lean mass better than higher reps during a calorie deficit, and the goblet KB hold stays upright (joint-safe; opposite of the loaded forward flexion we hard-avoid given disc history).
+
+- **Now (interim):** 3×12 @ 20 lb, both Mon and Thu. The 20 lb bell is rep-maxed — squeeze the remaining stimulus out of reps while we source a heavier bell.
+- **Next:** acquire a **~30 lb KB** → drop back to **3×8 @ 30 lb**, then run **double progression**: build reps to 3×12 at the new load before adding load again.
+- Joint status (knee/foot) logged each session as the load climbs; if anything flares, hold the load and reassess at the next review.
 
 ## Lunch slot
 
@@ -183,15 +191,15 @@ Before writing any timestamped entry in `journal/YYYY-MM-DD.md`, run `date "+%Y-
   - **2 readings:** average them.
   - **3+ readings:** discard outlier(s), average the rest. Justin re-weighs to resolve disagreement.
 - **Body-fat / muscle / water readings:** **ignore entirely.** Scale is ~16 years old, first-gen bioimpedance; the numbers are not trustworthy. Weight is the only signal worth logging from this scale.
-- **Waist circumference (added 2026-05-17):**
-  - **Cadence:** weekly, Saturday AM fasted (same rhythm as weigh-in + grocery shop).
-  - **Location:** natural waist — midway between bottom of lowest rib and top of iliac crest. NOT belly button (location shifts with body composition; wrecks the trend).
-  - **Posture:** standing upright, feet ~10 in apart, arms relaxed at sides. Don't suck in. Don't push out.
-  - **Tape:** soft cloth / fiberglass (not metal). Snug to skin without compression. Parallel to floor — easy to let it ride up in the back.
-  - **Breath:** end of normal exhale. Same breath state weekly.
-  - **Two reads, average them** (same protocol as scale).
+- **Waist circumference (added 2026-05-17; protocol overhauled 2026-05-31):**
+  - **Why the overhaul:** Justin flagged that waist is highly technique-sensitive — tape placement + breath state can swing the number several inches. A once-weekly read can't tell signal from technique noise. So we run a **2-week daily calibration sprint** to (a) tighten Justin's own consistency and (b) average out the noise into a trailing line, then back off to a lower cadence.
+  - **Landmark (changed):** **top edge of the navel**, tape parallel to floor. Switched from the rib-iliac midpoint because the navel is a single repeatable point Justin can find blind every time — the midpoint required re-finding two bony landmarks each read, which was itself a noise source. The *absolute* number matters less than measuring the same place the same way; the navel wins on repeatability. (This makes the new line non-comparable to the two pre-overhaul reads — see below.)
+  - **Cadence:** **daily, AM fasted, 6/1–6/14** (the sprint). After 6/14, back off to **2–3×/week or weekly** once the spread between reads is consistently tight.
+  - **Posture:** standing upright, feet ~10 in apart, arms relaxed at sides. Don't suck in. Don't push out. **Use a mirror** to confirm the tape is level front-to-back (it rides up in the back otherwise).
+  - **Breath:** end of normal exhale. Same breath state every time — this is the single biggest lever on the number.
+  - **Reads:** **2–3 reads each session, log all of them + the spread.** Spread (max − min) is the consistency metric — watch it shrink over the sprint. Trend off the **trailing average**, never a single read.
   - **Precision:** ¼ inch / 0.5 cm.
-  - **Log:** in Saturday journal entry as `Waist: X.X in (avg of two reads)`. Spin up CSV at ~4 data points.
+  - **Log:** `justin/waist.csv` (date, reads, avg, spread, notes). The two pre-overhaul reads (5/17 ≈ 47.0, 5/31 = 47.5) are logged but flagged **not trend-comparable** — different landmark, weekly cadence, pre-calibration technique.
 - **Other future measurements (when/if Justin is ready):**
   - Progress photos (monthly, standardized lighting/pose) — behavioral anchor for some people
   - DEXA scan — one-time baseline if curious about real body comp

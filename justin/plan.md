@@ -170,6 +170,51 @@ Going forward: ≥1 plant-forward dinner per week, reduce chicken count, priorit
 
 _(Appended after each review.)_
 
+### 2026-05-31 — Third formal 2-week review (Day 41)
+
+**Numbers:**
+- 7-day trailing avg: **238.2 lb** (calendar window, n=3: 5/27 239.3, 5/28 236.7, 5/31 238.6). Down from 239.7 at the 5/17 review — **−1.5 lb on the trailing line in 14 days, through a 4-day camping trip.**
+- Total off baseline (250.0 home scale, Day 1): **−11.8 lb**
+- Best daily: 236.7 lb (Thu 5/28 — new low)
+- Pace: ~0.75 lb/wk this window — right at the 1 lb/wk target and notable for holding *through* the trip. The camping bump printed (239.3 on 5/27) and resolved on schedule, exactly as pre-framed.
+
+**Major patterns this window:**
+
+1. **Camping trip absorbed cleanly — the framework's central weight call paid off.** "Don't react to the daily bump; the trailing line resolves it" played out precisely: 241.6 midday off-protocol read on re-entry (excluded), 239.3 first clean morning (bump visible), 236.7 new daily + trailing low on 5/28 as the bump cleared. No vacation-hangover drift; first workout back was a full on-template session.
+
+2. **Weight-reporting methodology unified across all three surfaces (5/28).** Discovered during the review that the coach check-ins, the `daily-update` skill, and `dashboard/build.py` were computing the trailing average three different ways — and the off-protocol 5/26 midday read (241.6) was inflating two of them. Fixed: **morning-only (drop reads ≥ noon), 7-day calendar window, same-morning multiples (2→avg, 3+→discard outlier).** All three surfaces now produce one number. Journal gap (5/21, 5/26, 5/27) backfilled from the conversation record; camping days 5/22–5/25 intentionally left blank.
+
+3. **Self-directed band progression (5/28).** Justin added a band to the row/press work unprompted — "a push but still doable," clean form. Read his own readiness and progressed without being told. Maturity marker; the program is becoming his.
+
+4. **Real-world trap navigation muscle is working in the wild.** Three documented this window: pretzel self-catch during dinner prep (5/27 — named the trigger, stopped, put the bag away); recital-day snack booth avoided + greek yogurt/caesar pre-load to control pizza slices (5/30); Friday social lunch self-regulated with a light protein dinner on the back end (5/29), unprompted. The comfort-food/environment-trap awareness is now reflexive, not coached.
+
+**Justin's open feedback / insights this review:**
+
+- **Waist measurement is technique-fragile** (Justin's flag): "there's a lot of variability depending on where I place the tape and how much breath I'm holding — I could probably game it several inches." Sharp self-observation that a once-weekly read can't separate signal from technique noise. Drove the protocol overhaul below.
+- **KB squat progression:** open to either more reps or a heavier bell — deferred the method choice to the coach.
+- **AM walk:** habit not yet formed; will work on it this week. No structural change — the lever is morning sunlight before noon, not the exact slot.
+
+**Decisions / additions out of this review:**
+
+KEEP (no change): primer, cottage cheese default, apple/fruit dessert, 8pm water cutoff, Mon–Thu workout split, weekly template, family anchors, Friday flex pattern, comfort-food protocol, Phase 1 stretching, minimum-effective-dose fallback, hydration anchors, dead bug in Mon core slot.
+
+MODIFY:
+- **KB squat progression flips from rep-driven to load-driven** — reverses the 5/17 DEFER on the KB upgrade. Interim **3×12 @ 20 lb** (Mon + Thu) while we source a heavier bell; then acquire a **~30 lb KB → 3×8 @ 30**, run **double progression** (reps to 3×12, then add load). Rationale: heavier load preserves lean mass better than reps in a deficit; goblet hold stays upright (joint-safe). Logged in `weekly-template.md`.
+- **Band resistance baseline bumped** — the added band (5/28, clean form) formalized as the new baseline on row/press work.
+- **Waist protocol overhauled** (see `weekly-template.md`): landmark moved to **top edge of navel** (single repeatable point > re-finding two bony landmarks); **2-week daily calibration sprint 6/1–6/14**, AM fasted; **log all 2–3 reads + the spread** (spread is the consistency metric), trend off the trailing average; mirror to keep tape level; then back off to 2–3×/week or weekly once spread is tight. `justin/waist.csv` created. The two pre-overhaul reads (5/17 ≈ 47.0, 5/31 = 47.5) are logged but flagged **not trend-comparable** (different landmark/cadence/technique).
+
+NEW:
+- **Weight-reporting methodology formalized** across coach + skill + dashboard (morning-only, 7-day calendar window, multiples rule). The off-protocol read class is now structurally excluded going forward.
+
+HOLD / DEFER:
+- **Family-history sweep** — held again per Justin (not the right beat this week). Stays on the docket for a natural opening in a coming check-in; not auto-triggered.
+- **AM walk** — no structural change; Justin habituating this week.
+
+EXPLORE / FILE:
+- **Pan-seared salmon recipe** still unsaved — capture next time it's cooked.
+
+**Next formal review: Sunday 2026-06-14** (also the waist calibration-sprint end date — they line up).
+
 ### 2026-05-17 — Second formal 2-week review (Day 27)
 
 **Numbers:**
