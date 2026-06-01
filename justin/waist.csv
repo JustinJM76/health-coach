@@ -1,3 +1,4 @@
 date,read1_in,read2_in,read3_in,avg_in,spread_in,notes
 2026-05-17,,,,47.0,,"PRE-CALIBRATION — not trend-comparable. Old protocol: rib-iliac midpoint, weekly, avg of two reads (individual reads not retained)."
 2026-05-31,,,,47.5,,"PRE-CALIBRATION — not trend-comparable. Old protocol: rib-iliac midpoint, weekly, avg of two reads. Justin flagged technique variability here -> overhauled protocol. Daily navel-landmark sprint starts 6/1."
+2026-06-01,47.0,47.5,,47.25,0.5,"SPRINT DAY 1 — first trend-comparable read. New protocol: mirror, top of navel, end of natural exhale. Spread 0.5 in."
