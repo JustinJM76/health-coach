@@ -84,8 +84,7 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 ## Open items / future threads
 - Ferritin / Vit D / B12 at next physician visit
 - Resistance training conversation (separate, dedicated exchange)
-- Protein-pairing-with-weight-loss guidance (specifics to come; she's curious and primed)
-- Whether to add weight tracking
+- **Protein / weight / digestion thread — ACTIVE as of 2026-06-01.** Larissa reports ~2 lb gain a couple weeks ago and a shift in BM frequency from daily → every 2–3 days, both starting roughly when Greek yogurt was added to oatmeal ~3–4 weeks ago. Working theory: yogurt may have been added *on top of* oatmeal portion rather than as a swap, shifting AM fiber:protein ratio and adding net calories; constipation may also account for some of the weight change. **Data to gather first** (next ~1 week, no diet changes): water intake (rough oz), BM yes/no, cycle position. Confirm on-top-vs-swap question. Then act.
 - Specifics on lunches/snacks (not pushed in session 1)
 - Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
 - Bedtime-anchor + sleep-mask/blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01; log continues through ~end of June)
