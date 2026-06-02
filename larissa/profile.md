@@ -68,8 +68,12 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - **Fatigue (started a few months ago, ~2x/week, not every week):**
   - _2026-05-25 update — experiment ran 17 days (5/9–5/25)._
   - **Original hot-flash hypothesis partially refuted.** Held for one acute case (5/11 hot + uncomfortable → next-day fatigue). Warm wakings on 5/17, 5/18, 5/24 did NOT produce next-day fatigue. Warm wakings have also gotten milder since new mattress arrived 5/18 ("warm, back to sleep quickly").
-  - **New working hypothesis: bedtime drift.** Late bedtimes (Thu 5/21 — cleanest data point, no camping confound; Sat 5/23 and Sun 5/24 confounded by camping) line up with tired patches. The 5/24 pattern (~9 hrs sleep but 6pm crash after 11:30 bedtime) suggests circadian shift, not duration.
-  - **Next experiment:** anchor bedtime ~10:30 for 7–10 days including weekends; continue the table log; revisit if patches persist.
+  - **Working hypothesis: bedtime + sleep duration.** Late bedtimes line up with tired patches. The 5/24 pattern (~9 hrs sleep but 6pm crash after 11:30 bedtime) suggests circadian shift, not just duration.
+  - _2026-06-01 update — another week of data (5/26–6/1)._
+  - **Bedtime hypothesis got further support:** 5/27 (bed 11:30, constraint-driven) → AM tiredness. 5/29–5/31 (bed 10:20–10:45) → high energy throughout. **Nuance she raised: late bedtimes are constraint-driven, not drift** — intervention lives in scheduling negotiation, not willpower.
+  - **New variable identified: early-summer sunrise.** Sunrise wakings at 5:00–5:20am observed 5/26, 5/27, 5/28, 6/1. Eroding the back end of her sleep window even on well-anchored nights. Solstice 6/21; gets worse before it gets better.
+  - **Mattress-era heat wakings now mostly resolved as a fatigue driver.** One mild warmth event 6/1 — watching for recurrence.
+  - **Next experiment:** sleep mask or blackout curtains to reclaim the 5:00–5:45am window; continue bedtime anchor when she has control; continue log through ~end of June for month-scale view.
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
@@ -84,4 +88,5 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - Whether to add weight tracking
 - Specifics on lunches/snacks (not pushed in session 1)
 - Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
-- Bedtime-anchor experiment in progress (assigned 2026-05-25; debrief next session)
+- Bedtime-anchor + sleep-mask/blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01; log continues through ~end of June)
+- 6/1 warmth event — watching for recurrence over next ~2 weeks
