@@ -74,6 +74,7 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - **New variable identified: early-summer sunrise.** Sunrise wakings at 5:00–5:20am observed 5/26, 5/27, 5/28, 6/1. Eroding the back end of her sleep window even on well-anchored nights. Solstice 6/21; gets worse before it gets better.
   - **Mattress-era heat wakings now mostly resolved as a fatigue driver.** One mild warmth event 6/1 — watching for recurrence.
   - **Next experiment:** sleep mask or blackout curtains to reclaim the 5:00–5:45am window; continue bedtime anchor when she has control; continue log through ~end of June for month-scale view.
+  - _2026-06-02 update — sleep mask tried, failed cleanly._ Two failure modes she identified: (1) years of conditioning = mask means "sleep," made waking groggy; (2) mask blocked her existing sunrise-gradient alarm clock from reaching her face, losing the gentle wake assist. **Pivoted to window blackout** (block light at source, not receiver) in three progressive levels: cardboard/foam test → clip-on blackout liner → full blackout curtains/shades. Mask shelved for home use; kept as travel tool. Log to add: is bedroom east-facing, does alarm gradient still wake her well on a blackout night.
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
@@ -87,5 +88,5 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - **Protein / weight / digestion thread — ACTIVE as of 2026-06-01.** Larissa reports ~2 lb gain a couple weeks ago and a shift in BM frequency from daily → every 2–3 days, both starting roughly when Greek yogurt was added to oatmeal ~3–4 weeks ago. Working theory: yogurt may have been added *on top of* oatmeal portion rather than as a swap, shifting AM fiber:protein ratio and adding net calories; constipation may also account for some of the weight change. **Data to gather first** (next ~1 week, no diet changes): water intake (rough oz), BM yes/no, cycle position. Confirm on-top-vs-swap question. Then act.
 - Specifics on lunches/snacks (not pushed in session 1)
 - Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
-- Bedtime-anchor + sleep-mask/blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01; log continues through ~end of June)
+- Bedtime-anchor + window-blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01 / pivoted from mask to window blackout 2026-06-02; log continues through ~end of June)
 - 6/1 warmth event — watching for recurrence over next ~2 weeks
