@@ -97,10 +97,10 @@ Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No d
 
 | Day | Session | Notes |
 |---|---|---|
-| **Mon** | Lower + Push + Core — KB squats **3×12 @ 20 lb** (interim — see KB progression below), pushups 3×10, glute bridges 3×10, **dead bug 3×8/side**, 20 min elliptical | Core slot added 2026-05-18 for parity with Tue/Thu (4 strength moves). Dead bug = anti-extension brace; pairs with KB squat bracing. Rotate within the core slot in later weeks if appropriate (bird dog, Pallof variations, hollow holds — all disc-friendly). |
+| **Mon** | Lower + Push + Core — KB squats **3×6–8 @ 35 lb, building to 3×12** (Mon 6/1 only: 3×12 @ 20 lb — bell not here yet; see KB progression below), pushups 3×10, glute bridges 3×10, **dead bug 3×8/side**, 20 min elliptical | Core slot added 2026-05-18 for parity with Tue/Thu (4 strength moves). Dead bug = anti-extension brace; pairs with KB squat bracing. Rotate within the core slot in later weeks if appropriate (bird dog, Pallof variations, hollow holds — all disc-friendly). |
 | **Tue** | Upper Pull + Core — band row 3×12, lat pulldown 3×12, chest press 3×12, Pallof press 3×10/side, 15 min elliptical | Bands. **Baseline resistance bumped 2026-05-28** (added a band on row/press work — clean form, formalized at 5/31 review). Dial up from day 1. |
 | **Wed** | Cardio + light mobility — 25 min elliptical + band pull-aparts 2×15 + stretching | Meeting day; keep it short and low-load. Workout shifts to ~1:15–1:45pm after the 12–1 meeting. |
-| **Thu** | Full body — KB squats **3×12 @ 20 lb** (interim — see KB progression below), band rows 3×10, pushups 3×10, band chest press 3×10, 15 min elliptical | Heaviest session of the week. Band row/press at the bumped 5/28 baseline. |
+| **Thu** | Full body — KB squats **3×6–8 @ 35 lb, building to 3×12** (see KB progression below), band rows 3×10, pushups 3×10, band chest press 3×10, 15 min elliptical | Heaviest session of the week. Thu 6/4 is the first 35 lb session. Band row/press at the bumped 5/28 baseline. |
 | **Fri** | REST | Mexican lunch day |
 | **Sat / Sun** | Active recovery — outdoor work, yard, hiking, chores | No structured workout |
 
@@ -108,10 +108,11 @@ Joint status gets logged after each session. Progression (adding reps/tubes/KB w
 
 ### KB squat progression (decided 2026-05-31)
 
-Moving from rep-driven to **load-driven** progression — heavier load preserves lean mass better than higher reps during a calorie deficit, and the goblet KB hold stays upright (joint-safe; opposite of the loaded forward flexion we hard-avoid given disc history).
+Moving from rep-driven to **load-driven** progression — heavier load preserves lean mass better than higher reps during a calorie deficit, and the goblet KB hold stays upright (joint-safe; opposite of the loaded forward flexion we hard-avoid given disc history). On a goblet squat the legs are rarely the limiter (Justin already squats ~238 lb of bodyweight through full reps) — the honest ceiling is grip + upper-back holding the bell. That's why we can make a big load jump safely.
 
-- **Now (interim):** 3×12 @ 20 lb, both Mon and Thu. The 20 lb bell is rep-maxed — squeeze the remaining stimulus out of reps while we source a heavier bell.
-- **Next:** acquire a **~30 lb KB** → drop back to **3×8 @ 30 lb**, then run **double progression**: build reps to 3×12 at the new load before adding load again.
+- **35 lb KB ordered** (arrives Wed 2026-06-03). Chose 35 over 30 for headroom — skips a near-term second purchase; 15 extra lb on a ~238 lb squat is marginal joint load.
+- **Bridge — Mon 6/1 only:** 3×12 @ 20 lb (35 lb bell not here yet; squeeze the last rep-stimulus from the 20).
+- **From Thu 6/4 on:** 35 lb. **Enter at 3×6–8** — wherever clean form with ~2 in the tank lands; don't force 3×8 out of the gate. Then run **double progression**: build reps to 3×12 at 35 lb before adding load again.
 - Joint status (knee/foot) logged each session as the load climbs; if anything flares, hold the load and reassess at the next review.
 
 ## Lunch slot
