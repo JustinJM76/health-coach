@@ -4,60 +4,82 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-05-31 (Sun) — 2026-06-06 (Sat)
+## Week of 2026-06-07 (Sun) — 2026-06-13 (Sat)
 
-_First week post-dance-season — schedule eases up, aiming for a couple of real family dinners. Planned 5/31._
+_Dance-rehearsal/audition week — evenings tight, dinners quick. Hot + rainy all week → no grilling, no chili. One crockpot night + one new recipe. Salmon early (bought Sat 6/6). Planned 6/6._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sun 5/31** | Turkey burritos (family anchor) | Black beans + rice, shredded cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. 9pm ice cream date is the accepted deviation. |
-| **Mon 6/1** *(open after 5)* | Greek lemon chicken sheet pan (2 lb boneless thighs) — see `recipes/greek-lemon-chicken-sheet-pan.md` | **Roasted Yukon gold potatoes** (family) + **cucumber-tomato salad** (feta, kalamata, red onion, chickpeas) | 2 thighs + **double salad**, skip/tiny potatoes. "Real dinner" pulled to Mon; frees Thu for the grill. |
-| **Tue 6/2** *(L out; J game night 7:30)* | Shrimp stir-fry — see `recipes/shrimp-stir-fry.md` | Bagged stir-fry veg + steamed rice | One adult portion, ½ cup rice, chili crisp at the plate. Serve girls, kitchen closed before game night. |
-| **Wed 6/3** *(music lessons; window 5:15–6:45)* | Chickpea curry + side of shrimp — see `recipes/chickpea-curry-with-shrimp.md` | Jasmine/basmati rice **or** naan + baby spinach stirred in + cilantro + lime | Big curry + large shrimp + **either** ½ cup rice **or** one naan (not both). Plant-forward landing. |
-| **Thu 6/4** *(open after 5:30, nice weather)* | **Grilled pork chops** (~2.5 lb, bone-in or boneless) | **Corn on the cob** + **grilled veg** (zucchini + bell peppers, tossed in olive oil/salt) | Pork + **double grilled veg**, small/skip corn. **Oven fallback** (sheet pan ~400°F, ~20 min) if weather turns. |
-| **Fri 6/5** | Mexican lunch (J only) → dinner out with friends | — | No plan needed. Go lighter at dinner per Friday template. |
-| **Sat 6/6** | TBD at Fri/Sat planning | — | — |
+| **Sat 6/6 (tonight)** | **Out — Max Fish, Glastonbury** (MIL birthday) | — | Celebration. Raw-bar opener, grilled fish or Niçoise/Cobb + protein, swap starch for green veg. See guidance in chat. |
+| **Sun 6/7** | Turkey burritos (family anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. 9pm ice cream date is the accepted deviation. |
+| **Mon 6/8** *(quick)* | **Salmon** — pan-seared or air-fryer (~8–12 min) | **Steamed broccoli** (Justin's standard salmon side — serve plain; J: ground pepper, no butter / L: a little olive oil) + small rice | Salmon + **double broccoli**, ½ cup rice. Fish for the week (none last week). |
+| **Tue 6/9** *(dance pm — set crockpot AM)* | **NEW: Slow-cooker Greek chicken gyros + tzatziki** — see `recipes/slow-cooker-greek-chicken-gyros.md` | Pita/flatbread, romaine, tomato, cucumber, red onion, feta, kalamata | **Bowl, not pita** — chicken over big salad + tzatziki + feta/olives + heat. Zero evening cook time. |
+| **Wed 6/10** *(dance pm — quick)* | Chickpea curry + side of shrimp — see `recipes/chickpea-curry-with-shrimp.md` (*or* gyro-bowl leftovers if slammed) | Rice **or** naan + baby spinach + cilantro + lime | Big curry + shrimp + **either** ½ cup rice **or** one naan. Plant-forward landing. |
+| **Thu 6/11** *(dance pm — quick, weather-proof)* | Pork tenderloin (air-fryer, ~25 min) | Green beans or broccoli + small baby potatoes | Pork + **double green veg**, tiny/skip potato. Air-fryer = no grill needed in the rain. |
+| **Fri 6/12** | Mexican lunch (J only) → light dinner or out | — | Go lighter at dinner per Friday template. |
+| **Sat 6/13** | TBD at Fri/Sat planning | — | — |
 
 ### Week protein parade
-Turkey → chicken → shrimp → chickpea (plant) → pork → out. No consecutive same-protein. Plant-forward landing Wed.
+Seafood (out) → turkey → salmon → chicken → chickpea (plant) + shrimp → pork → light. No consecutive same-protein. Fish back in (Mon). Plant-forward landing Wed.
 
-### Shopping list (week of 5/31–6/6)
+### Shopping list (week of 6/7–6/13)
 
-_Check freezer/pantry first — flagged items are often in stock. Sunday burrito staples assumed on hand._
+_Format: by department, one item per line, day-tagged for split trips (Justin often does a quick mid-week run for fresh meat/produce). Check freezer/pantry first — `(check)` items are often in stock. Sun burrito staples assumed on hand; nothing to buy for Sat (out) or Fri._
 
-**Meat + seafood**
-- Boneless skinless chicken thighs — **2 lb** (Mon)
-- Pork chops, bone-in or boneless — **~2.5 lb** / 5–6 chops (Thu)
-- Raw shrimp, frozen peeled & deveined — **~2.5 lb total** (1.5 lb Tue + 1 lb Wed; one bag covers both) — *check freezer*
+**Meat & seafood**
+- [ ] Salmon fillet, ~1.5–2 lb — Mon
+- [ ] Chicken breast, boneless skinless, 2 lb — Tue
+- [ ] Pork tenderloin, ~1.5–2 lb — Thu
+- [ ] Shrimp, frozen peeled & deveined, ~1 lb (check freezer) — Wed
 
 **Produce**
-- Lemon — 1 large (Mon chicken)
-- Yukon gold potatoes — 1.5 lb (Mon)
-- Cucumbers — 2 (Mon salad)
-- Tomatoes — 4 Roma or 2 cups cherry (Mon salad)
-- Red onion — 1 (Mon salad)
-- Yellow onion — 1 medium (Wed curry)
-- Fresh ginger — 1 knob (Wed; *or* ground, check pantry)
-- Garlic — 1 head (Mon + Tue + Wed all use it; *check stock*)
-- Baby spinach — 1 bag (Wed curry)
-- Cilantro — 1 bunch (Wed)
-- Limes — 2–3 (Tue + Wed)
-- Corn on the cob — 6 ears (Thu)
-- Zucchini — 2 + bell peppers — 2 (Thu grilled veg)
+- [ ] Broccoli, ~1 lb — Mon
+- [ ] Green beans, ~1 lb — Thu
+- [ ] Baby potatoes, small bag — Thu
+- [ ] Romaine, 1 head — Tue
+- [ ] Cucumbers, 3 (1 tzatziki + 2 toppings) — Tue
+- [ ] Tomatoes, 2–3 — Tue
+- [ ] Red onion, 1 — Tue
+- [ ] Yellow onion, 2 — Tue, Wed
+- [ ] Garlic, 1 head (check) — Tue, Wed
+- [ ] Lemons, 2 — Tue
+- [ ] Limes, 2 — Wed
+- [ ] Fresh ginger, 1 knob (or ground, check) — Wed
+- [ ] Baby spinach, 1 bag — Wed
+- [ ] Cilantro, 1 bunch — Wed
 
-**Pantry / canned**
-- Chickpeas — 3 cans (2 for Wed curry + 1 for Mon salad)
-- Full-fat coconut milk — 1 can (Wed)
-- Diced tomatoes, canned — 1 can (Wed)
-- Curry paste (red/green) *or* curry powder + garam masala (Wed) — *check pantry*
-- Feta crumbles — 1 small tub (Mon salad)
-- Pitted Kalamata olives — small jar (Mon salad)
-- Jasmine/basmati rice + naan (Tue + Wed) — *check stock*
-- Low-sodium soy sauce, rice vinegar, honey, sesame oil, cornstarch (Tue sauce) — *check pantry*
-- Olive oil, dried oregano, dried thyme (Mon) — *staples, check*
+**Dairy**
+- [ ] Greek yogurt, plain 5%, large tub (~2 cups) — Tue
+- [ ] Feta crumbles, 1 tub (check) — Tue
 
-**Frozen**
-- Bagged stir-fry vegetables — 2 lb (Tue) — *check freezer*
+**Bakery**
+- [ ] Pita / pocketless flatbread — Tue
+- [ ] Naan (check; or use rice) — Wed
+
+**Pantry & canned**
+- [ ] Chickpeas, 2 cans — Wed
+- [ ] Coconut milk, full-fat, 1 can — Wed
+- [ ] Diced tomatoes, 1 can — Wed
+- [ ] Curry paste or powder + garam masala (check) — Wed
+- [ ] Kalamata olives, jar (check) — Tue
+- [ ] Rice, jasmine/basmati (check) — Mon, Wed
+- [ ] Red wine vinegar (check) — Tue
+- [ ] White wine vinegar (check) — Tue
+- [ ] Dried dill (check) — Tue
+- [ ] Dried oregano (check) — Tue
+- [ ] Olive oil (check) — Mon, Tue
+
+### Past week archive (2026-05-31 → 2026-06-06)
+
+| Day | Plan | Outcome |
+|---|---|---|
+| Sun 5/31 | Turkey burritos | Anchor. (Pizza-lunch earlier was the food-environment lesson; dinner on-plan.) |
+| Mon 6/1 | Greek lemon chicken sheet pan + potatoes + salad | Done, clean. |
+| Tue 6/2 | Shrimp stir-fry | **Swapped → shrimp curry** (flipped Tue/Wed); surprise friend + a couple beers. |
+| Wed 6/3 | Chickpea curry | **Swapped → chicken-breast stir-fry + brown rice** (dodged back-to-back shrimp). Family hit. |
+| Thu 6/4 | Grilled pork chops + corn + broccoli | Done (mac & cheese for girls). First 35 lb KB day. |
+| Fri 6/5 | Mexican lunch → out | Dinner + show with friends; burger + Caesar. |
+| Sat 6/6 | (was TBD) | Out — Max Fish, MIL birthday. |
 
 ### Past week archive (2026-05-16 → 2026-05-22)
 
