@@ -75,6 +75,12 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - **Mattress-era heat wakings now mostly resolved as a fatigue driver.** One mild warmth event 6/1 — watching for recurrence.
   - **Next experiment:** sleep mask or blackout curtains to reclaim the 5:00–5:45am window; continue bedtime anchor when she has control; continue log through ~end of June for month-scale view.
   - _2026-06-02 update — sleep mask tried, failed cleanly._ Two failure modes she identified: (1) years of conditioning = mask means "sleep," made waking groggy; (2) mask blocked her existing sunrise-gradient alarm clock from reaching her face, losing the gentle wake assist. **Pivoted to window blackout** (block light at source, not receiver) in three progressive levels: cardboard/foam test → clip-on blackout liner → full blackout curtains/shades. Mask shelved for home use; kept as travel tool. Log to add: is bedroom east-facing, does alarm gradient still wake her well on a blackout night.
+  - _2026-06-07 update — week 2 expanded log (6/1–6/7) reviewed._
+  - **Big finding: hot flashes cluster on Days 1–2 of period.** First cycle column appearance showed warmth events on 6/1 (Day 1) and 6/2 (Day 2 — clear hot flash). Consistent with peri pattern (menses-associated estrogen drop → vasomotor symptoms). The 5/11 "hot, uncomfortable" night may have been the same window. **Predictive for future cycles.**
+  - **Bedroom is west-facing** with sheer curtains and no blinds. Direct sunrise beams ruled out; ambient predawn sky brightening through sheers explains the 5:00–5:20 wakings. Near-max light permeability currently. Blackout fix is still the right move.
+  - **Constipation thread: this week BMs were daily** (6/1–6/6), opposite of 6/1 baseline complaint. Possible drivers: tracking (Hawthorne), higher water (50–68 oz), period prostaglandins, magnesium from electrolytes (see below), variability. Constipation alarm dials down; keep watching through luteal phase.
+  - **Electrolyte variable surfaced:** Instant Hydration packets every other day. Label: 10 cal, 0g sugar, **100 mg magnesium**, 500 mg sodium, 470 mg potassium, 170 mg calcium. NOT an ORS hydration multiplier (no glucose). **Magnesium content likely explains improved BM frequency**, plus possible mild sleep benefit. Peri-appropriate profile.
+  - **Next experiments:** (1) Window blackout cardboard test 2–3 nights; (2) Add electrolyte yes/no column to log; (3) **For next period Days 1–3: stack blackout + cooling micro-intervention** (fan / lighter blanket / cooler thermostat) as active test of cycle-warmth hypothesis. No diet changes; hold steady.
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
@@ -86,7 +92,10 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - Ferritin / Vit D / B12 at next physician visit
 - Resistance training conversation (separate, dedicated exchange)
 - **Protein / weight / digestion thread — ACTIVE as of 2026-06-01.** Larissa reports ~2 lb gain a couple weeks ago and a shift in BM frequency from daily → every 2–3 days, both starting roughly when Greek yogurt was added to oatmeal ~3–4 weeks ago. Working theory: yogurt may have been added *on top of* oatmeal portion rather than as a swap, shifting AM fiber:protein ratio and adding net calories; constipation may also account for some of the weight change. **Data to gather first** (next ~1 week, no diet changes): water intake (rough oz), BM yes/no, cycle position. Confirm on-top-vs-swap question. Then act.
+  - _2026-06-07 update:_ BMs were daily this week (6/1–6/6), inconsistent with baseline complaint. Magnesium from Instant Hydration packets (100 mg, every other day) is a plausible driver. Constipation alarm reduced; keep watching through luteal phase. Still no diet changes; on-top-vs-swap question for Greek yogurt remains open.
 - Specifics on lunches/snacks (not pushed in session 1)
 - Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
-- Bedtime-anchor + window-blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01 / pivoted from mask to window blackout 2026-06-02; log continues through ~end of June)
+- Bedtime-anchor + window-blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01 / pivoted from mask to window blackout 2026-06-02 / cardboard test planned 2026-06-07; log continues through ~end of June)
+- Cycle-warmth stacking experiment for next period Days 1–3: cooling micro-intervention + window blackout (planned 2026-06-07)
+- Magnesium-from-electrolytes hypothesis for BM frequency (add electrolyte yes/no column to log; watch correlation)
 - 6/1 warmth event — watching for recurrence over next ~2 weeks
