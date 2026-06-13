@@ -81,6 +81,12 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - **Constipation thread: this week BMs were daily** (6/1–6/6), opposite of 6/1 baseline complaint. Possible drivers: tracking (Hawthorne), higher water (50–68 oz), period prostaglandins, magnesium from electrolytes (see below), variability. Constipation alarm dials down; keep watching through luteal phase.
   - **Electrolyte variable surfaced:** Instant Hydration packets every other day. Label: 10 cal, 0g sugar, **100 mg magnesium**, 500 mg sodium, 470 mg potassium, 170 mg calcium. NOT an ORS hydration multiplier (no glucose). **Magnesium content likely explains improved BM frequency**, plus possible mild sleep benefit. Peri-appropriate profile.
   - **Next experiments:** (1) Window blackout cardboard test 2–3 nights; (2) Add electrolyte yes/no column to log; (3) **For next period Days 1–3: stack blackout + cooling micro-intervention** (fan / lighter blanket / cooler thermostat) as active test of cycle-warmth hypothesis. No diet changes; hold steady.
+  - _2026-06-13 update — blackout shades installed 6/12; first data._
+  - **Structural win (6/13):** no alarm Saturday → natural wake at 7:30am, ~9 hrs total. Demonstrates the intervention's intended effect. Alarm clock's sunrise gradient still works through blackout (session 4 test question answered ✓).
+  - **Transition cost (6/12, first shade night):** multiple wake-checks after 2am ("is it still nighttime?") + noon-onward energy dip. Known recalibration effect from going sheers → true dark; typically resolves in 5–7 nights. Pre-staged micro-fixes if it persists: dim nightlight (orientation without melatonin suppression) and visible bedside clock face ("what time" answer without full wake).
+  - **Magnesium-BM hypothesis weakened.** This week's electrolyte-BM data ran opposite to prediction: electrolyte days had smaller BMs (6/9, 6/11, 6/12 all small/very minimal); no-electrolyte days regular (6/8, 6/10); the only missed BM (6/7) was no-electrolyte. BM frequency still daily/near-daily — the original "every 2–3 days" complaint isn't reappearing. Whatever's working, keep doing it.
+  - **New watch item:** 6/13 had one warm waking middle of night, post-period (~cycle Day 13, possibly ovulation-related vasomotor). Single data point. Watch for recurrence around Day 13–14 next cycle.
+  - **Next: give shades 5–7 nights to settle; next-cycle Days 1–3 cooling-stack test still on deck.**
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
@@ -95,7 +101,8 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - _2026-06-07 update:_ BMs were daily this week (6/1–6/6), inconsistent with baseline complaint. Magnesium from Instant Hydration packets (100 mg, every other day) is a plausible driver. Constipation alarm reduced; keep watching through luteal phase. Still no diet changes; on-top-vs-swap question for Greek yogurt remains open.
 - Specifics on lunches/snacks (not pushed in session 1)
 - Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
-- Bedtime-anchor + window-blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01 / pivoted from mask to window blackout 2026-06-02 / cardboard test planned 2026-06-07; log continues through ~end of June)
+- Bedtime-anchor + window-blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01 / pivoted from mask to window blackout 2026-06-02 / shades installed 2026-06-12; in 5–7 night recalibration window; log continues through ~end of June)
 - Cycle-warmth stacking experiment for next period Days 1–3: cooling micro-intervention + window blackout (planned 2026-06-07)
-- Magnesium-from-electrolytes hypothesis for BM frequency (add electrolyte yes/no column to log; watch correlation)
+- Magnesium-from-electrolytes hypothesis for BM frequency — weakened by 2026-06-13 data (electrolyte days had smaller BMs, opposite of prediction); BM frequency still daily/near-daily regardless. Keep watching but don't act on it.
+- 2026-06-13 mid-cycle warm waking — watch for recurrence around Day 13–14 of next cycle
 - 6/1 warmth event — watching for recurrence over next ~2 weeks
