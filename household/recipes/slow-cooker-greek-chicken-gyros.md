@@ -75,5 +75,7 @@ Adapted from The Recipe Critic — "Slow Cooker Greek Chicken Gyros with Tzatzik
 
 ## Iteration notes
 
-### v1 — 2026-06-09 (planned first cook)
-- _To be evaluated after first cook._
+### v1 — 2026-06-09 (first cook)
+- **Verdict: hit — earns a rotation slot.** Justin: "really enjoyed it; not an every-week thing, but should definitely be in rotation."
+- Cadence: occasional rotation (every few weeks), crockpot/quick-dinner slot — not a weekly anchor.
+- Prep notes from the cook: cucumber measured 1 cup grated *before* squeezing; large box-grater holes; peel only if thick-skinned/waxed cucumber.

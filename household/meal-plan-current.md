@@ -4,70 +4,75 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-06-07 (Sun) — 2026-06-13 (Sat)
+## Week of 2026-06-14 (Sun) — 2026-06-20 (Sat)
 
-_Dance-rehearsal/audition week — evenings tight, dinners quick. Hot + rainy all week → no grilling, no chili. One crockpot night + one new recipe. Salmon early (bought Sat 6/6). Planned 6/6._
+_**Last week of school** (D2 graduates Fri 6/19) — evening schedule scrambled and different every night. **NEW: Weber Searwood 600 pellet grill in play** (gift from Larissa) — ready in <15 min, so weeknight grilling is viable on good-weather days, and low-and-slow smokes are a rain-tolerant set-and-leave option. Tonight (Sat 6/13) is the grill debut. Planned 6/13._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sat 6/6 (tonight)** | **Out — Max Fish, Glastonbury** (MIL birthday) | — | Celebration. Raw-bar opener, grilled fish or Niçoise/Cobb + protein, swap starch for green veg. See guidance in chat. |
-| **Sun 6/7** | Turkey burritos (family anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. 9pm ice cream date is the accepted deviation. |
-| **Mon 6/8** *(quick)* | **Salmon** — pan-seared or air-fryer (~8–12 min) | **Steamed broccoli** (Justin's standard salmon side — serve plain; J: ground pepper, no butter / L: a little olive oil) + small rice | Salmon + **double broccoli**, ½ cup rice. Fish for the week (none last week). |
-| **Tue 6/9** *(dance pm — set crockpot AM)* | **NEW: Slow-cooker Greek chicken gyros + tzatziki** — see `recipes/slow-cooker-greek-chicken-gyros.md` | Pita/flatbread, romaine, tomato, cucumber, red onion, feta, kalamata | **Bowl, not pita** — chicken over big salad + tzatziki + feta/olives + heat. Zero evening cook time. |
-| **Wed 6/10** *(dance pm — quick)* | Chickpea curry + side of shrimp — see `recipes/chickpea-curry-with-shrimp.md` (*or* gyro-bowl leftovers if slammed) | Rice **or** naan + baby spinach + cilantro + lime | Big curry + shrimp + **either** ½ cup rice **or** one naan. Plant-forward landing. |
-| **Thu 6/11** *(dance pm — quick, weather-proof)* | Pork tenderloin (air-fryer, ~25 min) | Green beans or broccoli + small baby potatoes | Pork + **double green veg**, tiny/skip potato. Air-fryer = no grill needed in the rain. |
-| **Fri 6/12** | Mexican lunch (J only) → light dinner or out | — | Go lighter at dinner per Friday template. |
-| **Sat 6/13** | TBD at Fri/Sat planning | — | — |
+| **Sat 6/13 (tonight)** | **Grilled whole chicken** — Searwood debut (spatchcock for an even, faster cook) | **Grilled vegetables on the same fire** — zucchini/summer squash, bell peppers, asparagus + a big green salad. Optional: foil baby potatoes or small rice | Chicken (skin off) + **double grilled veg/salad**, small or skip the starch. One fire does main + sides. |
+| **Sun 6/14** | Turkey burritos (family anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. **Chips/salsa: don't open till plating** (last week's prep-grazing lesson). 9pm ice cream date is the accepted deviation. |
+| **Mon 6/15** *(dance 4:45–7:45 — J+L eat while girls are out; girls eat on return)* | **Salmon** — pan-seared or air-fryer (~8–12 min); grill it if the weather's good | **Steamed broccoli** (J: ground pepper, no butter / L: a little olive oil) + small rice | Salmon + **double broccoli**, ½ cup rice. Fish for the week. |
+| **Tue 6/16** *(L eats early/fast → massage; set crockpot AM)* | **Crockpot white chicken chili** — see `recipes/crockpot-white-chicken-chili.md` | Cannellini/navy beans (in the chili) + toppings: cilantro, lime, jalapeño. Optional cornbread/tortilla for the girls | **Big bowl** — beans = real plant-protein; J's spicy variant (jalapeño/hot sauce/lime). Crockpot = zero evening cook, L can eat early. Skip cornbread. |
+| **Wed 6/17** *(on the run all evening)* | **Subway — no cook** | — | 6-inch or a **salad bowl**, double meat (oven-roasted chicken/turkey), load the veg, **no chips/cookie**, light cheese, skip the cheese-sauce. |
+| **Thu 6/18** *(real dinner — **decide Wed/Thu by weather**; quick Thu grocery run for freshness)* | **Weather call:** ① nice → **quick grill** (pork chops, ~20 min — leave pork shoulder/long smokes for a weekend, too much for a weekday); ② cold/rainy → indoor **Italian beef meatballs** — see `recipes/italian-beef-meatballs.md` | Grill: grilled veg + salad. Meatballs: big salad + veg, light on pasta/bread | Pork or beef + **double veg**, minimal starch. Both dodge chicken (Tue was chicken). |
+| **Fri 6/19** *(D2 middle-school graduation — skipping guys' lunch)* | **Celebration — TBD** (specifics later) | — | Celebration day; we'll plan the plate once you know the venue/format. |
+| **Sat 6/20** | TBD at next planning | — | — |
 
 ### Week protein parade
-Seafood (out) → turkey → salmon → chicken → chickpea (plant) + shrimp → pork → light. No consecutive same-protein. Fish back in (Mon). Plant-forward landing Wed.
+Chicken (grilled whole) → turkey → salmon → chicken (chili, shredded) → Subway → pork **or** beef → celebration. The two chickens are different patterns (whole-roasted vs shredded chili) and separated by turkey + salmon — no true same-protein back-to-back. Fish Mon. **Plant-forward note:** graduation-week schedule is thin on a dedicated plant night — Tue's cannellini beans + Sun's black beans carry the plant-protein cadence this week.
 
-### Shopping list (week of 6/7–6/13)
+### Shopping list (week of 6/14–6/20)
 
-_Format: by department, one item per line, day-tagged for split trips (Justin often does a quick mid-week run for fresh meat/produce). Check freezer/pantry first — `(check)` items are often in stock. Sun burrito staples assumed on hand; nothing to buy for Sat (out) or Fri._
+_Format: by department, one item per line, day-tagged for split trips (Justin often does a quick mid-week run for fresh meat/produce). Check freezer/pantry first — `(check)` items are often in stock. Sun burrito staples assumed on hand; Wed (Subway) + Fri (celebration) need nothing. **Thu is a separate quick day-of run** (weather decides grill vs. meatballs; also keeps the meat fresh)._
 
 **Meat & seafood**
+- [ ] Whole chicken, ~4–5 lb — Sat (tonight; skip if already bought)
 - [ ] Salmon fillet, ~1.5–2 lb — Mon
-- [ ] Chicken breast, boneless skinless, 2 lb — Tue
-- [ ] Pork tenderloin, ~1.5–2 lb — Thu
-- [ ] Shrimp, frozen peeled & deveined, ~1 lb (check freezer) — Wed
+- [ ] Chicken breast, boneless skinless, 1.5 lb — Tue
+- [ ] **Thu (buy on the Thu run, by weather):** pork chops ~1.5–2 lb (if grilling) *or* ground beef ~1.5 lb (if meatballs)
 
 **Produce**
+- [ ] Zucchini / summer squash, 2 — Sat
+- [ ] Bell peppers, 2 — Sat
+- [ ] Asparagus, 1 bunch — Sat
+- [ ] Salad greens, 1–2 heads or 1 bag — Sat
 - [ ] Broccoli, ~1 lb — Mon
-- [ ] Green beans, ~1 lb — Thu
-- [ ] Baby potatoes, small bag — Thu
-- [ ] Romaine, 1 head — Tue
-- [ ] Cucumbers, 3 (1 tzatziki + 2 toppings) — Tue
-- [ ] Tomatoes, 2–3 — Tue
-- [ ] Red onion, 1 — Tue
-- [ ] Yellow onion, 2 — Tue, Wed
-- [ ] Garlic, 1 head (check) — Tue, Wed
-- [ ] Lemons, 2 — Tue
-- [ ] Limes, 2 — Wed
-- [ ] Fresh ginger, 1 knob (or ground, check) — Wed
-- [ ] Baby spinach, 1 bag — Wed
-- [ ] Cilantro, 1 bunch — Wed
+- [ ] Yellow onion, 1 — Tue
+- [ ] Garlic, 1 head (check) — Tue
+- [ ] Jalapeño, 1–2 — Tue
+- [ ] Cilantro, 1 bunch — Tue
+- [ ] Limes, 2 — Tue
+- [ ] Baby potatoes, small bag (optional) — Sat/Thu
 
 **Dairy**
-- [ ] Greek yogurt, plain 5%, large tub (~2 cups) — Tue
-- [ ] Feta crumbles, 1 tub (check) — Tue
-
-**Bakery**
-- [ ] Pita / pocketless flatbread — Tue
-- [ ] Naan (check; or use rice) — Wed
+- [ ] Half-and-half or cream cheese (optional creamy chili finish, check) — Tue
 
 **Pantry & canned**
-- [ ] Chickpeas, 2 cans — Wed
-- [ ] Coconut milk, full-fat, 1 can — Wed
-- [ ] Diced tomatoes, 1 can — Wed
-- [ ] Curry paste or powder + garam masala (check) — Wed
-- [ ] Kalamata olives, jar (check) — Tue
-- [ ] Rice, jasmine/basmati (check) — Mon, Wed
-- [ ] Red wine vinegar (check) — Tue
-- [ ] White wine vinegar (check) — Tue
-- [ ] Dried dill (check) — Tue
-- [ ] Dried oregano (check) — Tue
-- [ ] Olive oil (check) — Mon, Tue
+- [ ] Cannellini OR navy beans, 2 cans (15 oz) — Tue
+- [ ] Diced green chiles, mild, 1 can (4 oz) — Tue
+- [ ] Corn, 1 can or frozen (~1 cup) — Tue
+- [ ] Chicken broth, 4 cups (carton) — Tue
+- [ ] Cumin, oregano, coriander (check) — Tue
+- [ ] Rice, jasmine/basmati (check) — Mon
+- [ ] Grill pellets — check supply for Sat + a Thu smoke
+- [ ] BBQ rub for chicken + pork (check) — Sat, Thu
+
+**Bakery**
+- [ ] Cornbread or tortillas for the girls (optional, with chili) — Tue
+
+### Past week archive (2026-06-07 → 2026-06-13)
+
+| Day | Plan | Outcome |
+|---|---|---|
+| Sat 6/6 | Out — Max Fish (MIL birthday) | Tuna (lean) + a few bites calamari/dessert. Clean restaurant execution. |
+| Sun 6/7 | Turkey burritos | Anchor. Chips/salsa during prep (food-environment flag); smaller ice cream serving (self-moderated). |
+| Mon 6/8 | Salmon + double broccoli | To plan. |
+| Tue 6/9 | NEW slow-cooker Greek gyros | **Hit — earns rotation.** First cook. |
+| Wed 6/10 | Chickpea curry + shrimp | To plan. Plant-forward night. |
+| Thu 6/11 | Pork tenderloin (air-fryer) | To plan. |
+| Fri 6/12 | Mexican lunch → light | Lunch at a new spot (chicken sandwich + 2 beers); dinner = grilled burgers + corn (**new grill debut**). |
+| Sat 6/13 | (was TBD) | Grilled whole chicken (Searwood). |
 
 ### Past week archive (2026-05-31 → 2026-06-06)
 
@@ -100,6 +105,7 @@ _Format: by department, one item per line, day-tagged for split trips (Justin of
 - **Crockpot meals** for hectic-drive evenings (Mon and/or Wed).
 - **"Real dinner" Thursday** is usually the best night for a more involved cook (rotation: Greek lemon chicken, sheet-pan thighs, etc.).
 - **Friday = light dinner** since Justin had Mexican lunch; not a family-pizza night by default.
+- **Grill (Weber Searwood 600, 6/13):** ready in <15 min → **weeknight grilling is now viable** on good-weather days (no longer a weekend-only effort). **Low-and-slow smokes are rain-tolerant** (set-and-leave during the WFH day) — a good fit for the Thursday real-dinner slot when weather is poor. Watch item: grill defaults (burgers/sausage) are easy to over-portion — lean cuts + veg keep it on-program.
 
 ## Larissa's role (TBC during her intake)
 

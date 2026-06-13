@@ -153,6 +153,10 @@ Kitchen closes after the snack (or at 4 pm if you skipped) — no re-entry until
 | **Sat** | Family dinner — cook or takeout. | Varies | Cooking preferred. Takeout fine when life says so. |
 | **Sun** | Turkey burritos (anchor). | ~7 | + 9pm ice cream date with wife = accepted IF deviation. Do not add to or expand this. |
 
+**Equipment note (added 2026-06-13):** Weber Searwood 600 pellet grill (gift from Larissa) replaces the charcoal hassle — ready to cook in <15 min, so **weeknight grilling is now viable** on cooperative-weather days, plus **low-and-slow smoking** (rain-tolerant, set-and-leave during the WFH day). Lean grilled proteins + grill-synergy veg are now an everyday lever, not weekend-only. Watch: grill defaults (burgers/sausage/dogs) over-portion easily — anchor to lean cuts + veg.
+
+**School-calendar note (2026-06-13):** week of 6/14 is the **last week of school** (D2 graduates Fri 6/19). The 7:25 AM-walk slot is school-bus-anchored — **revisit the AM-walk timing for summer** the week of 6/21.
+
 ## Dessert default
 
 Granny Smith apple. Apple-as-meal-closer was a day-2 win — it replaces the pantry-drift decision at 7:45 pm. Any fruit works; apple preferred.
