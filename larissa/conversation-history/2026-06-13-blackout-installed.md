@@ -10,7 +10,7 @@
 - **Structural win on 6/13:** no alarm → natural wake at 7:30am, ~9 hrs total. Validates the intervention's intended effect.
 - **Alarm clock sunrise gradient still works with shades up** — answers the session 4 test question. ✓
 - **Transition cost on 6/12:** multiple wake-checks after 2am ("is it still nighttime?"), plus noon-onward energy dip. Known recalibration effect; expected to resolve in 5–7 nights. Two micro-fixes pre-staged (nightlight, visible clock) if it persists.
-- **Magnesium-BM correlation hypothesis weakened.** This week ran opposite: electrolyte days had smaller BMs, no-electrolyte days had regular BMs, only missed BM was a no-electrolyte day. Frequency still daily/near-daily; original 2–3 day complaint not reappearing.
+- **Magnesium-BM correlation hypothesis revised twice.** Initial coach read: this week ran opposite to hypothesis. Larissa then pointed out (correctly) that her electrolyte timing is afternoon, so the right comparison is X → X+1, not same-day. Re-analysis with the proper lag: data is **ambiguous, not opposite** — too small a sample with too many concurrent variables. Hypothesis stays alive but unconfirmed. BM frequency still daily/near-daily regardless.
 - **New watch item:** 6/13 mid-cycle warm waking (post-period). Possibly ovulation-related vasomotor. Single data point — watch for cycle-phase recurrence.
 
 ## What was NOT done
