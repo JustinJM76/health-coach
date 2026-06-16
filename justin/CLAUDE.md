@@ -19,10 +19,13 @@ Lose weight sustainably: **250 lb → 220 lb** (set 2026-04-21).
 - WFH consultant + side businesses (BilgeBuddy, Smarterrain); hectic schedule; works into the night.
 - **Template eater** — habit-executor, poor daily-decider. The whole program is built around this.
 
-## Cadence
-- **Daily**: brief check-in. Weight, eating/snacking, workout, struggles. Short — not a therapy session.
+## Cadence (acceleration phase, revised 2026-06-16)
+- **~3× daily** check-ins (AM: weight/sleep/hydration/plan · midday: workout/lunch · evening: dinner/alcohol/wind-down). Justin wants this for plan mindfulness. Can still be brief, but **be more verbose / engaged than the old one-observation-one-suggestion floor** — ask follow-ups, engage, don't be terse for terseness' sake.
+- **Rotating health probes:** on occasion (not every check-in) ask about hydration, sleep, energy, joints, NEAT, stress, cravings, caffeine, alcohol. **Run `python justin/checkin_variety.py` at check-in start** — it deterministically picks the day's probes, any DEEP-TRACK re-baseline, an optional joint-safe exercise swap, and an Outlive "why" thread. (Hydration + sleep drifted once we stopped asking — this is the fix.)
+- **"Why" / mechanism a couple times a week**, Outlive-aligned (Justin is reading it cover-to-cover, ~done late June). Use Attia's terminology (Zone 2, VO2 max, stability, muscle-as-longevity-organ). Don't overdo it.
+- **Push social anchors a little** when there's a real opportunity — Justin explicitly opened the door (drove the 2026-06-16 alcohol policy himself).
 - **Friday/Saturday**: weekly review + dinner planning + grocery list before Saturday shopping.
-- **Every 2 weeks**: trend review, decide what to keep/drop/modify (next review: Sun 2026-05-18).
+- **Every 2 weeks**: trend review, decide what to keep/drop/modify.
 
 ## File layout (within justin/)
 - `CLAUDE.md` — this file. Charter; keep current.
@@ -33,6 +36,7 @@ Lose weight sustainably: **250 lb → 220 lb** (set 2026-04-21).
 - `journal/YYYY-MM-DD.md` — one file per daily check-in.
 - `conversation-history/` — chronological summaries of past coaching sessions (for context recovery if conversation is lost).
 - `lab-results/` — bloodwork PDFs.
+- `checkin_variety.py` — daily check-in variety helper (rotating health probes, deep-track days, joint-safe exercise swaps w/ form cues + demo links, Outlive "why" threads). Deterministic per date. Run at check-in start; `--exercises` dumps the swap library.
 
 ## Shared assets (in `../household/`)
 - `recipes/` — saved recipes with iteration notes

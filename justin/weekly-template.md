@@ -167,13 +167,16 @@ Kitchen closes after the snack (or at 4 pm if you skipped) — no re-entry until
 
 Granny Smith apple. Apple-as-meal-closer was a day-2 win — it replaces the pantry-drift decision at 7:45 pm. Any fruit works; apple preferred.
 
-## Alcohol (unchanged)
+## Alcohol — policy revised 2026-06-16 (Justin-initiated; his "biggest lever")
 
-- Fri lunch: 2–4 beers with friends
-- Sat late afternoon: ~2 beers
-- Sun: margarita with burritos
+**Three rules:**
+1. **Social-only.** Drink only on genuinely social occasions (with people) — **not** as accompaniment to solo activity (cooking, tending the smoker, yard work, afternoon hang). The ambient/solo drinking is the target; the social ritual stays. *This rule does most of the work.*
+2. **Frequency:** target **1×/week**, **hard cap 2×/week.**
+3. **Per-occasion cap: ≤3 drinks.**
 
-This is a social anchor; we're not touching it in the first two weeks. We'll revisit Sat beer dose at the May 4 review.
+**Effect on the old anchors:** Friday Mexican lunch with the boys stays but is **right-sized from 2–4 → ≤3**. Saturday "cooking/smoker beers" and Sunday "hang + margarita" are **out unless genuinely social** (and then counted against the weekly frequency).
+
+**Why (the mechanism, not just the rule):** last weekend ran ~1,900–2,500 alcohol calories (Fri ~3, Sat a six-pack, Sun 2 + margarita) — almost exactly the surplus that was erasing the 236 weekday lows and pinning the trailing line at 238. Beyond calories: ethanol **halts fat oxidation** while it's metabolized, **fragments REM sleep** (feeding the sleep slippage), and **lowers inhibition → next-day grazing** (the chips/pretzels cluster in the drinking windows). It is the single biggest lever on the plateau.
 
 ## Tensions / watch list
 

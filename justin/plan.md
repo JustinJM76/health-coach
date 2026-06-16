@@ -107,7 +107,9 @@ All of it lands in `journal/YYYY-MM-DD.md`.
 
 ## Cadence
 
-- **Daily check-in.** Few minutes. You drop in; I note and respond with at most one observation + one suggestion.
+_Revised 2026-06-16 — see the Acceleration-phase review-log entry and `CLAUDE.md` for the current cadence (3×/day, rotating health probes via `checkin_variety.py`, more verbose/engaged, Outlive "why" ~2×/wk). The lighter original is kept below for history._
+
+- **Daily check-in.** Few minutes. You drop in; I note and respond. _(Superseded: was "one observation + one suggestion"; acceleration phase loosened this to fuller engagement.)_
 - **Friday or Saturday AM:** weekly review + dinner planning for the coming week, before you shop.
 - **Every 2 weeks (first: Sun 2026-05-04):** look at the trend line, decide what to keep/drop/modify.
 
@@ -169,6 +171,24 @@ Going forward: ≥1 plant-forward dinner per week, reduce chicken count, priorit
 ## Review log
 
 _(Appended after each review.)_
+
+### 2026-06-16 — Acceleration phase (Justin-initiated, Day 57)
+
+Justin asked to **accelerate weight loss** by both tightening adherence and evolving the plan, after noticing the trailing line had been flat ~238 for ~2 weeks (clean weekday lows at 236 erased by weekend bounces). He brought six ideas; all adopted.
+
+**1. Alcohol — the keystone change (his "biggest lever").** New policy (in `weekly-template.md`): **social-only** (no solo/ambient drinking while cooking, smoking, hanging), **target 1×/wk / hard cap 2×/wk**, **≤3 drinks per occasion**. Friday lunch right-sized 2–4 → ≤3. Rationale: last weekend ~1,900–2,500 alcohol calories ≈ the exact surplus erasing the weekday deficit; plus ethanol halts fat oxidation, fragments REM (his sleep slippage), and drives next-day grazing. This is the plateau-breaker. Reverses the long-standing "alcohol untouched" stance — and Justin initiated it, which is why the timing is right.
+
+**2. Check-in cadence + breadth.** Back to **~3×/day** for mindfulness; **more verbose/engaged** than the old one-obs-one-suggestion floor; **rotating health probes** (hydration, sleep, energy, joints, NEAT, stress, cravings, caffeine, alcohol) since hydration + sleep drifted once we stopped asking. Occasional **DEEP-TRACK** re-baseline days. Codified in charter `CLAUDE.md`.
+
+**3. Exercise variety.** Occasional joint-safe swaps to prevent rut + work new muscles — **always with form cues + a demo link** so Justin never has to research form. Pool stays inside disc/knee guardrails (no loaded forward flexion; core = anti-extension/rotation/lateral-flexion only).
+
+**4. Outlive "why."** Weave Attia-aligned mechanism in ~2×/wk (Zone 2 = his elliptical, VO2 max, muscle-as-organ-of-longevity, stability, protein/sarcopenia). Justin reading it cover-to-cover, done ~late June.
+
+**5. New tool — `justin/checkin_variety.py`.** Built to handle the randomness above (LLM randomness is weak). Deterministic per date; picks the day's probes, deep-track flag, optional exercise swap (with cues + YouTube demo link), and "why" thread. `--exercises` dumps the swap library. Run at check-in start.
+
+**6. Push anchors + engage more.** Adopted — be willing to push on social anchors when there's real opportunity (the alcohol policy is the first instance), and ask Justin questions rather than only responding.
+
+Also locked this session: **elliptical duration is now a floor not a cap** (extend toward 25–30 min when time allows — it's Zone 2 base; don't let it "earn" a bigger lunch), and the **mobility block moved to between strength and the elliptical** so the post-cardio fog stops eating the stretch.
 
 ### 2026-05-31 — Third formal 2-week review (Day 41)
 
