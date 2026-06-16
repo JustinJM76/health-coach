@@ -54,7 +54,9 @@ Why structural (not thirst-driven): Justin's natural thirst runs low. Mild dehyd
 
 ## Stretching / mobility (added 2026-05-04)
 
-**Phase 1 (current): post-workout stretching, 5–7 min, Mon/Tue/Thu after the workout finisher (when you're warm).**
+**Phase 1 (current): mobility block, 5–7 min, Mon/Tue/Thu — do it BETWEEN the strength work and the elliptical finisher (revised 2026-06-16).**
+
+_Why the reorder: when the elliptical is last, Justin steps off hungry + brain-dead and beelines straight to the lunch primer, skipping the stretch. Slotting mobility before the elliptical keeps it in the warm window AND moves it ahead of the post-cardio fog/hunger that was eating it. The elliptical stays the true finisher → kitchen exit is fine because the stretch is already banked._
 
 Each stretch held 30–45 sec, both sides where applicable:
 1. **Standing forward fold** (slight knee bend if needed; back-friendly). Hamstrings + low back.
@@ -105,6 +107,10 @@ Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No d
 | **Sat / Sun** | Active recovery — outdoor work, yard, hiking, chores | No structured workout |
 
 Joint status gets logged after each session. Progression (adding reps/tubes/KB weight) is handled at the biweekly review, not daily.
+
+### Elliptical duration (revised 2026-06-16)
+
+Baseline durations above are a **floor, not a cap.** On days time allows, **extend toward 25–30 min** (Justin took Mon to 30 and it felt right). Optional and flexible — don't force it on a tight day; the baseline still counts as a complete session. **Watch item:** longer cardio can spike post-workout hunger (see 6/4) — keep the primer-first rule and don't let extra elliptical "earn" a bigger lunch. The fat-loss math lives in the daily deficit, not in burning it back at the machine.
 
 ### KB squat progression (decided 2026-05-31)
 

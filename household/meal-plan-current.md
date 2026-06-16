@@ -12,7 +12,7 @@ _**Last week of school** (D2 graduates Fri 6/19) — evening schedule scrambled 
 |---|---|---|---|
 | **Sat 6/13 (tonight)** | **Grilled whole chicken** — Searwood debut (spatchcock for an even, faster cook) | **Grilled vegetables on the same fire** — zucchini/summer squash, bell peppers, asparagus + a big green salad. Optional: foil baby potatoes or small rice | Chicken (skin off) + **double grilled veg/salad**, small or skip the starch. One fire does main + sides. |
 | **Sun 6/14** | Turkey burritos (family anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. **Chips/salsa: don't open till plating** (last week's prep-grazing lesson). 9pm ice cream date is the accepted deviation. |
-| **Mon 6/15** *(dance 4:45–7:45 — J+L eat while girls are out; girls eat on return)* | **Salmon** — pan-seared or air-fryer (~8–12 min); grill it if the weather's good | **Steamed broccoli** (J: ground pepper, no butter / L: a little olive oil) + small rice | Salmon + **double broccoli**, ½ cup rice. Fish for the week. |
+| **Mon 6/15** *(dance 4:45–7:45 — J+L eat while girls are out; girls eat on return)* | **Tuna steaks** (on sale — swapped in for salmon) — soy-ginger-sesame marinade (20–30 min max), **sear hot & fast, ~1.5–2 min/side, pull at rare/med-rare** (tuna dries past medium) | **Steamed broccoli** (J: ground pepper, no butter / L: a little olive oil) + small rice | Tuna + **double broccoli**, ½ cup rice. Fish for the week. |
 | **Tue 6/16** *(L eats early/fast → massage; set crockpot AM)* | **Crockpot white chicken chili** — see `recipes/crockpot-white-chicken-chili.md` | Cannellini/navy beans (in the chili) + toppings: cilantro, lime, jalapeño. Optional cornbread/tortilla for the girls | **Big bowl** — beans = real plant-protein; J's spicy variant (jalapeño/hot sauce/lime). Crockpot = zero evening cook, L can eat early. Skip cornbread. |
 | **Wed 6/17** *(on the run all evening)* | **Subway — no cook** | — | 6-inch or a **salad bowl**, double meat (oven-roasted chicken/turkey), load the veg, **no chips/cookie**, light cheese, skip the cheese-sauce. |
 | **Thu 6/18** *(real dinner — **decide Wed/Thu by weather**; quick Thu grocery run for freshness)* | **Weather call:** ① nice → **quick grill** (pork chops, ~20 min — leave pork shoulder/long smokes for a weekend, too much for a weekday); ② cold/rainy → indoor **Italian beef meatballs** — see `recipes/italian-beef-meatballs.md` | Grill: grilled veg + salad. Meatballs: big salad + veg, light on pasta/bread | Pork or beef + **double veg**, minimal starch. Both dodge chicken (Tue was chicken). |
@@ -28,7 +28,7 @@ _Format: by department, one item per line, day-tagged for split trips (Justin of
 
 **Meat & seafood**
 - [ ] Whole chicken, ~4–5 lb — Sat (tonight; skip if already bought)
-- [ ] Salmon fillet, ~1.5–2 lb — Mon
+- [x] Tuna steaks, ~1.5–2 lb — Mon (got on sale; swapped for salmon)
 - [ ] Chicken breast, boneless skinless, 1.5 lb — Tue
 - [ ] **Thu (buy on the Thu run, by weather):** pork chops ~1.5–2 lb (if grilling) *or* ground beef ~1.5 lb (if meatballs)
 
@@ -44,6 +44,8 @@ _Format: by department, one item per line, day-tagged for split trips (Justin of
 - [ ] Cilantro, 1 bunch — Tue
 - [ ] Limes, 2 — Tue
 - [ ] Baby potatoes, small bag (optional) — Sat/Thu
+- [ ] Fresh ginger, 1 knob — Mon (tuna marinade)
+- [ ] Scallions, 1 bunch — Mon (tuna garnish)
 
 **Dairy**
 - [ ] Half-and-half or cream cheese (optional creamy chili finish, check) — Tue
@@ -55,6 +57,7 @@ _Format: by department, one item per line, day-tagged for split trips (Justin of
 - [ ] Chicken broth, 4 cups (carton) — Tue
 - [ ] Cumin, oregano, coriander (check) — Tue
 - [ ] Rice, jasmine/basmati (check) — Mon
+- [ ] Soy sauce / tamari, toasted sesame oil, rice vinegar, honey, sesame seeds (check) — Mon (tuna marinade)
 - [ ] Grill pellets — check supply for Sat + a Thu smoke
 - [ ] BBQ rub for chicken + pork (check) — Sat, Thu
 
