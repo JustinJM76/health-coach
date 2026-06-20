@@ -4,65 +4,67 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-06-14 (Sun) — 2026-06-20 (Sat)
+## Week of 2026-06-21 (Sun) — 2026-06-27 (Sat)
 
-_**Last week of school** (D2 graduates Fri 6/19) — evening schedule scrambled and different every night. **NEW: Weber Searwood 600 pellet grill in play** (gift from Larissa) — ready in <15 min, so weeknight grilling is viable on good-weather days, and low-and-slow smokes are a rain-tolerant set-and-leave option. Tonight (Sat 6/13) is the grill debut. Planned 6/13._
+_**"Justin Month" peak** — Father's Day Sun + a friend's birthday (Sat 6/20 night) + Justin's birthday celebrations around next Sat 6/27. **D2 away all week.** Schedule flexible. Only Sun–Tue planned firmly (proteins already bought at the butcher 6/20); Wed–Sat left open for the birthday-week celebrations. Coach posture: enjoy the legit once-a-year events, keep the food levers stacked, hold the alcohol per-occasion cap. Planned 6/20._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sat 6/13 (tonight)** | **Grilled whole chicken** — Searwood debut (spatchcock for an even, faster cook) | **Grilled vegetables on the same fire** — zucchini/summer squash, bell peppers, asparagus + a big green salad. Optional: foil baby potatoes or small rice | Chicken (skin off) + **double grilled veg/salad**, small or skip the starch. One fire does main + sides. |
-| **Sun 6/14** | Turkey burritos (family anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. **Chips/salsa: don't open till plating** (last week's prep-grazing lesson). 9pm ice cream date is the accepted deviation. |
-| **Mon 6/15** *(dance 4:45–7:45 — J+L eat while girls are out; girls eat on return)* | **Tuna steaks** (on sale — swapped in for salmon) — soy-ginger-sesame marinade (20–30 min max), **sear hot & fast, ~1.5–2 min/side, pull at rare/med-rare** (tuna dries past medium) | **Steamed broccoli** (J: ground pepper, no butter / L: a little olive oil) + small rice | Tuna + **double broccoli**, ½ cup rice. Fish for the week. |
-| **Tue 6/16** *(L eats early/fast → massage; set crockpot AM)* | **Crockpot white chicken chili** — see `recipes/crockpot-white-chicken-chili.md` | Cannellini/navy beans (in the chili) + toppings: cilantro, lime, jalapeño. Optional cornbread/tortilla for the girls | **Big bowl** — beans = real plant-protein; J's spicy variant (jalapeño/hot sauce/lime). Crockpot = zero evening cook, L can eat early. Skip cornbread. |
-| **Wed 6/17** *(on the run all evening)* | **Subway — no cook** | — | 6-inch or a **salad bowl**, double meat (oven-roasted chicken/turkey), load the veg, **no chips/cookie**, light cheese, skip the cheese-sauce. |
-| **Thu 6/18** *(real dinner — **decide Wed/Thu by weather**; quick Thu grocery run for freshness)* | **Weather call:** ① nice → **quick grill** (pork chops, ~20 min — leave pork shoulder/long smokes for a weekend, too much for a weekday); ② cold/rainy → indoor **Italian beef meatballs** — see `recipes/italian-beef-meatballs.md` | Grill: grilled veg + salad. Meatballs: big salad + veg, light on pasta/bread | Pork or beef + **double veg**, minimal starch. Both dodge chicken (Tue was chicken). |
-| **Fri 6/19** *(D2 middle-school graduation — skipping guys' lunch)* | **Celebration — TBD** (specifics later) | — | Celebration day; we'll plan the plate once you know the venue/format. |
-| **Sat 6/20** | TBD at next planning | — | — |
+| **Sat 6/20 (tonight)** | **Out — friend's birthday party** (eating there) | — | Pre-load if you can; lean toward protein + veg off the spread; **drinks ≤3, with the food, water alongside.** |
+| **Sun 6/21** *(Father's Day — in-laws over)* | **Grilled steaks** (bought at the butcher 6/20) | Grilled asparagus / zucchini + a big salad + sautéed mushrooms & onions; baked or grilled potatoes for the guests | Steak ~6–7 oz + **double grilled veg/salad**, small or skip the potato. _(Sunday burrito anchor yields to Father's Day this week — see note.)_ |
+| **Mon 6/22** | **Salmon** — pan-seared, air-fryer, or grill if nice | **Steamed broccoli** (J: ground pepper, no butter / L: a little olive oil) + small rice | Salmon + **double broccoli**, ½ cup rice. Fish for the week. |
+| **Tue 6/23** *(rain forecast → no grill)* | **Boneless chicken thighs** (bought 6/20) — sheet-pan or air-fryer; see `recipes/sheet-pan-chicken-thighs.md` | Roasted broccoli or Brussels sprouts + small potato or rice | Thighs + **double roasted veg**, small/skip starch. Indoor cook = rain-proof. |
+| **Wed 6/24** *(flex to Thu)* | **Turkey burritos** (the Sunday anchor, moved this week) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. Chips/salsa: don't open till plating. |
+| **Thu 6/25** | TBD (or burritos if bumped from Wed) | — | — |
+| **Fri 6/26** | TBD (likely a guys' lunch) | — | — |
+| **Sat 6/27** *(Justin's birthday)* | **Celebration — TBD** | — | His day — plan the plate once the format's known. |
 
 ### Week protein parade
-Chicken (grilled whole) → turkey → salmon → chicken (chili, shredded) → Subway → pork **or** beef → celebration. The two chickens are different patterns (whole-roasted vs shredded chili) and separated by turkey + salmon — no true same-protein back-to-back. Fish Mon. **Plant-forward note:** graduation-week schedule is thin on a dedicated plant night — Tue's cannellini beans + Sun's black beans carry the plant-protein cadence this week.
+(Out) → beef (steak) → salmon (fish) → chicken (thighs) → open. Clean variety across the firm days, no repeats. Plant-forward is light this celebration week — we'll seat one in the Wed–Sat open slots if a normal cook night lands.
 
-### Shopping list (week of 6/14–6/20)
+### Shopping list (week of 6/21–6/27)
 
-_Format: by department, one item per line, day-tagged for split trips (Justin often does a quick mid-week run for fresh meat/produce). Check freezer/pantry first — `(check)` items are often in stock. Sun burrito staples assumed on hand; Wed (Subway) + Fri (celebration) need nothing. **Thu is a separate quick day-of run** (weather decides grill vs. meatballs; also keeps the meat fresh)._
+_Format: by department, one item per line, day-tagged. Steaks + thighs already bought at the butcher 6/20. Sun–Tue is the firm list; Wed–Sat are TBD (birthday week) — shop those ad hoc. Check freezer/pantry first._
 
 **Meat & seafood**
-- [ ] Whole chicken, ~4–5 lb — Sat (tonight; skip if already bought)
-- [x] Tuna steaks, ~1.5–2 lb — Mon (got on sale; swapped for salmon)
-- [ ] Chicken breast, boneless skinless, 1.5 lb — Tue
-- [ ] **Thu (buy on the Thu run, by weather):** pork chops ~1.5–2 lb (if grilling) *or* ground beef ~1.5 lb (if meatballs)
+- [x] Steaks — Sun (bought at the butcher 6/20)
+- [x] Boneless chicken thighs — Tue (bought 6/20)
+- [ ] Salmon fillet, ~1.5–2 lb — Mon
+- [ ] Ground turkey, ~1.5 lb — Wed (burritos)
 
 **Produce**
-- [ ] Zucchini / summer squash, 2 — Sat
-- [ ] Bell peppers, 2 — Sat
-- [ ] Asparagus, 1 bunch — Sat
-- [ ] Salad greens, 1–2 heads or 1 bag — Sat
+- [ ] Asparagus and/or zucchini, for the grill — Sun
+- [ ] Mushrooms, 8 oz — Sun
+- [ ] Yellow onion, 1 — Sun
+- [ ] Salad greens, 1–2 heads or 1 bag — Sun
+- [ ] Potatoes (baby or russet) for the guests — Sun
 - [ ] Broccoli, ~1 lb — Mon
-- [ ] Yellow onion, 1 — Tue
-- [ ] Garlic, 1 head (check) — Tue
-- [ ] Jalapeño, 1–2 — Tue
-- [ ] Cilantro, 1 bunch — Tue
-- [ ] Limes, 2 — Tue
-- [ ] Baby potatoes, small bag (optional) — Sat/Thu
-- [ ] Fresh ginger, 1 knob — Mon (tuna marinade)
-- [ ] Scallions, 1 bunch — Mon (tuna garnish)
+- [ ] Broccoli or Brussels sprouts, ~1 lb — Tue
+- [ ] Avocado, 1–2 + lettuce — Wed (burritos)
 
-**Dairy**
-- [ ] Half-and-half or cream cheese (optional creamy chili finish, check) — Tue
+**Burrito staples (Wed — check first, restock as needed)**
+- [ ] Tortillas — Wed
+- [ ] Black beans, 1–2 cans — Wed
+- [ ] Shredded cheese, salsa — Wed
 
-**Pantry & canned**
-- [ ] Cannellini OR navy beans, 2 cans (15 oz) — Tue
-- [ ] Diced green chiles, mild, 1 can (4 oz) — Tue
-- [ ] Corn, 1 can or frozen (~1 cup) — Tue
-- [ ] Chicken broth, 4 cups (carton) — Tue
-- [ ] Cumin, oregano, coriander (check) — Tue
-- [ ] Rice, jasmine/basmati (check) — Mon
-- [ ] Soy sauce / tamari, toasted sesame oil, rice vinegar, honey, sesame seeds (check) — Mon (tuna marinade)
-- [ ] Grill pellets — check supply for Sat + a Thu smoke
-- [ ] BBQ rub for chicken + pork (check) — Sat, Thu
+**Pantry & dairy**
+- [ ] Rice, jasmine/basmati (check) — Mon, Tue
+- [ ] Steak seasoning / thigh rub (check) — Sun, Tue
+- [ ] Butter for the guests' potatoes (check) — Sun
+- [ ] Grill pellets — check supply for Sun steaks
 
-**Bakery**
-- [ ] Cornbread or tortillas for the girls (optional, with chili) — Tue
+### Past week archive (2026-06-14 → 2026-06-20)
+
+| Day | Plan | Outcome |
+|---|---|---|
+| Sat 6/13 | Grilled whole chicken (grill debut) | **Came out great.** Spatchcocked. |
+| Sun 6/14 | Turkey burritos | Anchor. Afternoon pretzel + cookie graze (self-flagged); smaller ice cream. |
+| Mon 6/15 | Tuna steaks (swapped from salmon) | **Great** — seared, daughters enjoyed it. No-snack day → next-morning low. |
+| Tue 6/16 | Crockpot white chicken chili | **Hit with everyone.** |
+| Wed 6/17 | Subway (planned) | **Swapped → spaghetti + frozen meatballs** (last-min schedule change); meatball-forward plate. |
+| Thu 6/18 | Pork chops (grilled) | Done + baby potatoes + peas. |
+| Fri 6/19 | Anniversary | Lunch out: scallops + risotto, **1 beer**; dinner southwest chicken salad, slice of cake. Clean for a celebration. |
+| Sat 6/20 | (was TBD) | Out — friend's birthday party. |
 
 ### Past week archive (2026-06-07 → 2026-06-13)
 

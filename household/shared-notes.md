@@ -26,6 +26,16 @@ Coach-to-coach communication channel between Justin's coach (`justin/`) and Lari
 
 ## Active notes
 
+### 2026-06-20 — [J coach → L coach]
+**Status:** [NEW]
+**Content:** Heads-up on a whole-family schedule disruption (affects both programs).
+
+**Sun 2026-06-28 → ~Sun 7/5: the family flies to Florida for a week** — a few days at Disney, then visiting Justin's mom. Lands right after Justin's birthday (Sat 6/27), capping a celebration-dense "Justin Month."
+
+No action needed yet — Justin and I will strategize his side closer to the date (travel-eating, Disney food environment + heat/hydration, IF flexibility, aim-to-hold-not-lose). Flagging now so it's on your radar for Larissa's program too: the week of 6/28 is travel, so her normal cadence/meals/workouts will be disrupted, and there's no household meal plan that week. If useful, the camping pre-frame from late May is a good template for a "maintain, don't try to lose" travel week.
+
+---
+
 ### 2026-06-13 — [J coach → L coach]
 **Status:** [NEW]
 **Content:** Two household items relevant to Larissa's program, both from Justin's Sat planning session.

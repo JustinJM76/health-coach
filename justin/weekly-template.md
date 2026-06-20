@@ -169,10 +169,11 @@ Granny Smith apple. Apple-as-meal-closer was a day-2 win — it replaces the pan
 
 ## Alcohol — policy revised 2026-06-16 (Justin-initiated; his "biggest lever")
 
-**Three rules:**
-1. **Social-only.** Drink only on genuinely social occasions (with people) — **not** as accompaniment to solo activity (cooking, tending the smoker, yard work, afternoon hang). The ambient/solo drinking is the target; the social ritual stays. *This rule does most of the work.*
+**Four rules:**
+1. **In-person social only.** Drink only on genuinely social, **in-person** occasions — **not** solo-activity accompaniment (cooking, smoker, yard work, afternoon hang) and **not** virtual hangs (e.g., online game night). The ambient/solo drinking is the target; the in-person ritual stays. *This rule does most of the work.* (Justin's own refinement 2026-06-17.)
 2. **Frequency:** target **1×/week**, **hard cap 2×/week.**
 3. **Per-occasion cap: ≤3 drinks.**
+4. **Within the eating window** — drinks go with lunch or dinner, **not late at night.** Respects the 1–8pm fast window and protects sleep (late alcohol fragments REM worst). (Justin's refinement 2026-06-17.)
 
 **Effect on the old anchors:** Friday Mexican lunch with the boys stays but is **right-sized from 2–4 → ≤3**. Saturday "cooking/smoker beers" and Sunday "hang + margarita" are **out unless genuinely social** (and then counted against the weekly frequency).
 
@@ -180,7 +181,7 @@ Granny Smith apple. Apple-as-meal-closer was a day-2 win — it replaces the pan
 
 ## Tensions / watch list
 
-1. **Tuesday game nights** typically wrap at 11:00–11:30, rarely past midnight. Lower sleep risk than initially feared. Rule: don't fight the game to hit 11:15 — 11:30 on Tuesday is the accepted band.
+1. **Game night** typically wraps at 11:00–11:30, rarely past midnight. Lower sleep risk than initially feared. Rule: don't fight the game to hit 11:15 — 11:30 is the accepted band. **Summer 2026: game night moved Tue → Wed.** Note the collision: Wednesday is also the meeting-heavy/cardio day, so the late-bedtime risk now lands on Wed — watch Wed lights-out.
 
 2. **Evening business work (BilgeBuddy, Smarterrain, west-coast team) pushes toward 11.** 11:15 lights-out means hard stop at ~10:40. If a west-coast call is scheduled past 10, accept the late night — but don't let it become the default.
 
