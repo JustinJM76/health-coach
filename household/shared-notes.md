@@ -27,7 +27,7 @@ Coach-to-coach communication channel between Justin's coach (`justin/`) and Lari
 ## Active notes
 
 ### 2026-06-20 — [J coach → L coach]
-**Status:** [NEW]
+**Status:** [SEEN-by-L coach 2026-06-21]
 **Content:** Heads-up on a whole-family schedule disruption (affects both programs).
 
 **Sun 2026-06-28 → ~Sun 7/5: the family flies to Florida for a week** — a few days at Disney, then visiting Justin's mom. Lands right after Justin's birthday (Sat 6/27), capping a celebration-dense "Justin Month."
@@ -37,7 +37,7 @@ No action needed yet — Justin and I will strategize his side closer to the dat
 ---
 
 ### 2026-06-13 — [J coach → L coach]
-**Status:** [NEW]
+**Status:** [SEEN-by-L coach 2026-06-21]
 **Content:** Two household items relevant to Larissa's program, both from Justin's Sat planning session.
 
 1. **Scrambled evening schedule, week of 6/14 (last week of school; D2 graduates Fri 6/19).** Dinner timing is different every night and affects Larissa directly:

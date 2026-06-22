@@ -87,6 +87,12 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - **Magnesium-BM hypothesis: revised twice.** First read: data ran opposite to prediction. Then Larissa flagged that electrolyte timing is afternoon — so the right comparison is electrolyte day X → BM day X+1, not same-day. Re-analysis with proper lag: data is **ambiguous, not opposite** — sample too small + too many concurrent variables (period, water, etc.) to confirm or rule out. Hypothesis stays alive but unconfirmed. BM frequency remains daily/near-daily regardless. Carry forward: time-of-day matters in dosing comparisons; default to lag-aware analysis for future "did X affect Y" log reads.
   - **New watch item:** 6/13 had one warm waking middle of night, post-period (~cycle Day 13, possibly ovulation-related vasomotor). Single data point. Watch for recurrence around Day 13–14 next cycle.
   - **Next: give shades 5–7 nights to settle; next-cycle Days 1–3 cooling-stack test still on deck.**
+  - _2026-06-21 update — sleep intervention structurally complete._
+  - **Sunrise wakings eliminated entirely post-shades** (6/12 onward). No sunrise interference any day this week (6/14–6/21). 6/12 transition pains (the 2am wake-checks) did not recur — brain recalibrated within the predicted window.
+  - **Unconstrained wake time: 7:30–8:30 naturally** (6/13, 6/19, 6/20) = 8.5–10 hours of sleep. The back-end-of-sleep problem from mid-May is solved.
+  - **New pattern: mid-cycle warmth events.** Day 13 (6/13) and Day 15 (6/15) both had warm wakings, in the ovulation window. Possible second cycle-phase warmth pattern alongside Days 1–2 cluster. Re-instated cycle column to track; water column dropped (her call, supportive).
+  - **Weekend bedtime creep returning** (Sat 11:30, Sun midnight on 6/20–6/21). Sun 6/21 low-energy first couple hours confirms the cost (6.5 hr night). Constraint-vs-drift framing still applies.
+  - **Magnesium-BM hypothesis:** lag-aware analysis this week slightly more supporting than against, but still ambiguous. Electrolyte column optional to retire.
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
@@ -101,8 +107,10 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - _2026-06-07 update:_ BMs were daily this week (6/1–6/6), inconsistent with baseline complaint. Magnesium from Instant Hydration packets (100 mg, every other day) is a plausible driver. Constipation alarm reduced; keep watching through luteal phase. Still no diet changes; on-top-vs-swap question for Greek yogurt remains open.
 - Specifics on lunches/snacks (not pushed in session 1)
 - Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
-- Bedtime-anchor + window-blackout experiment in progress (assigned 2026-05-25 / extended 2026-06-01 / pivoted from mask to window blackout 2026-06-02 / shades installed 2026-06-12; in 5–7 night recalibration window; log continues through ~end of June)
-- Cycle-warmth stacking experiment for next period Days 1–3: cooling micro-intervention + window blackout (planned 2026-06-07)
+- Window-blackout intervention **COMPLETE 2026-06-21** — shades installed 2026-06-12 resolved sunrise wakings entirely; recalibration period closed cleanly. Bedtime anchor remains a self-managed lever.
+- Cycle-warmth stacking experiment for next period Days 1–3: cooling micro-intervention (light side already mitigated by shades; cooling still pending test)
+- **Mid-cycle warmth pattern (Days 13–15) — watch for recurrence next cycle.** Two consecutive warm wakings at ovulation window (6/13, 6/15). Possible second cycle-phase pattern.
+- Florida trip 6/28 → ~7/5 (Disney + Justin's mom). Pre-flagged 2026-06-21; "maintain, don't try to lose" frame. Engage closer to date.
 - Magnesium-from-electrolytes hypothesis for BM frequency — ambiguous after lag-corrected re-analysis (Larissa noted afternoon dosing, so right comparison is day X → day X+1). Stays alive but unconfirmed; small sample, many concurrent variables. Keep watching; don't act on it. BM frequency still daily/near-daily.
 - 2026-06-13 mid-cycle warm waking — watch for recurrence around Day 13–14 of next cycle
 - 6/1 warmth event — watching for recurrence over next ~2 weeks
