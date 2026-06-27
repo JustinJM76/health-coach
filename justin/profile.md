@@ -174,3 +174,9 @@ _Last updated: 2026-04-25_
 - **Status:** single data point + multiple confounders. NOT actionable yet. Filed as a hypothesis to test via structured elimination experiment.
 - **Proposed test design (when Justin commits):** 2 wk baseline + daily 1-5 stiffness score → 2-3 wk gluten elimination + same scoring → reintroduction + monitor. ~6 weeks total. Plan around a slow week (no big social food anchors) for clean results.
 - **Don't chase prematurely.** Heavy-wheat days will recur; another correlation observation will help confirm before committing to a multi-week elimination.
+
+**Correlation updates:**
+- **2026-06-25 (data point #3):** elevated morning joint stiffness (more than recent baseline; worked out fast) the AM after a **Subway sandwich** — notably more wheat than his now-low-wheat baseline. Justin himself drew the connection and flagged a possible gluten test "at some point (not now)."
+- **~mid-June (data point #2, recalled 6/25):** a comparable stiffness morning followed a **pizza** dinner the night before.
+- **Pattern strengthening:** three wheat-adjacent stiffness mornings now (5/2, mid-June pizza, 6/25 Subway), plus the maternal wheat→joint family history. The 6/25 + pizza data points have **fewer confounders** than the 5/2 one (no major weather shift cited). The signal is becoming consistent: heavier-wheat day → next-AM joint stiffness.
+- **Status:** still NOT testing now (Justin's call — Justin Month + Florida trip make a clean elimination window impossible until ~mid-July). Keep logging wheat-day/stiffness correlations passively. Revisit the structured elimination test (above) when a slow, low-social-food stretch opens up — likely mid-to-late July.

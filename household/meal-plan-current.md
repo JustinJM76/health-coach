@@ -14,8 +14,8 @@ _**"Justin Month" peak** — Father's Day Sun + a friend's birthday (Sat 6/20 ni
 | **Sun 6/21** *(Father's Day — in-laws over)* | **Grilled steaks** (bought at the butcher 6/20) | Grilled asparagus / zucchini + a big salad + sautéed mushrooms & onions; baked or grilled potatoes for the guests | Steak ~6–7 oz + **double grilled veg/salad**, small or skip the potato. _(Sunday burrito anchor yields to Father's Day this week — see note.)_ |
 | **Mon 6/22** | **Salmon** — pan-seared, air-fryer, or grill if nice | **Steamed broccoli** (J: ground pepper, no butter / L: a little olive oil) + small rice | Salmon + **double broccoli**, ½ cup rice. Fish for the week. |
 | **Tue 6/23** *(rain forecast → no grill)* | **Boneless chicken thighs** (bought 6/20) — sheet-pan or air-fryer; see `recipes/sheet-pan-chicken-thighs.md` | Roasted broccoli or Brussels sprouts + small potato or rice | Thighs + **double roasted veg**, small/skip starch. Indoor cook = rain-proof. |
-| **Wed 6/24** *(flex to Thu)* | **Turkey burritos** (the Sunday anchor, moved this week) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. Chips/salsa: don't open till plating. |
-| **Thu 6/25** | TBD (or burritos if bumped from Wed) | — | — |
+| **Wed 6/24** | ~~Burritos~~ → **Subway** (6-in chicken + avocado, no cheese — time pinch) | — | Done. Burritos bumped to Thu. |
+| **Thu 6/25** | ~~Burritos~~ → **turkey burger** (burritos displaced again → **dropped this week**; ground turkey to freeze) | — | Clean low-wheat day. |
 | **Fri 6/26** | TBD (likely a guys' lunch) | — | — |
 | **Sat 6/27** *(Justin's birthday)* | **Celebration — TBD** | — | His day — plan the plate once the format's known. |
 
