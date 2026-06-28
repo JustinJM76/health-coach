@@ -93,6 +93,16 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - **New pattern: mid-cycle warmth events.** Day 13 (6/13) and Day 15 (6/15) both had warm wakings, in the ovulation window. Possible second cycle-phase warmth pattern alongside Days 1–2 cluster. Re-instated cycle column to track; water column dropped (her call, supportive).
   - **Weekend bedtime creep returning** (Sat 11:30, Sun midnight on 6/20–6/21). Sun 6/21 low-energy first couple hours confirms the cost (6.5 hr night). Constraint-vs-drift framing still applies.
   - **Magnesium-BM hypothesis:** lag-aware analysis this week slightly more supporting than against, but still ambiguous. Electrolyte column optional to retire.
+  - _2026-06-27 update — third cycle-phase warmth pattern confirmed; graduation to exception-based tracking._
+  - **6/24 natural A/B confirmation of shades:** slightly-open shades → 5:15 wake; sealed shades → no sunrise wake. Mechanism confirmed.
+  - **Three cycle-phase warmth windows now documented:**
+    - **Days 1–2** (perimenstrual estrogen drop — confirmed 6/1–6/2)
+    - **Days 13–15** (ovulation window — confirmed 6/13, 6/15)
+    - **Days 26–27** (late luteal — confirmed 6/26, 6/27 after Larissa confirmed period had NOT started)
+  - All three sit at cycle hormonal-shift points. Coherent peri-vasomotor pattern with **4–6 predictable warm-risk nights per cycle** — she can pre-empt rather than react.
+  - **Sleep / BM / energy otherwise excellent** through 6/22–6/27 — bedtimes anchored Mon–Fri, no issues. System is working.
+  - **GRADUATED to exception-based tracking** (her ask, accepted): keep cycle position + log only deviations. Retire water/electrolyte/daily BM/daily routine descriptions.
+  - **Florida trip 6/28 → ~7/5 pre-framed.** Period expected to start during trip → Days 1–2 overlap with Disney heat + hotel. Awareness items offered (lighter PJs, AC, fan, electrolyte packets); no tracking during trip; "maintain, don't try to lose" frame.
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.
@@ -108,9 +118,9 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - Specifics on lunches/snacks (not pushed in session 1)
 - Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
 - Window-blackout intervention **COMPLETE 2026-06-21** — shades installed 2026-06-12 resolved sunrise wakings entirely; recalibration period closed cleanly. Bedtime anchor remains a self-managed lever.
-- Cycle-warmth stacking experiment for next period Days 1–3: cooling micro-intervention (light side already mitigated by shades; cooling still pending test)
-- **Mid-cycle warmth pattern (Days 13–15) — watch for recurrence next cycle.** Two consecutive warm wakings at ovulation window (6/13, 6/15). Possible second cycle-phase pattern.
-- Florida trip 6/28 → ~7/5 (Disney + Justin's mom). Pre-flagged 2026-06-21; "maintain, don't try to lose" frame. Engage closer to date.
+- Daily comprehensive log **GRADUATED 2026-06-27** to exception-based tracking — keep cycle position + log only deviations from baseline.
+- **Three cycle-phase warmth windows documented (2026-06-27):** Days 1–2 (perimenstrual), Days 13–15 (ovulation), Days 26–27 (late luteal). Predictive use going forward — pre-empt 4–6 warm-risk nights per cycle with cooling (lighter bedding, AC, fan).
+- Florida trip 6/28 → ~7/5 (Disney + Justin's mom). Period expected to start during trip → Days 1–2 will likely overlap with Disney heat. Pre-framed with Larissa 2026-06-27. "Maintain, don't try to lose" frame.
 - Magnesium-from-electrolytes hypothesis for BM frequency — ambiguous after lag-corrected re-analysis (Larissa noted afternoon dosing, so right comparison is day X → day X+1). Stays alive but unconfirmed; small sample, many concurrent variables. Keep watching; don't act on it. BM frequency still daily/near-daily.
 - 2026-06-13 mid-cycle warm waking — watch for recurrence around Day 13–14 of next cycle
 - 6/1 warmth event — watching for recurrence over next ~2 weeks
