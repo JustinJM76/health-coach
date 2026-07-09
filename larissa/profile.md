@@ -11,6 +11,23 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - **Bigger frame: eat and move well through perimenopause** — weight loss is one signal among several; energy and physical fitness equally weighted
 - **Protein curiosity:** wants guidance on how to add more protein paired with weight loss — already started by adding Greek yogurt to morning oatmeal
 - **6-month vision of success:** lost some of the weight, feels energetic, feels physically fit
+- _2026-07-08 reframe (session 9 program activation):_ family history sweep this session surfaced a specific CV + bone density risk stack that lands on top of borderline Nov 2025 lipids. The habits we're building serve the 20+ year post-menopause CV + bone trajectory. **5 lb is the visible entry point; the healthspan case is bigger. Success framed as habits > pounds.** See `plan.md` for full program.
+
+## Family medical history (added 2026-07-08 — session 9 sweep)
+
+**Longevity backdrop: excellent.** Grandmother lived to 92; parents both living and independently active (mother 82, father 78).
+
+**Risk stack:**
+
+1. **Cardiovascular (primary family theme).** Mother: heart valve replacement, high BP, high cholesterol, post-surgical AFib, blood clot in arm. Father: high BP, AFib. Grandfather: stroke. → Combined with Larissa's own borderline LDL 154 / total cholesterol 234 (Nov 2025), CV is her dominant lifestyle-modifiable risk. Post-menopause estrogen loss will remove existing protection.
+2. **Bone density (peri-specific).** Mother: osteoporosis. → Most peri-relevant single finding; resistance training + adequate protein + Vit D/calcium now protects the 20+ year post-menopause trajectory. This is what moved RT from "future thread" to "high-priority experiment" in the current plan.
+3. **Metabolic (moderate).** Father: Type 2 diabetes (diet-controlled). → Family risk factor; Larissa's A1C 5.5 is fine but not optimal. Weight loss + protein + fiber all serve; muscle mass directly improves glucose regulation.
+4. **Autoimmune background.** Father: psoriatic arthritis, mild psoriasis. Mother: colitis (controlled). → No personal symptoms; awareness if any joint/GI issues surface.
+5. **Cognitive.** Grandmother: dementia. → Single generation, at distance; long-term consideration (aerobic activity, sleep, lipids all protective).
+6. **Cancer.** Father: small melanoma spots (removed successfully). → Sun awareness. No other significant cancers.
+7. **Thyroid, mental health: clean.**
+
+**Implication for program design:** the habits being built in `plan.md` (protein density, fiber emphasis, resistance training, sleep already banked) address the top three risks (CV, bone, metabolic) simultaneously. The 5 lb weight loss goal is the visible entry point; the healthspan case is bigger than the number.
 
 ## Medical / vitals
 - **Last bloodwork:** 2025-11-07 (file in `lab-results/bloodwork-20251107.md`). Read summary:
@@ -112,11 +129,12 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 
 ## Open items / future threads
 - Ferritin / Vit D / B12 at next physician visit
-- Resistance training conversation (separate, dedicated exchange)
-- **Protein / weight / digestion thread — ACTIVE as of 2026-06-01.** Larissa reports ~2 lb gain a couple weeks ago and a shift in BM frequency from daily → every 2–3 days, both starting roughly when Greek yogurt was added to oatmeal ~3–4 weeks ago. Working theory: yogurt may have been added *on top of* oatmeal portion rather than as a swap, shifting AM fiber:protein ratio and adding net calories; constipation may also account for some of the weight change. **Data to gather first** (next ~1 week, no diet changes): water intake (rough oz), BM yes/no, cycle position. Confirm on-top-vs-swap question. Then act.
-  - _2026-06-07 update:_ BMs were daily this week (6/1–6/6), inconsistent with baseline complaint. Magnesium from Instant Hydration packets (100 mg, every other day) is a plausible driver. Constipation alarm reduced; keep watching through luteal phase. Still no diet changes; on-top-vs-swap question for Greek yogurt remains open.
-- Specifics on lunches/snacks (not pushed in session 1)
-- Family medical history sweep (10–15 min, lands in this profile; flagged by J coach 2026-05-18, no urgency)
+- **Lipid re-check this fall** (~November mark — 12 mo from Nov 2025 baseline). Added 2026-07-08 — CV family history + borderline lipids make earlier-than-annual re-check the right call.
+- **Weight-loss / peri-healthspan program ACTIVATED 2026-07-08.** See `plan.md`. Three first experiments (protein-forward afternoon snack, weekly Sat AM weigh-in, resistance training) + fiber design principle. First formal review Sun 2026-08-02. Consolidates the earlier "Protein/weight/digestion" thread — the on-top-vs-swap question was resolved (on top, but she eliminated a cheese-stick snack; small net change). Constipation thread stayed dormant through end of June — not a live concern.
+- **Resistance training thread ACTIVATED 2026-07-08** as part of program — 2×/wk, Justin walks band setup on session 1. Priority driven by maternal osteoporosis + peri.
+- **Family medical history sweep completed** 2026-07-08 — see "Family medical history" section above.
+- **Whether to add weight tracking:** RESOLVED 2026-07-08 — weekly Sat AM.
+- **Specifics on lunches/snacks:** REVIEWED 2026-07-08 — confirmed solid rotation. Beans-in-salad-kit design principle folded into program; no fundamental change needed.
 - Window-blackout intervention **COMPLETE 2026-06-21** — shades installed 2026-06-12 resolved sunrise wakings entirely; recalibration period closed cleanly. Bedtime anchor remains a self-managed lever.
 - Daily comprehensive log **GRADUATED 2026-06-27** to exception-based tracking — keep cycle position + log only deviations from baseline.
 - **Three cycle-phase warmth windows documented (2026-06-27):** Days 1–2 (perimenstrual), Days 13–15 (ovulation), Days 26–27 (late luteal). Predictive use going forward — pre-empt 4–6 warm-risk nights per cycle with cooling (lighter bedding, AC, fan).

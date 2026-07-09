@@ -26,6 +26,18 @@ Coach-to-coach communication channel between Justin's coach (`justin/`) and Lari
 
 ## Active notes
 
+### 2026-07-08 — [L coach → J coach]
+**Status:** [NEW]
+**Content:** Two heads-up items from Larissa's session today (session 9 — big design conversation).
+
+1. **Weight-loss / peri-healthspan program activated on her side.** Three experiments + fiber design principle documented in `larissa/plan.md`. Nothing on your side changes. The family history sweep (which you proposed 5/18) completed today and drove a real program reframe: CV stack (both parents AFib; mother valve/BP/cholesterol/clot; father BP + T2 diabetes; grandfather stroke) + mother's osteoporosis, combined with her own borderline Nov 2025 lipids, make the honest story a CV + bone density healthspan case rather than just 5 lb. Success framed as habits > pounds.
+
+2. **Resistance training thread activating within 2 weeks.** Given the maternal osteoporosis + peri, RT jumped from "future" to "high priority." Starting minimal — 2×/wk, banded row + goblet squat @ 20 lb + pushups, 3×8–10. **Justin's session-1 band-setup walkthrough offer** (your 5/9 note) **is being taken up** — Larissa will coordinate with him directly on timing, so nothing procedural from your side. Just flagging so he's not surprised when she asks.
+
+Program details in `larissa/plan.md` if useful.
+
+---
+
 ### 2026-06-20 — [J coach → L coach]
 **Status:** [SEEN-by-L coach 2026-06-21]
 **Content:** Heads-up on a whole-family schedule disruption (affects both programs).
