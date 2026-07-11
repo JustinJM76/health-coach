@@ -4,54 +4,67 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-06-21 (Sun) — 2026-06-27 (Sat)
+## Week of 2026-07-12 (Sun) — 2026-07-18 (Sat)
 
-_**"Justin Month" peak** — Father's Day Sun + a friend's birthday (Sat 6/20 night) + Justin's birthday celebrations around next Sat 6/27. **D2 away all week.** Schedule flexible. Only Sun–Tue planned firmly (proteins already bought at the butcher 6/20); Wed–Sat left open for the birthday-week celebrations. Coach posture: enjoy the legit once-a-year events, keep the food levers stacked, hold the alcohol per-occasion cap. Planned 6/20._
+_**"Just us" fortnight** — both girls at summer camp ~7/12–7/26, so it's **Justin + Larissa only** (cooking for 2 adults). Opportunity: **no kid-menu constraints** → lean into plant-forward (Larissa's preference), fish/seafood the kids skip, spicier, and **new recipes** Justin wanted to try. Cook-once-eat-twice targets Larissa's work lunches too. Front of week is transitional (birthday-lunch out Sat + all-day camp drive Sun). Planned 7/11._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sat 6/20 (tonight)** | **Out — friend's birthday party** (eating there) | — | Pre-load if you can; lean toward protein + veg off the spread; **drinks ≤3, with the food, water alongside.** |
-| **Sun 6/21** *(Father's Day — in-laws over)* | **Grilled steaks** (bought at the butcher 6/20) | Grilled asparagus / zucchini + a big salad + sautéed mushrooms & onions; baked or grilled potatoes for the guests | Steak ~6–7 oz + **double grilled veg/salad**, small or skip the potato. _(Sunday burrito anchor yields to Father's Day this week — see note.)_ |
-| **Mon 6/22** | **Salmon** — pan-seared, air-fryer, or grill if nice | **Steamed broccoli** (J: ground pepper, no butter / L: a little olive oil) + small rice | Salmon + **double broccoli**, ½ cup rice. Fish for the week. |
-| **Tue 6/23** *(rain forecast → no grill)* | **Boneless chicken thighs** (bought 6/20) — sheet-pan or air-fryer; see `recipes/sheet-pan-chicken-thighs.md` | Roasted broccoli or Brussels sprouts + small potato or rice | Thighs + **double roasted veg**, small/skip starch. Indoor cook = rain-proof. |
-| **Wed 6/24** | ~~Burritos~~ → **Subway** (6-in chicken + avocado, no cheese — time pinch) | — | Done. Burritos bumped to Thu. |
-| **Thu 6/25** | ~~Burritos~~ → **turkey burger** (burritos displaced again → **dropped this week**; ground turkey to freeze) | — | Clean low-wheat day. |
-| **Fri 6/26** | TBD (likely a guys' lunch) | — | — |
-| **Sat 6/27** *(Justin's birthday)* | **Celebration — TBD** | — | His day — plan the plate once the format's known. |
+| **Sat 7/11 (today)** | **Lunch OUT** — in-laws, birthday cap (nice restaurant) · **Dinner light** — soup + sandwiches (D2 performing tonight) | — | Lunch: protein- + plant-forward, lean entrée, one intentional indulgence if wanted (it's the birthday cap). Dinner light per Friday-flex logic (big lunch): broth-based soup + ½ sandwich. |
+| **Sun 7/12** *(all-day camp drive — pack food)* | **Packed** — lunch + likely dinner on the road | — | **Pack to beat the gas-station food environment:** turkey wraps or a big container salad + protein, cottage-cheese cups / HB eggs / jerky, fruit, bounded nuts. Hydrate for the drive. |
+| **Mon 7/13** | **Turkey burritos** (Larissa request — she wants the **leftovers for work lunch**) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. Chips/salsa: don't open till plating. |
+| **Tue 7/14** | **NEW: Mediterranean grain bowls** — farro or quinoa + roasted veg + chickpeas + feta + lemon-tahini | Built-in (grain + veg + chickpeas); add extra greens | Plant-forward anchor; huge **leftover-lunch** value for both. Justin: load the chickpeas/veg/protein, easy on the grain. |
+| **Wed 7/15** | **Grilled fish tacos** (new grill) — mahi/cod or shrimp | Cabbage slaw, lime crema, cilantro, corn tortillas, avocado | Fish + double slaw, 2 street-size tortillas (or bowl it). A kids-skip-it summer pick. |
+| **Thu 7/16** *(real dinner)* | **NEW: Seared scallops** + pan sauce — **CONTINGENCY if good scallops aren't available:** shrimp scampi *or* steak-for-2 on the grill | Big salad or sautéed greens (spinach/chard) + optional small grain | Adult "just us" treat, quick (~15 min). Scallops/shrimp = lean high-protein; steak = grill fallback. |
+| **Fri 7/17** | Guys' lunch → light dinner | — | Friday-flex: lighter dinner. |
+| **Sat 7/18** | TBD / flex | — | — |
 
-### Week protein parade
-(Out) → beef (steak) → salmon (fish) → chicken (thighs) → open. Clean variety across the firm days, no repeats. Plant-forward is light this celebration week — we'll seat one in the Wed–Sat open slots if a normal cook night lands.
+_Everything shifted +1 day to seat Larissa's Monday burrito request. **Scallop contingency (Thu):** grab shrimp as a backup when you shop — reliable, same quick-sear technique, and it drops right into the same pan-sauce/greens plan; steak-for-2 is the grill fallback if you'd rather. Grain-bowl recipe being saved to `recipes/`._
 
-### Shopping list (week of 6/21–6/27)
+### Shopping list (week of 7/12–7/18)
 
-_Format: by department, one item per line, day-tagged. Steaks + thighs already bought at the butcher 6/20. Sun–Tue is the firm list; Wed–Sat are TBD (birthday week) — shop those ad hoc. Check freezer/pantry first._
+_Front-half firm (Mon–Wed); Thu–Sat flex. Today (out) + Sun (packed) covered separately. Check pantry first. Real shop likely Sun eve / Mon once new recipes are confirmed._
 
 **Meat & seafood**
-- [x] Steaks — Sun (bought at the butcher 6/20)
-- [x] Boneless chicken thighs — Tue (bought 6/20)
-- [ ] Salmon fillet, ~1.5–2 lb — Mon
-- [ ] Ground turkey, ~1.5 lb — Wed (burritos)
+- [ ] Ground turkey, ~1.5 lb — Mon (burritos)
+- [ ] Fish for tacos — mahi/cod ~1 lb — Wed
+- [ ] Sea scallops, ~¾–1 lb — Thu (**+ backup shrimp ~1 lb** in case scallops are poor)
+- [ ] (fallback) steak ×2 — Thu, only if skipping seafood
 
 **Produce**
-- [ ] Asparagus and/or zucchini, for the grill — Sun
-- [ ] Mushrooms, 8 oz — Sun
-- [ ] Yellow onion, 1 — Sun
-- [ ] Salad greens, 1–2 heads or 1 bag — Sun
-- [ ] Potatoes (baby or russet) for the guests — Sun
-- [ ] Broccoli, ~1 lb — Mon
-- [ ] Broccoli or Brussels sprouts, ~1 lb — Tue
-- [ ] Avocado, 1–2 + lettuce — Wed (burritos)
-
-**Burrito staples (Wed — check first, restock as needed)**
-- [ ] Tortillas — Wed
-- [ ] Black beans, 1–2 cans — Wed
-- [ ] Shredded cheese, salsa — Wed
+- [ ] Avocado, lettuce — Mon (burritos) + Wed (tacos)
+- [ ] Zucchini, bell pepper, red onion, cherry tomatoes, cucumber (grain bowls) — Tue
+- [ ] Lemon(s) — Tue, Thu
+- [ ] Cabbage (slaw), lime, cilantro — Wed
+- [ ] Salad greens + spinach/chard — Thu
+- [ ] Grilling veg + salad greens — Thu (if steak fallback)
 
 **Pantry & dairy**
-- [ ] Rice, jasmine/basmati (check) — Mon, Tue
-- [ ] Steak seasoning / thigh rub (check) — Sun, Tue
-- [ ] Butter for the guests' potatoes (check) — Sun
-- [ ] Grill pellets — check supply for Sun steaks
+- [ ] Farro or quinoa — Tue
+- [ ] Chickpeas, 1–2 cans — Tue
+- [ ] Tahini (check) — Tue
+- [ ] Feta (check) — Tue
+- [ ] Corn tortillas (street size) — Wed
+- [ ] Taco spices (check) — Wed
+- [ ] Burrito staples: tortillas, black beans, shredded cheese, salsa, rice (check) — Mon
+
+**Sun road-trip pack (from pantry/fridge where possible)**
+- [ ] Wrap/sandwich fixings or salad greens + protein — Sun
+- [ ] Cottage-cheese cups / hard-boiled eggs / jerky, fruit, portioned nuts — Sun
+
+### Past week archive (2026-06-21 → 2026-06-27, then Florida 6/28–7/7)
+
+| Day | Plan | Outcome |
+|---|---|---|
+| Sat 6/20 | Friend's birthday party (out) | Salmon/chicken off the spread; 4 drinks/6 hrs (paced). |
+| Sun 6/21 | Father's Day grilled steaks (in-laws) | Done. Ribeye + 2 margaritas; fasted AM, no graze. |
+| Mon 6/22 | Salmon | Done. |
+| Tue 6/23 | Chicken thighs (rain) | Done (oven-roasted + asparagus). |
+| Wed 6/24 | (burritos→) Subway | Time pinch; burritos bumped. |
+| Thu 6/25 | (burritos→) turkey burger | Burritos dropped for the week. |
+| Fri 6/26 | Guys' lunch → light | Rest day. |
+| Sat 6/27 | Justin's birthday | Celebration; enjoyed, not overboard. |
+| **6/28–7/7** | **Florida trip** | Disney (maintain-don't-lose executed clean) + mom's visit (harder, IF held). |
 
 ### Past week archive (2026-06-14 → 2026-06-20)
 
