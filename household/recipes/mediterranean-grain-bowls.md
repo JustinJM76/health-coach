@@ -73,5 +73,16 @@ _Why it earns a slot: **plant-forward** (Larissa's preference), protein flexible
 Adapted from We Are Not Martha — "Mediterranean Grain Bowls": https://wearenotmartha.com/mediterranean-grain-bowls/
 
 ## Iteration notes
-### v1 — 2026-07-14 (planned first cook)
-- _To be evaluated after first cook._
+### v1 — 2026-07-14 (first cook) — HIT for Larissa; needs protein + ratio fix for Justin
+- **Larissa loved it.** Justin: tasted good but **didn't satisfy him** on its own — chickpeas alone weren't enough. He ate a piece of **leftover pork** after to get the protein he wanted. **→ For Justin, add an animal protein** (grilled chicken over the top next time; the recipe's optional lemon-oregano chicken is the move). Plant-forward satisfies Larissa; Justin needs the animal-protein component for satiety.
+- **Ratios were off — too grain-heavy, not enough veg.** Used quinoa (subbed for farro): 1 cup dry → **~4 cups cooked** (tri-color fluffs big) — way too much; Justin ate only ½ cup, threw some out even after a leftover serving. **Wanted ~2× the veg** he made.
+- **Roasting: stagger the trays** — chickpeas crisp faster than the veg. **Chickpeas ~20 min; veg ~25–30 min** (pull chickpeas earlier).
+- **Quinoa build worked well** (low-wheat; good texture) — keep quinoa as the default grain (couscous is wheat).
+
+### v2 targets (Justin's scaling — feed 4 + leftovers)
+- **Quinoa: 1.5×** tonight's (grain scales *least* — it was already over) → ~1.5 cups dry.
+- **Veg: 3×** tonight's (big volume — this is a veg-forward bowl).
+- **Everything else (chickpeas, dressing, feta, toppings): 2×.**
+- **+ Optional grilled chicken** (esp. for Justin's bowl).
+- **Stagger roast:** chickpeas 20 min / veg 25–30 min.
+- Justin's grain scoop stays small (~½ cup); load veg + chickpeas + chicken.
