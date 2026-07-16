@@ -56,5 +56,17 @@ _Why it earns a slot: lean high-protein fish, fast (~10 min on the grill), summe
 - Slaw + fish keep well → next-day **taco bowls** for lunch.
 
 ## Iteration notes
-### v1 — 2026-07-15 (planned first cook, mahi)
-- _To be evaluated after first cook._
+### v1 — 2026-07-15 (first cook, mahi) — WINNER, into rotation
+- **Big hit; going into rotation.** Justin expects the girls will like it too.
+- **Grill method confirmed dead-on:** 4 min first side → flipped easily → 3–4 min second side to **140°F.** Keep as written.
+- **Portion:** store sells mahi in **12 oz** portions — one 12 oz filled 2 adults, **no leftovers.** → **For 4 (girls home): 2× = ~24 oz (1.5 lb).**
+- **Slaw upgrade:** used bagged **"rainbow slaw"** (broccoli, cauliflower, carrots + cabbage) — **more crunch, bulk, and veg variety; excellent.** New default.
+- **Slaw dressing fix:** avocado oil tasted a little **bitter** → added **1–2 tsp hot honey.** Balanced it perfectly (and adds a touch of Justin's heat). New default for the slaw.
+- **Greek-yogurt lime crema = standout** ("amazing"). **Find more uses** (see below).
+
+### Crema — versatile condiment (Justin wants more uses)
+Greek-yogurt + lime + zest + salt (+ optional chipotle/hot sauce). Try it on:
+- Taco/burrito bowls, grilled chicken or any grilled fish
+- Drizzle over roasted veg or a baked (sweet) potato
+- Dolloped on chili/soup in place of sour cream (protein bump)
+- Crudité / veggie dip; wrap or sandwich spread; breakfast/egg tacos
