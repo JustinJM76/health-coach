@@ -100,7 +100,7 @@ Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No d
 | Day | Session | Notes |
 |---|---|---|
 | **Mon** | Lower + Push + Core — KB squats **3×6–8 @ 35 lb, building to 3×12** (Mon 6/1 only: 3×12 @ 20 lb — bell not here yet; see KB progression below), pushups 3×10, glute bridges 3×10, **dead bug 3×8/side**, 20 min elliptical | Core slot added 2026-05-18 for parity with Tue/Thu (4 strength moves). Dead bug = anti-extension brace; pairs with KB squat bracing. Rotate within the core slot in later weeks if appropriate (bird dog, Pallof variations, hollow holds — all disc-friendly). |
-| **Tue** | Upper Pull + Core — band row 3×12, lat pulldown 3×12, chest press 3×12, Pallof press 3×10/side, 15 min elliptical | Bands. **Baseline resistance bumped 2026-05-28** (added a band on row/press work — clean form, formalized at 5/31 review). Dial up from day 1. |
+| **Tue** | Upper Pull + Core — band row 3×12, lat pulldown 3×12, chest press 3×12, Pallof press 3×10/side, 15 min elliptical | Bands. **Baseline resistance bumped 2026-05-28**, then **bumped again 2026-07-16** (row/press — clean form confirmed across 2 sessions 7/14 + 7/16; new baseline). Dial up from day 1. |
 | **Wed** | Cardio + light mobility — 25 min elliptical + band pull-aparts 2×15 + stretching | Meeting day; keep it short and low-load. Workout shifts to ~1:15–1:45pm after the 12–1 meeting. |
 | **Thu** | Full body — KB squats **3×6–8 @ 35 lb, building to 3×12** (see KB progression below), band rows 3×10, pushups 3×10, band chest press 3×10, 15 min elliptical | Heaviest session of the week. Thu 6/4 is the first 35 lb session. Band row/press at the bumped 5/28 baseline. |
 | **Fri** | REST | Mexican lunch day |
