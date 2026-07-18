@@ -4,53 +4,57 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-07-12 (Sun) — 2026-07-18 (Sat)
+## Week of 2026-07-19 (Sun) — 2026-07-25 (Sat)
 
-_**"Just us" fortnight** — both girls at summer camp ~7/12–7/26, so it's **Justin + Larissa only** (cooking for 2 adults). Opportunity: **no kid-menu constraints** → lean into plant-forward (Larissa's preference), fish/seafood the kids skip, spicier, and **new recipes** Justin wanted to try. Cook-once-eat-twice targets Larissa's work lunches too. Front of week is transitional (birthday-lunch out Sat + all-day camp drive Sun). Planned 7/11._
+_**Last "just us" week** — girls away one more week (back ~7/26). Two anchors: **Mon in-laws dinner** (Larissa's parents over; good grilling weather) and **Thu out to eat.** **Wed = Justin's annual bloodwork** (AM draw — his overnight IF fast covers a fasting panel; FYI, no plan impact). Repeating the grain bowls (Larissa loved them + used the leftovers) with the **v2 fixes**. Planned 7/18._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sat 7/11 (today)** | **Lunch OUT** — in-laws, birthday cap (nice restaurant) · **Dinner light** — soup + sandwiches (D2 performing tonight) | — | Lunch: protein- + plant-forward, lean entrée, one intentional indulgence if wanted (it's the birthday cap). Dinner light per Friday-flex logic (big lunch): broth-based soup + ½ sandwich. |
-| **Sun 7/12** *(all-day camp drive — pack food)* | **Packed** — lunch + likely dinner on the road | — | **Pack to beat the gas-station food environment:** turkey wraps or a big container salad + protein, cottage-cheese cups / HB eggs / jerky, fruit, bounded nuts. Hydrate for the drive. |
-| **Mon 7/13** | **Turkey burritos** (Larissa request — she wants the **leftovers for work lunch**) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward; light on rice/tortilla. Chips/salsa: don't open till plating. |
-| **Tue 7/14** | **NEW: Mediterranean grain bowls** — farro or quinoa + roasted veg + chickpeas + feta + lemon-tahini | Built-in (grain + veg + chickpeas); add extra greens | Plant-forward anchor; huge **leftover-lunch** value for both. Justin: load the chickpeas/veg/protein, easy on the grain. |
-| **Wed 7/15** | **Grilled fish tacos** (new grill) — mahi/cod or shrimp | Cabbage slaw, lime crema, cilantro, corn tortillas, avocado | Fish + double slaw, 2 street-size tortillas (or bowl it). A kids-skip-it summer pick. |
-| **Thu 7/16** *(real dinner)* | **NEW: Seared scallops** + pan sauce — **CONTINGENCY if good scallops aren't available:** shrimp scampi *or* steak-for-2 on the grill | Big salad or sautéed greens (spinach/chard) + optional small grain | Adult "just us" treat, quick (~15 min). Scallops/shrimp = lean high-protein; steak = grill fallback. |
-| **Fri 7/17** | Guys' lunch → light dinner | — | Friday-flex: lighter dinner. |
-| **Sat 7/18** | TBD / flex | — | — |
+| **Sun 7/19** | Flex / light (just us) — leftovers or a simple protein + veg | — | Light, protein + veg. |
+| **Mon 7/20** *(Larissa's parents over — grill; good weather)* | **Grilled swordfish** (firm, meaty, great for company) + a bright sauce (salsa verde / chimichurri / lemon-caper) | Grilled asparagus/zucchini + big salad + small potatoes or orzo/rice for the guests | Swordfish + **double grilled veg/salad**, small/skip starch. |
+| **Tue 7/21** | **Grain bowls — v2** (see `recipes/mediterranean-grain-bowls.md`) — **more veg, less grain, staggered roast, + grilled chicken** | Quinoa base + roasted veg + crispy chickpeas + feta + lemon-tahini | **+ grilled chicken on Justin's** (the v1 satiety fix — plant-only didn't fill him). Load veg/chickpeas/chicken, small grain scoop. Leftovers → Larissa's lunches. |
+| **Wed 7/22** *(annual bloodwork, AM — fasting; IF covers it)* | Simple/quick — pan-seared salmon or turkey burgers + veg | Steamed or roasted veg + small starch | Protein + double veg. Easy night. |
+| **Thu 7/23** | **OUT to eat** | — | Lead with a lean protein + veg, choosy on bread/apps; drinks per policy (in-person social, ≤3, with the meal). |
+| **Fri 7/24** | Guys' lunch → light dinner | — | Friday-flex: lighter dinner. |
+| **Sat 7/25** | TBD / flex (girls back ~7/26) | — | — |
 
-_Everything shifted +1 day to seat Larissa's Monday burrito request. **Scallop contingency (Thu):** grab shrimp as a backup when you shop — reliable, same quick-sear technique, and it drops right into the same pan-sauce/greens plan; steak-for-2 is the grill fallback if you'd rather. Grain-bowl recipe being saved to `recipes/`._
+### Week protein parade
+Flex → swordfish (fish) → chicken + chickpea (grain bowls) → salmon/turkey → out → light. Fish-forward, plant-forward Tue. No repeats on the firm nights.
 
-### Shopping list (week of 7/12–7/18)
+### Shopping list (week of 7/19–7/25)
 
-_Front-half firm (Mon–Wed); Thu–Sat flex. Today (out) + Sun (packed) covered separately. Check pantry first. Real shop likely Sun eve / Mon once new recipes are confirmed._
+_Mon–Wed firm; Thu (out) + Fri/Sat flex. Check pantry first. Swordfish for 4 (in-laws) Mon._
 
 **Meat & seafood**
-- [ ] Ground turkey, ~1.5 lb — Mon (burritos)
-- [ ] Fish for tacos — mahi/cod ~1 lb — Wed
-- [ ] Sea scallops, ~¾–1 lb — Thu (**+ backup shrimp ~1 lb** in case scallops are poor)
-- [ ] (fallback) steak ×2 — Thu, only if skipping seafood
+- [ ] Swordfish steaks, ~1.5–2 lb (feeds 4) — Mon
+- [ ] Chicken breast, ~1 lb (grill for the grain bowls) — Tue
+- [ ] Salmon ~1 lb *or* ground turkey — Wed
 
 **Produce**
-- [ ] Avocado, lettuce — Mon (burritos) + Wed (tacos)
+- [ ] Asparagus/zucchini (grill) + salad greens + small potatoes — Mon
+- [ ] Fresh herbs (parsley/cilantro) + lemon + garlic (swordfish sauce) — Mon
 - [ ] Zucchini, bell pepper, red onion, cherry tomatoes, cucumber (grain bowls) — Tue
-- [ ] Lemon(s) — Tue, Thu
-- [ ] Cabbage (slaw), lime, cilantro — Wed
-- [ ] Salad greens + spinach/chard — Thu
-- [ ] Grilling veg + salad greens — Thu (if steak fallback)
+- [ ] Lemon(s) — Tue
+- [ ] Veg for Wed (broccoli/green beans/etc.) — Wed
 
 **Pantry & dairy**
-- [ ] Farro or quinoa — Tue
-- [ ] Chickpeas, 1–2 cans — Tue
-- [ ] Tahini (check) — Tue
-- [ ] Feta (check) — Tue
-- [ ] Corn tortillas (street size) — Wed
-- [ ] Taco spices (check) — Wed
-- [ ] Burrito staples: tortillas, black beans, shredded cheese, salsa, rice (check) — Mon
+- [ ] Quinoa — Tue
+- [ ] Chickpeas, 2 cans — Tue
+- [ ] Tahini, feta (check) — Tue
+- [ ] Capers/olives for swordfish sauce (optional, check) — Mon
+- [ ] Grill pellets — check for Mon
 
-**Sun road-trip pack (from pantry/fridge where possible)**
-- [ ] Wrap/sandwich fixings or salad greens + protein — Sun
-- [ ] Cottage-cheese cups / hard-boiled eggs / jerky, fruit, portioned nuts — Sun
+### Past week archive (2026-07-12 → 2026-07-18)
+
+| Day | Plan | Outcome |
+|---|---|---|
+| Sun 7/12 | Camp drive (packed) | 🏆 Resisted the fried-seafood shack. Turkey burger at home. |
+| Mon 7/13 | Turkey burritos | Clean — 1 burrito, no chips/dessert/alcohol. Larissa's lunches. |
+| Tue 7/14 | NEW grain bowls | Hit for Larissa; Justin added pork (satiety) → v2 fixes logged. |
+| Wed 7/15 | Grilled mahi tacos | **WINNER → into rotation** (rainbow slaw + hot-honey + Greek-yogurt crema). |
+| Thu 7/16 | (scallops→) grilled chicken thighs | Subbed; + peas, mini potatoes, leftover slaw. |
+| Fri 7/17 | Guys' lunch → light | Solo turkey burger dinner. |
+| Sat 7/18 | Flex | Planning day. |
 
 ### Past week archive (2026-06-21 → 2026-06-27, then Florida 6/28–7/7)
 
