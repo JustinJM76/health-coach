@@ -72,6 +72,23 @@ Peri + maternal osteoporosis family history = high-leverage lever. Jumped this s
 
 **Additive to** existing cardio (Mon lyrical dance, Tue+Wed elliptical, Thu jazz dance). Not touching those.
 
+**Session 1 complete 2026-07-13; session 2 complete 2026-07-18. Adjustments after week 1:**
+
+- **Pushups:** shoulder discomfort on set 1 (took hours to resolve) → dropped to knees. Yellow flag — tissue irritation, not just fatigue. Overlaps with her prior (now-resolved) neck/shoulder discomfort zone. Adjustment for next 2–3 weeks: stay knees-down OR try incline pushups (hands elevated on countertop). Form focus: hands slightly wider than shoulders, elbows ~45° from torso, **shoulder blades pulled down and back before lowering** — single biggest shoulder-protection cue.
+- **Rows:** currently 3 lowest bands stacked (of 5 total). "Easiest" movement — but hold at this tension for 1–2 weeks. Don't progress yet while shoulder is still acclimating.
+- **Goblet squat:** no change — sweet spot.
+- **Cadence:** aim for ~3–4 days between sessions. Mon + Fri OR Sat + Wed.
+
+**Weighted vest — future tool, reintroduction deferred (added 2026-07-18):**
+
+She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (now nearly resolved). Asked about acclimating via wearing during normal activity. Deferred because the vest loads the same body zone that's currently adapting to pushups.
+
+**Reintroduction trigger:** (a) 3–4 consecutive RT sessions with no shoulder signal, AND (b) ~mid-August or later. Body signal is the actual gate; date is the check-in prompt.
+
+**When it activates:** lightest weight, 15–30 min at a time, once daily, normal activity only (not exercise). Build slowly — add 15 min every few days, then longer walks, then eventually exercise. Step back a stage if neck or shoulder flares.
+
+**Coach reminder:** check "3–4 clean RT sessions" status at each weekly weigh-in from ~8/8 onward. Surface vest reintroduction proactively when the trigger is met.
+
 ## Design principle woven in — not a formal experiment
 
 **Add ~1/4 cup black beans or chickpeas to salad-kit lunches** (2×/week). ~30 seconds effort. Adds ~4g fiber (soluble) + ~3g protein per lunch — dual duty on peri protein target AND LDL-lowering.

@@ -135,6 +135,8 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - **Family medical history sweep completed** 2026-07-08 — see "Family medical history" section above.
 - **Whether to add weight tracking:** RESOLVED 2026-07-08 — weekly Sat AM.
 - **Specifics on lunches/snacks:** REVIEWED 2026-07-08 — confirmed solid rotation. Beans-in-salad-kit design principle folded into program; no fundamental change needed.
+- **Weighted vest — future tool, currently deferred** (added 2026-07-18). She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (now nearly resolved). Reintroduction trigger: (a) 3–4 consecutive RT sessions with no shoulder signal, AND (b) ~mid-August or later. Coach to surface proactively when trigger is met. Bone density lever — high leverage given maternal osteoporosis + peri.
+- **RT week 1 shoulder signal** (added 2026-07-18): pushup discomfort on session 1, resolved in hours; dropped to knees for remaining sets. Same body zone as prior neck/shoulder discomfort. Upper back / shoulder complex = current weakest link. Form adjustments in `plan.md`.
 - Window-blackout intervention **COMPLETE 2026-06-21** — shades installed 2026-06-12 resolved sunrise wakings entirely; recalibration period closed cleanly. Bedtime anchor remains a self-managed lever.
 - Daily comprehensive log **GRADUATED 2026-06-27** to exception-based tracking — keep cycle position + log only deviations from baseline.
 - **Three cycle-phase warmth windows documented (2026-06-27):** Days 1–2 (perimenstrual), Days 13–15 (ovulation), Days 26–27 (late luteal). Predictive use going forward — pre-empt 4–6 warm-risk nights per cycle with cooling (lighter bedding, AC, fan).
