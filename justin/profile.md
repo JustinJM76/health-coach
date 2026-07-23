@@ -176,6 +176,7 @@ _Last updated: 2026-04-25_
 - **Don't chase prematurely.** Heavy-wheat days will recur; another correlation observation will help confirm before committing to a multi-week elimination.
 
 **Correlation updates:**
+- **2026-07-23 (NON-confirming data point):** after a wheat-forward stretch (gyro pitas Sat 7/19 + leftover pita Tue 7/21), Justin reported **"no significant joint issues."** First deliberate post-wheat check that came back clean. Honest tally now: 3 wheat→stiffness correlations (5/2, mid-June pizza, 6/25 Subway), 1 wheat→no-symptom (7/23). Keeps the hypothesis open but argues for the structured test rather than assuming — dose, wheat type, or co-factors (sleep, weather, activity) may matter.
 - **2026-06-25 (data point #3):** elevated morning joint stiffness (more than recent baseline; worked out fast) the AM after a **Subway sandwich** — notably more wheat than his now-low-wheat baseline. Justin himself drew the connection and flagged a possible gluten test "at some point (not now)."
 - **~mid-June (data point #2, recalled 6/25):** a comparable stiffness morning followed a **pizza** dinner the night before.
 - **Pattern strengthening:** three wheat-adjacent stiffness mornings now (5/2, mid-June pizza, 6/25 Subway), plus the maternal wheat→joint family history. The 6/25 + pizza data points have **fewer confounders** than the 5/2 one (no major weather shift cited). The signal is becoming consistent: heavier-wheat day → next-AM joint stiffness.
