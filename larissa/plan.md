@@ -79,6 +79,20 @@ Peri + maternal osteoporosis family history = high-leverage lever. Jumped this s
 - **Goblet squat:** no change — sweet spot.
 - **Cadence:** aim for ~3–4 days between sessions. Mon + Fri OR Sat + Wed.
 
+**2026-07-22 — MT diagnosis + scap-first cue (external clinical input):**
+
+Larissa's massage therapist examined her upper back and identified **weak scapular stabilizers (rhomboids + mid/lower trap) with the upper trapezius compensating.** This is the specific mechanism behind the "upper back = weakest link" hypothesis we developed after session 1's pushup signal.
+
+**MT cue for banded rows (adopted):** actively retract the shoulder blades DOWN and BACK **before** pulling the bands. Scap sets first, then the arms row. Recruits the actual back muscles (the weak ones) and prevents the upper trap from doing all the work.
+
+**Same cue extends to pushups:** set the scaps down/back before lowering, hold throughout the rep. Same principle, applied to the press. Reinforces the shoulder-protection cue from 7/18.
+
+**Warmup adjustment:** bump band pull-aparts from 1×15 → **2×15** if it feels good. Directly targets the weak muscles the MT identified.
+
+**Face pulls flagged for future addition** — single best exercise for rhomboids + rear delts. Not adding now (one lever at a time); surface at next exercise-expansion beat.
+
+**Program-level implication:** the RT is treating the compensation pattern at its root. As scap-stabilizer strength builds over weeks, upper trap compensation and its downstream neck/shoulder pain should reduce. This also matters for the weighted vest reintroduction — vest sits on the exact compensating tissues; the current RT is direct pre-work.
+
 **Weighted vest — future tool, reintroduction deferred (added 2026-07-18):**
 
 She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (now nearly resolved). Asked about acclimating via wearing during normal activity. Deferred because the vest loads the same body zone that's currently adapting to pushups.
