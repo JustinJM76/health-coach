@@ -120,6 +120,10 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - **Sleep / BM / energy otherwise excellent** through 6/22–6/27 — bedtimes anchored Mon–Fri, no issues. System is working.
   - **GRADUATED to exception-based tracking** (her ask, accepted): keep cycle position + log only deviations. Retire water/electrolyte/daily BM/daily routine descriptions.
   - **Florida trip 6/28 → ~7/5 pre-framed.** Period expected to start during trip → Days 1–2 overlap with Disney heat + hotel. Awareness items offered (lighter PJs, AC, fan, electrolyte packets); no tracking during trip; "maintain, don't try to lose" frame.
+  - _2026-07-25 update — late-luteal fragmentation mechanism understood; sensitive-window protocol formalized._
+  - **Late-luteal pattern confirmed across two cycles** (June 26–27 last cycle, July 22–24 this cycle). Includes both discrete warmth events AND **sleep fragmentation in second half of night** (multiple wakings without full "hot flash" moments).
+  - **Mechanism:** estrogen + progesterone drop in late luteal + cortisol naturally rising in 2nd half of night = vasomotor events that fragment sleep without full wake-hot moment. REM-dominant late sleep is more vulnerable than deep-sleep-dominant early sleep — hence the 2nd-half timing.
+  - **Peri-sensitive-window protocol formalized in `plan.md`** covering all 3 windows (~8 nights/cycle ~30% of cycle). Environmental (cooling stack) + behavioral avoidances (alcohol, evening caffeine, hot bath, spicy dinners) applied ONLY to sensitive nights. Rest of cycle: no restrictions.
 
 ## Coaching preferences
 - **Cadence:** open-ended (confirmed). Comes back when she wants to. Not on a daily check-in pattern.

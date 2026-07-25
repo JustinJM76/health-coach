@@ -103,6 +103,39 @@ She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (
 
 **Coach reminder:** check "3–4 clean RT sessions" status at each weekly weigh-in from ~8/8 onward. Surface vest reintroduction proactively when the trigger is met.
 
+## Peri-sensitive-window protocol (added 2026-07-25)
+
+Three cycle-phase warmth/fragmentation windows confirmed across ≥2 cycles now:
+
+- **Days 1–2** — perimenstrual (confirmed 6/1–6/2)
+- **Days 12–15** — ovulation window (confirmed 6/13, 6/15)
+- **Days 25–28** — late luteal (confirmed 6/26–6/27 and again 7/22–7/24)
+
+Total: **~8 sensitive nights per cycle (~30%).** Rest of cycle is clean.
+
+Late-luteal window includes not just discrete warmth events but also **sleep fragmentation in the second half of the night** — mechanism is estrogen + progesterone drop combining with second-half cortisol rise; produces vasomotor events that fragment sleep without necessarily registering as a full "I'm hot" wake-up. Same underlying peri physiology as the discrete hot flashes, different presentation.
+
+### Protocol (for the ~8 sensitive nights, targeted not chronic)
+
+**Environmental (cooling stack):**
+- Fan on
+- Lighter blanket
+- Cooler thermostat
+- Set up ~1 day before window opens
+
+**Behavioral avoidances (ranked by evidence):**
+1. **No alcohol** — vasodilation + REM fragmentation stack (strongest evidence)
+2. **Caffeine cutoff by noon** — half-life 5–6 hrs; afternoon coffee still active at bedtime
+3. **Skip hot bath/shower within ~90 min of bed** — raises core temp when it should drop
+4. **Save spicy dinners for other nights** — moderate evidence; thermogenic + capsaicin
+5. Heavy refined-carb late dinners — blood sugar volatility → cortisol → warm wakings (her dinners are generally protein-forward, likely non-issue)
+
+**Rest of the cycle: no restrictions.** Targeted-not-chronic is the whole point — sustainable.
+
+### Cycle-phase forecast for coach reminders
+
+Following the protocol requires pre-empting the windows. Coach surfaces the upcoming sensitive dates at each weekly weigh-in based on last confirmed Day 1.
+
 ## Design principle woven in — not a formal experiment
 
 **Add ~1/4 cup black beans or chickpeas to salad-kit lunches** (2×/week). ~30 seconds effort. Adds ~4g fiber (soluble) + ~3g protein per lunch — dual duty on peri protein target AND LDL-lowering.
