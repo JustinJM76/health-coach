@@ -4,6 +4,43 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
+## Week of 2026-07-26 (Sun) — 2026-08-01 (Sat)
+
+_**Girls are home from camp** (back Sun 7/26) — family-of-4 cooking resumes. Flexible week, one anchor: **introduce the girls to the fish tacos** (2× the recipe = ~24 oz mahi per the v1 notes). Justin shopping Mon afternoon. Planned 7/27._
+
+| Day | Main | Sides | Justin's plate |
+|---|---|---|---|
+| **Sun 7/26** | (Travel-return day — as it happened) | — | — |
+| **Mon 7/27** | **Grilled pork chops** | Grilled or steamed veg + corn or small potatoes + salad | Pork + **double veg**, small/skip starch. |
+| **Tue 7/28** *(easy)* | **Sheet-pan chicken thighs** — see `recipes/sheet-pan-chicken-thighs.md` | Roasted broccoli or green beans + small rice | Thighs + double veg. One-pan, kid-friendly. |
+| **Wed 7/29** | **Fish tacos — girls' intro!** 2× recipe (~24 oz mahi) — see `recipes/grilled-fish-tacos.md` | Rainbow slaw (+ hot honey), Greek-yogurt lime crema, corn tortillas, avocado | Double slaw, 2 street tortillas or bowl. Girls build their own — crema mild, Justin adds heat. |
+| **Thu 7/30** *(easy)* | **Leftovers night** (thighs/tacos/pork) *or* turkey burgers | Whatever needs eating + salad | Protein + veg from the fridge. Zero-cook or near it. |
+| **Fri 7/31** | Guys' lunch → light dinner | — | Friday-flex: lighter dinner. |
+| **Sat 8/1** | TBD at next planning | — | — |
+
+### Shopping list (Mon 7/27 trip)
+
+**Meat & seafood**
+- [ ] Pork chops, ~1.5–2 lb — Mon
+- [ ] Chicken thighs, bone-in or boneless, ~2 lb — Tue
+- [ ] Mahi, ~24 oz (2× — feeds 4) — Wed
+- [ ] Ground turkey, ~1.5 lb (Thu backup burgers, or freeze) — Thu
+
+**Produce**
+- [ ] Grilling/steaming veg + salad greens — Mon
+- [ ] Corn or small potatoes — Mon
+- [ ] Broccoli or green beans, ~1 lb — Tue
+- [ ] Rainbow slaw, 1–2 bags — Wed
+- [ ] Limes, 3–4 + cilantro — Wed
+- [ ] Avocado, 2 — Wed
+
+**Dairy & pantry**
+- [ ] Greek yogurt, plain 5% (crema — check) — Wed
+- [ ] Corn tortillas, street size (2× — girls) — Wed
+- [ ] Hot honey (check) — Wed
+- [ ] Taco spices (check) — Wed
+- [ ] Rice (check) — Tue
+
 ## Week of 2026-07-19 (Sun) — 2026-07-25 (Sat)
 
 _**Last "just us" week** — girls away one more week (back ~7/26). Two anchors: **Mon in-laws dinner** (Larissa's parents over; good grilling weather) and **Thu out to eat.** **Wed = Justin's annual bloodwork** (AM draw — his overnight IF fast covers a fasting panel; FYI, no plan impact). Repeating the grain bowls (Larissa loved them + used the leftovers) with the **v2 fixes**. Planned 7/18._
