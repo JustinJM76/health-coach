@@ -123,12 +123,13 @@ Late-luteal window includes not just discrete warmth events but also **sleep fra
 - Cooler thermostat
 - Set up ~1 day before window opens
 
-**Behavioral avoidances (ranked by evidence):**
-1. **No alcohol** — vasodilation + REM fragmentation stack (strongest evidence)
-2. **Caffeine cutoff by noon** — half-life 5–6 hrs; afternoon coffee still active at bedtime
-3. **Skip hot bath/shower within ~90 min of bed** — raises core temp when it should drop
-4. **Save spicy dinners for other nights** — moderate evidence; thermogenic + capsaicin
-5. Heavy refined-carb late dinners — blood sugar volatility → cortisol → warm wakings (her dinners are generally protein-forward, likely non-issue)
+**Behavioral avoidances (ranked by evidence; personalized for her):**
+1. **No alcohol** — vasodilation + REM fragmentation stack (strongest evidence). _Validated 2026-07-26 incident: 6 sips of margarita on Day 2 → >1 hr sleep latency + warm/cold cycles + REM-rebound dreams. Subjective "just a few sips" ≠ objective 20g ethanol dose._
+2. **Skip hot bath/shower within ~90 min of bed** — raises core temp when it should drop
+3. **Save spicy dinners for other nights** — moderate evidence; thermogenic + capsaicin
+4. Heavy refined-carb late dinners — blood sugar volatility → cortisol → warm wakings (her dinners are generally protein-forward, likely non-issue)
+
+_Caffeine cutoff removed 2026-07-27 — Larissa is not a coffee drinker._
 
 **Rest of the cycle: no restrictions.** Targeted-not-chronic is the whole point — sustainable.
 
