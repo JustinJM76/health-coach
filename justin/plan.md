@@ -172,6 +172,28 @@ Going forward: ≥1 plant-forward dinner per week, reduce chicken count, priorit
 
 _(Appended after each review.)_
 
+### 2026-07-31 — Formal review (Day 102) — "the one-pager review"
+
+**Artifacts:** `progress-review-2026-07-31.md` + `.svg` chart + archival `.pdf` (all committed).
+
+**Numbers:** 231.0 daily / 232.2 trailing / 45.75" waist — **all three at new program lows on review morning.** −19.0 lb from baseline (7.6%), 63% of the way to 220, pace ~1.3 lb/wk overall. Labs (7/22): unchanged vs 2025 — LDL ~125 at same weight twice → likely genetic; ApoB question parked for Oct 5 lifestyle-medicine consult. 10-yr cardiac risk 2.4%.
+
+**Justin's felt-sense (the sustainability check):** pace "feels very natural"; no significant hunger or energy dips; recurring stall-worry but now paired with confidence that "if it does stall we will be able to solve for it." Key self-observation: **"snackish vs hungry" distinction** — late-afternoon grazing impulses are recognized as non-hunger, caught at the pantry door ("what am I doing?"), resolved with a bounded nut pack or water. Easier to fight than on any previous plan. This is the anti-Noom-cliff signal: no white-knuckling anywhere in the system.
+
+**WATCH ITEM (Justin-flagged): alcohol-disinhibition snacking.** The only plan-excursion snacking he can identify follows a couple of drinks (e.g., Friday afternoon post-beers). Mechanism: alcohol lowers inhibition + the social setting stages food. No rule change now — current policy is working — but named for mindfulness; if Friday-afternoon excursions recur, the lever is a planned protein snack landing with the last beer.
+
+**DECISIONS:**
+- KEEP everything currently running (template, primer, IF, alcohol policy, 3×/day cadence + variety tool, load-held KB @ 35, band baseline, Zone 2 extension, waist 2-3×/wk).
+- **NEW — Early-riser transition (phased, target: full effect 8/26 school start).** Goal: **wake 5:30 at Larissa's pre-alarm light/alarm, up before her snooze cycle** (bathroom first, see girls off to school, reclaimed hour = quiet work most days — moves the late-night work block to the morning, NOT in addition to it). Design around the calendar:
+  - **Phase 0 (now–8/9):** lights-out drifts earlier to ~10:45; AM light immediately on waking; no forced wake change yet.
+  - **Phase 1 (8/10–18, NH camping):** let the campsite do the work — dawn light + dark evenings naturally advance the clock ~1 hr. Sleep with the sun.
+  - **Phase 2 (8/19–25):** hold the camping shift — lights-out 10:15, alarm-assisted 5:45 → 5:30 by end of week, sunrise walk immediately on waking (light is the lever that moves a decades-old wake time; consistency 7 days/wk incl. weekends).
+  - **Phase 3 (8/26+):** full pattern. Game night (Wed summer, maybe Tue fall; ends ~11) = accepted 1×/wk exception — sleep to ~6 next morning rather than compound the debt.
+  - **Guard-rail:** the 5:30 wake only works if the 10–11pm work block actually moves to 5:30–7. Late-night work + early wake = chronic debt = program-eroding. Monitor sleep quality probes through the transition.
+- **August calendar logged:** D2 at sleepaway camp 8/2–8/8 (cook for 3) · **NH camping trip 8/10–18** (Pawtuckaway, boondocking — camp meal plan + **resistance-band outdoor workouts**, plan both ~8/7) · D1 + D2 birthdays (small family celebrations + friend parties, plan closer) · school starts 8/26.
+
+**Next formal review: ~Sun 8/23** (post-camping, pre-school), or sooner if 230 crossing warrants a marker.
+
 ### 2026-06-16 — Acceleration phase (Justin-initiated, Day 57)
 
 Justin asked to **accelerate weight loss** by both tightening adherence and evolving the plan, after noticing the trailing line had been flat ~238 for ~2 weeks (clean weekday lows at 236 erased by weekend bounces). He brought six ideas; all adopted.
