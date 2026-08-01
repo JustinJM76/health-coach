@@ -4,42 +4,80 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-07-26 (Sun) — 2026-08-01 (Sat)
+## Week of 2026-08-01 (Sat) — 2026-08-08 (Sat)
 
-_**Girls are home from camp** (back Sun 7/26) — family-of-4 cooking resumes. Flexible week, one anchor: **introduce the girls to the fish tacos** (2× the recipe = ~24 oz mahi per the v1 notes). Justin shopping Mon afternoon. Planned 7/27._
+_**D1's birthday week** (ziti Monday, her request) + **D2 at sleepaway camp 8/2–8/8** (cooking for 3 from Sunday). Dance schedules mid-week → crockpot leverage. **Larissa needs grab-and-go Thursday** (cut-and-color ~5–8). Friday doubles as camping-prep planning day (NH trip departs 8/10). Planned 8/1._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sun 7/26** | (Travel-return day — as it happened) | — | — |
-| **Mon 7/27** | **Grilled pork chops** | Grilled or steamed veg + corn or small potatoes + salad | Pork + **double veg**, small/skip starch. |
-| **Tue 7/28** *(easy)* | **Sheet-pan chicken thighs** — see `recipes/sheet-pan-chicken-thighs.md` | Roasted broccoli or green beans + small rice | Thighs + double veg. One-pan, kid-friendly. |
-| **Wed 7/29** | **Fish tacos — girls' intro!** 2× recipe (~24 oz mahi) — see `recipes/grilled-fish-tacos.md` | Rainbow slaw (+ hot honey), Greek-yogurt lime crema, corn tortillas, avocado | Double slaw, 2 street tortillas or bowl. Girls build their own — crema mild, Justin adds heat. |
-| **Thu 7/30** *(easy)* | **Leftovers night** (thighs/tacos/pork) *or* turkey burgers | Whatever needs eating + salad | Protein + veg from the fridge. Zero-cook or near it. |
-| **Fri 7/31** | Guys' lunch → light dinner | — | Friday-flex: lighter dinner. |
-| **Sat 8/1** | TBD at next planning | — | — |
+| **Sat 8/1 (tonight)** | **Pizza** (family request) | **Big salad — J+L eat it FIRST** | Salad first (volumetric pre-load — Justin's own design), then **2 slices, stop, apple close.** Family pizza night ≠ Justin pizza binge; the salad does the work. |
+| **Sun 8/2** *(D2 to camp)* | Turkey burritos (anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward, light rice/tortilla; chips open at plating. Margarita = the sanctioned Sunday drink if wanted. |
+| **Mon 8/3** *(🎂 D1's birthday)* | **Baked ziti** (D1's birthday request) | **Roasted broccoli + big green salad** (the J+L lane) | Her day, her menu. J: **veg-forward plate** — big salad + broccoli, modest ziti scoop (meatball-forward if the ziti has meat), no bread. Cake per birthday norms — small slice, enjoy it. |
+| **Tue 8/4** *(dance — quick/flexible)* | **Crockpot white chicken chili** — set AM; see `recipes/crockpot-white-chicken-chili.md` | Toppings: cilantro, lime, jalapeño; tortillas for D1 | Big bowl + spicy variant. Ready whenever the dance run lands. |
+| **Wed 8/5** *(easy — sets up Thu)* | **Slow-cooker Greek chicken gyros** — set AM; see `recipes/slow-cooker-greek-chicken-gyros.md` | Pita, romaine, tomato, cucumber, red onion, feta, tzatziki | **Bowl, not pita.** Cook-once-eat-twice on purpose → tomorrow's grab-and-go. |
+| **Thu 8/6** *(L cut-and-color ~5–8 — grab-and-go)* | **Leftover gyros night:** L takes a **Greek chicken pita to go** (better protein than the hummus sandwich — ~35g vs ~10g); J + D1 eat gyro bowls/pitas at home | Leftover fixings + tzatziki | Bowl over greens + tzatziki + feta + heat. Zero cooking. |
+| **Fri 8/7** | Guys' lunch → light dinner | — | Friday-flex light dinner. **Camping meal plan + band-workout design session today.** |
+| **Sat 8/8** *(D2 home from camp)* | TBD — simple grill or takeout around pickup logistics | — | Protein + veg default. Camping prep weekend. |
 
-### Shopping list (Mon 7/27 trip)
+### Week protein parade
+Pizza (flex) → turkey → beef/ziti (birthday) → chicken (chili) → chicken (gyros — different pattern: shredded-Greek vs chili) → gyros leftovers → light → flex. Two chicken nights are different preparations back-to-back mid-week — acceptable trade for the dance-week logistics + Thursday grab-and-go payoff.
+
+### Shopping list (week of 8/1–8/8)
+
+_Format: by department, one item per line, day-tagged. Sat pizza + Sun burrito staples assumed mostly on hand — check. Crockpot nights (Tue/Wed) are the bulk of the list._
 
 **Meat & seafood**
-- [ ] Pork chops, ~1.5–2 lb — Mon
-- [ ] Chicken thighs, bone-in or boneless, ~2 lb — Tue
-- [ ] Mahi, ~24 oz (2× — feeds 4) — Wed
-- [ ] Ground turkey, ~1.5 lb (Thu backup burgers, or freeze) — Thu
+- [ ] Ground turkey, ~1.5 lb (check freezer — one was frozen mid-July) — Sun
+- [ ] Ground beef or Italian sausage for ziti (per D1's preferred version) — Mon
+- [ ] Chicken breast, boneless skinless, 1.5 lb — Tue (chili)
+- [ ] Chicken breast, boneless skinless, 2 lb — Wed (gyros)
 
 **Produce**
-- [ ] Grilling/steaming veg + salad greens — Mon
-- [ ] Corn or small potatoes — Mon
-- [ ] Broccoli or green beans, ~1 lb — Tue
-- [ ] Rainbow slaw, 1–2 bags — Wed
-- [ ] Limes, 3–4 + cilantro — Wed
-- [ ] Avocado, 2 — Wed
+- [ ] Salad greens, 2 bags/heads — Sat (pizza salad) + Mon
+- [ ] Broccoli, ~1 lb — Mon
+- [ ] Romaine, 1 head — Wed
+- [ ] Cucumbers, 3 (tzatziki + toppings) — Wed
+- [ ] Tomatoes, 2–3 — Wed
+- [ ] Red onion, 1 — Wed
+- [ ] Yellow onion, 2 — Tue, Wed
+- [ ] Jalapeño, 1–2 — Tue
+- [ ] Cilantro, 1 bunch — Tue
+- [ ] Limes, 2 — Tue
+- [ ] Lemons, 2 — Wed
+- [ ] Avocado, 1–2 — Sun
 
-**Dairy & pantry**
-- [ ] Greek yogurt, plain 5% (crema — check) — Wed
-- [ ] Corn tortillas, street size (2× — girls) — Wed
-- [ ] Hot honey (check) — Wed
-- [ ] Taco spices (check) — Wed
-- [ ] Rice (check) — Tue
+**Dairy**
+- [ ] Greek yogurt, plain 5%, large tub (tzatziki) — Wed
+- [ ] Feta crumbles (check) — Wed
+- [ ] Ricotta + mozzarella for ziti — Mon
+- [ ] Shredded cheese, salsa (burritos — check) — Sun
+
+**Bakery**
+- [ ] Pita / pocketless flatbread — Wed (+ Thu to-go)
+- [ ] Tortillas (burritos + chili — check) — Sun, Tue
+
+**Pantry & canned**
+- [ ] Ziti/penne + marinara (or D1's preferred sauce) — Mon
+- [ ] Cannellini/navy beans, 2 cans — Tue
+- [ ] Diced green chiles, 1 can — Tue
+- [ ] Corn, 1 can/frozen — Tue
+- [ ] Chicken broth, 4 cups — Tue
+- [ ] Black beans, 1–2 cans (check) — Sun
+- [ ] Kalamata olives (check) — Wed
+- [ ] Red + white wine vinegar, dried dill/oregano (check) — Wed
+- [ ] Birthday cake fixings or bakery order per D1 — Mon
+
+### Past week archive (2026-07-26 → 2026-08-01)
+
+| Day | Plan | Outcome |
+|---|---|---|
+| Sun 7/26 | Travel return (camp pickup) | — |
+| Mon 7/27 | Grilled pork chops | Done (+ Brussels, corn, salad; big pork portion after a primer-only lunch). |
+| Tue 7/28 | Sheet-pan chicken thighs | **D1 cooked** — sesame-soy-honey-garlic thighs + roasted broccoli + rice. First daughter-cooked dinner. |
+| Wed 7/29 | Fish tacos — girls' intro (2×) | Done, oven method (rain). D1 liked, D2 meh; stays in rotation. |
+| Thu 7/30 | Leftovers / turkey burgers | Grilled chicken (breasts + thighs) + green beans + salad + a few tots. |
+| Fri 7/31 | Guys' lunch → light | Chicken sandwich + salad + fries (self-flagged) + 3 beers (at cap, clean after). Grilled burgers at home. |
+| Sat 8/1 | (was TBD) | Pizza night (family request) + salad-first for J+L. |
 
 ## Week of 2026-07-19 (Sun) — 2026-07-25 (Sat)
 
