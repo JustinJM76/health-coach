@@ -99,9 +99,42 @@ She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (
 
 **Reintroduction trigger:** (a) 3–4 consecutive RT sessions with no shoulder signal, AND (b) ~mid-August or later. Body signal is the actual gate; date is the check-in prompt.
 
+**_2026-08-01 update:_** Trigger not met. Still on incline/knees pushups (not floor yet) + transient left scap/shoulder pain reported through the week. **Reintroduction pushed to mid-September.** Same trigger.
+
 **When it activates:** lightest weight, 15–30 min at a time, once daily, normal activity only (not exercise). Build slowly — add 15 min every few days, then longer walks, then eventually exercise. Step back a stage if neck or shoulder flares.
 
 **Coach reminder:** check "3–4 clean RT sessions" status at each weekly weigh-in from ~8/8 onward. Surface vest reintroduction proactively when the trigger is met.
+
+## Optional session variants (added 2026-08-01)
+
+**Legs-only mini session** — added as an option for weeks Larissa wants to bump RT frequency without stacking additional load on the shoulder complex:
+
+- Goblet squat 3×10 (20 lb KB)
+- Hip bridges 3×10 (bone-density lever, glute activation, zero shoulder load)
+- ~10 min total
+- No warmup needed if slotted alongside cardio
+
+Peri bone-density-relevant (hip loading + glute strength). Doesn't count against upper-body recovery. Good pairing with elliptical days.
+
+## Weight-loss pace decision log (added 2026-08-01)
+
+**Current pace:** ~1 lb / 3 weeks (baseline 127.9 → 127.4 over 21 days).
+
+**Larissa's ask at 8/1 review:** would like to hit 1 lb/week.
+
+**Decision: try "levers already in motion" for 2 weeks; reassess 2026-08-15.**
+
+Levers in motion:
+- Chickpea portion dial-down (~40 cal/day savings)
+- Bark Thin baseline return (~50–100 cal/day when the week's elevation normalizes)
+- Adding 2 elliptical sessions/week (~300–400 cal/week burn)
+- Stress-week cortisol water clearing
+
+**If 8/15 read shows acceleration toward ~1 lb/2 weeks pace →** don't add restriction; stay sustainable (5 lb in ~10 more weeks).
+
+**If 8/15 read still ~1 lb/3 weeks →** look at sharper levers (halve afternoon snack, dinner portion management, add 3rd full RT session once scap is clean).
+
+**Bigger frame:** the *behavior pattern* IS the healthspan lever. Sustainability + muscle preservation matter more than speed for peri weight loss. Don't break the pattern to chase the number.
 
 ## Peri-sensitive-window protocol (added 2026-07-25)
 
@@ -140,6 +173,8 @@ Following the protocol requires pre-empting the windows. Coach surfaces the upco
 ## Design principle woven in — not a formal experiment
 
 **Add ~1/4 cup black beans or chickpeas to salad-kit lunches** (2×/week). ~30 seconds effort. Adds ~4g fiber (soluble) + ~3g protein per lunch — dual duty on peri protein target AND LDL-lowering.
+
+**_2026-08-01 correction:_** Larissa had been adding **3/4 cup, not 1/4 cup** — over-serving revealed at first formal review (she noticed she was "very full"). Dialing back to 1/4 cup. 3/4 cup = ~200 cal / 10g fiber / 10g protein per salad; 1/4 cup = ~60 cal / 4g / 3g. Twice-a-week difference = ~280 extra cal/week returned. Small but real caloric win.
 
 **Fiber baseline notes:**
 - Larissa already includes **ground flax in her morning oatmeal** — soluble fiber + omega-3s, already in place ✓
