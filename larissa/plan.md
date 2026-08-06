@@ -101,6 +101,8 @@ She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (
 
 **_2026-08-01 update:_** Trigger not met. Still on incline/knees pushups (not floor yet) + transient left scap/shoulder pain reported through the week. **Reintroduction pushed to mid-September.** Same trigger.
 
+**_2026-08-05 update — vest deferred INDEFINITELY pending PT._** Larissa revealed her left shoulder pain has been chronic since January 2026 (~7 months predating our RT program), and she's seeking physical therapy. Vest reintroduction cannot resume until PT completes assessment and clears loaded upper-body work. Body signal is now formally under external clinical management.
+
 **When it activates:** lightest weight, 15–30 min at a time, once daily, normal activity only (not exercise). Build slowly — add 15 min every few days, then longer walks, then eventually exercise. Step back a stage if neck or shoulder flares.
 
 **Coach reminder:** check "3–4 clean RT sessions" status at each weekly weigh-in from ~8/8 onward. Surface vest reintroduction proactively when the trigger is met.
@@ -109,12 +111,37 @@ She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (
 
 **Legs-only mini session** — added as an option for weeks Larissa wants to bump RT frequency without stacking additional load on the shoulder complex:
 
-- Goblet squat 3×10 (20 lb KB)
+- Goblet squat 3×10 (20 lb KB) *[requires holding the KB — upper-body isometric load; NOT shoulder-free during shoulder flare]*
 - Hip bridges 3×10 (bone-density lever, glute activation, zero shoulder load)
 - ~10 min total
 - No warmup needed if slotted alongside cardio
 
 Peri bone-density-relevant (hip loading + glute strength). Doesn't count against upper-body recovery. Good pairing with elliptical days.
+
+## RT PAUSED — pending physical therapy (added 2026-08-05)
+
+**Effective 2026-08-05:** All loaded upper-body work suspended. Larissa's left shoulder pain — present since January 2026 (~7 months predating the RT program) — worsened this week; she's seeking PT.
+
+**Suspended pending PT clearance:**
+- Banded rows
+- Pushups (any variant)
+- Goblet-hold squats (KB hold = upper-body isometric load)
+- Weighted vest reintroduction
+
+**Continues (shoulder-neutral):**
+- Elliptical
+- Dance classes
+- **Shoulder-free lower body option** if Larissa wants to maintain a workout rhythm:
+  - Bodyweight squats (unweighted, arms neutral) — 3×10 or more
+  - Hip bridges (unweighted) — 3×10
+  - Walking, unweighted lunges
+
+**When PT weighs in:**
+- Integrate their prescribed exercises + restrictions into this plan
+- If they clear specific movements, resume gradually with any form modifications they specify
+- Their diagnosis + timeline replaces our current "3–4 clean RT sessions" trigger for progression
+
+**Nutritional experiments continue unaffected** — chickpea dial-down, Bark Thin baseline, protein-forward snack default, sensitive-window protocol, weekly weigh-in.
 
 ## Weight-loss pace decision log (added 2026-08-01)
 

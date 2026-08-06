@@ -35,7 +35,9 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
   - **Borderline-high lipids:** Total cholesterol 234, LDL 154 (HDL 59 and triglycerides 104 are good). Estrogen decline in peri tends to push LDL up; lifestyle levers (fiber, plant protein, strength work, less ultra-processed carbs) are the same levers we'd use for the broader goals.
   - **Gaps worth requesting at next visit:** ferritin (iron stores — common fatigue driver in cycling/peri women), vitamin D (25-OH), B12. Could meaningfully narrow the fatigue investigation.
 - **Perimenopause:** confirmed self-identified stage. Recent night hot flashes contributing to sleep fragmentation (see Daily rhythm).
-- _Open: medications, conditions, allergies, injury history (not yet asked / volunteered)_
+- **Chronic left shoulder pain since January 2026** (surfaced 2026-08-05). Intermittent, worsens under load. Predates the RT program (~7 months). **Physical therapy planned as of 2026-08-05.** MT (2026-07-22) diagnosed weak scapular stabilizers + upper trap compensation; RT with scap-first cue sometimes helps (Sun 8/3: pain before, great during, none after) and sometimes doesn't (Wed 8/5: worse pain). Escalated to PT for formal assessment (potentially imaging, structural pathology rule-out, corrective program). Upper-body RT paused until PT clears (see `plan.md`).
+- **Nighttime jaw clenching (bruxism)** — long-standing pattern, using mouth guard. Occasional referred right ear pain ~1–2×/year (occurred 8/3–4, resolved 8/5).
+- _Open: medications, allergies, other injury history (not yet asked / volunteered)_
 
 ## Daily rhythm
 
@@ -145,6 +147,7 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - **Larissa is not a coffee drinker** (noted 2026-07-27). Caffeine cutoff by noon removed from sensitive-window protocol as moot for her.
 - **Alcohol × sensitive-window incident 2026-07-26 (validation event).** Day 2 night, 6 sips of margarita with dinner → >1 hr sleep latency + racing mind + warm/cold cycles + REM-rebound dream + exhausted next morning. Textbook trigger stack. Larissa's own takeaway: "I didn't think just a few sips would have that kind of effect. I know now." Protocol lands with the mechanism owned.
 - **First formal 4-week review 2026-08-01.** Baseline 127.9 → 127.4 over 3 weeks (-0.5 lb). Six evidence-backed wins named; program held through cycle noise + emotional stress + one broken-rule incident. Snack default rotation working. Chickpea over-serving (3/4 → 1/4 cup) corrected. Vest reintroduction pushed to mid-September (transient left scap signal + still on incline pushups). Weight-pace strategy: "levers already in motion" for 2 weeks, reassess 8/15. Full write-up in `conversation-history/2026-08-01-first-formal-review.md`.
+- **RT paused pending PT — 2026-08-05.** Chronic left shoulder pain (since January 2026) worsened; PT escalation. Upper-body RT suspended (rows, pushups, goblet-hold squats). Cardio + shoulder-free lower body optional continue. Vest reintroduction firmly deferred. See `plan.md` for full interim structure.
 - Window-blackout intervention **COMPLETE 2026-06-21** — shades installed 2026-06-12 resolved sunrise wakings entirely; recalibration period closed cleanly. Bedtime anchor remains a self-managed lever.
 - Daily comprehensive log **GRADUATED 2026-06-27** to exception-based tracking — keep cycle position + log only deviations from baseline.
 - **Three cycle-phase warmth windows documented (2026-06-27):** Days 1–2 (perimenstrual), Days 13–15 (ovulation), Days 26–27 (late luteal). Predictive use going forward — pre-empt 4–6 warm-risk nights per cycle with cooling (lighter bedding, AC, fan).
