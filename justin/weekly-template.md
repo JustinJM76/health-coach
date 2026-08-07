@@ -47,10 +47,15 @@ Anchor-based, not ounce-tracked. Reporting is yes/no per anchor at check-ins.
 | On rising | 12 oz water | Already in daily anchor table |
 | With primer (~1pm) | 1 glass (~12–16 oz) | Skip on Friday (no primer) |
 | With lunch | 1 glass | |
-| Start of afternoon work block (~2pm) | 1 glass | The slot most likely to be missed |
+| Start of afternoon work block (~2pm) | 1 glass | **The one that gets missed — see the trigger system below** |
 | With dinner | 1 glass | |
 
 Why structural (not thirst-driven): Justin's natural thirst runs low. Mild dehydration masquerades as afternoon hunger and degrades workout perception. Hot/active days or alcohol days: front-load, don't catch up. Coach surfaces hydration at check-ins periodically per Justin's request.
+
+**Trigger system (added 2026-08-07).** Two deep-track days (6/24 + 8/5) both landed ~96 oz and both showed the same thing: **capacity is fine — the only anchor that fails is the ~2pm one, because it's the only pour not tied to an existing event.** The other four ride meals/waking automatically. So the fix targets just that hole:
+1. **Recurring phone/watch alarm at 2:00pm labeled "water"** — drink immediately when it fires (don't dismiss-to-deal-with-later). One targeted nudge, not all-day tracking.
+2. **Meeting-start trigger** — take a pull at the top of every call/meeting (proven 7/21). Busy days = more meetings = more triggers, so it scales with the days hydration usually fails.
+No ounce-counting needed on normal days; these two + the meal anchors get him to ~80+ hands-free.
 
 ## Stretching / mobility (added 2026-05-04)
 
@@ -100,6 +105,8 @@ Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No d
 | Day | Session | Notes |
 |---|---|---|
 | **Mon** | Lower + Push + Core — KB squats **3×6–8 @ 35 lb, building to 3×12** (Mon 6/1 only: 3×12 @ 20 lb — bell not here yet; see KB progression below), pushups 3×10, glute bridges 3×10, **dead bug 3×8/side**, 20 min elliptical | Core slot added 2026-05-18 for parity with Tue/Thu (4 strength moves). Dead bug = anti-extension brace; pairs with KB squat bracing. Rotate within the core slot in later weeks if appropriate (bird dog, Pallof variations, hollow holds — all disc-friendly). |
+
+**Suitcase carry — standing accessory (added 2026-08-07).** Justin self-selected this repeatedly (7/13, 8/4, 8/6) and specifically values it: "core + back muscles nothing else activates; good for lower-back strength." Correct — anti-lateral-flexion carry trains the deep spinal stabilizers that protect his disc history (the program's best "insurance" movement). **Default add on Mon/Thu:** 35 lb KB in one hand, stand tall, walk ~40 steps without leaning, switch sides, 3 trips/side. Can sub for or supplement the dead-bug core slot.
 | **Tue** | Upper Pull + Core — band row 3×12, lat pulldown 3×12, chest press 3×12, Pallof press 3×10/side, 15 min elliptical | Bands. **Baseline resistance bumped 2026-05-28**, then **bumped again 2026-07-16** (row/press — clean form confirmed across 2 sessions 7/14 + 7/16; new baseline). Dial up from day 1. |
 | **Wed** | Cardio + light mobility — 25 min elliptical + band pull-aparts 2×15 + stretching | Meeting day; keep it short and low-load. Workout shifts to ~1:15–1:45pm after the 12–1 meeting. |
 | **Thu** | Full body — KB squats **3×6–8 @ 35 lb, building to 3×12** (see KB progression below), band rows 3×10, pushups 3×10, band chest press 3×10, 15 min elliptical | Heaviest session of the week. Thu 6/4 is the first 35 lb session. Band row/press at the bumped 5/28 baseline. |
