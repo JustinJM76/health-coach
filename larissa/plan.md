@@ -161,6 +161,8 @@ Levers in motion:
 
 **If 8/15 read still ~1 lb/3 weeks →** look at sharper levers (halve afternoon snack, dinner portion management, add 3rd full RT session once scap is clean).
 
+**_2026-08-08 update — pace-decision date moved to Sat 8/29._** Camping trip 8/10–8/18 means 8/15 weigh-in skipped. 8/22 would land on ~Day 29 or Day 1 of new cycle (naturally noisy window). **8/29 (Day 6–7, early follicular) is the first clean post-trip cycle-phase read** — that's the decision point. Formal review stays Sun 8/30.
+
 **Bigger frame:** the *behavior pattern* IS the healthspan lever. Sustainability + muscle preservation matter more than speed for peri weight loss. Don't break the pattern to chase the number.
 
 ## Peri-sensitive-window protocol (added 2026-07-25)
