@@ -118,9 +118,9 @@ She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (
 
 Peri bone-density-relevant (hip loading + glute strength). Doesn't count against upper-body recovery. Good pairing with elliptical days.
 
-## RT PAUSED — pending physical therapy (added 2026-08-05)
+## RT PAUSED — under PT direction (updated 2026-08-22 after initial eval)
 
-**Effective 2026-08-05:** All loaded upper-body work suspended. Larissa's left shoulder pain — present since January 2026 (~7 months predating the RT program) — worsened this week; she's seeking PT.
+**Effective 2026-08-05:** All loaded upper-body work suspended. Larissa's left shoulder pain — chronic since January 2026 — worsened; she escalated to physical therapy.
 
 **Suspended pending PT clearance:**
 - Banded rows
@@ -131,15 +131,55 @@ Peri bone-density-relevant (hip loading + glute strength). Doesn't count against
 **Continues (shoulder-neutral):**
 - Elliptical
 - Dance classes
-- **Shoulder-free lower body option** if Larissa wants to maintain a workout rhythm:
-  - Bodyweight squats (unweighted, arms neutral) — 3×10 or more
-  - Hip bridges (unweighted) — 3×10
-  - Walking, unweighted lunges
+- Shoulder-free lower body option: bodyweight squats, hip bridges (unweighted), walking, unweighted lunges
 
-**When PT weighs in:**
-- Integrate their prescribed exercises + restrictions into this plan
-- If they clear specific movements, resume gradually with any form modifications they specify
-- Their diagnosis + timeline replaces our current "3–4 clean RT sessions" trigger for progression
+### PT diagnosis (initial eval week of 2026-08-17)
+
+**Presentation:** mechanical, thoracic spine hypomobility, pain dominant, low irritability, chronic, **no cervical radiculopathy.**
+
+**Key impairments:**
+- Hypomobility C5–T3 with CPA
+- Decreased bilateral cervical lateral flexion
+- Concordant pain with cervical flexion
+- (+) dura test (mild neural sensitivity)
+- Cervical right rotation AROM restricted
+- (+) thoracic differentiation test
+- Thoracic right rotation restricted
+- Left shoulder internal rotation at end range pain at 90° abduction (impingement-test position — secondary to T-spine)
+
+**Functional limitations:** looking down (reading/phone/work), driving, carrying/lifting.
+
+**Favorable characterization** — mobility deficit, no serious pathology, steady progression possible.
+
+### Home exercise program (CURRENT "RT" for Larissa)
+
+**2× daily, 7× weekly, 1 set × 10 reps × 5 sec hold:**
+
+1. **Foam Roller Back Mobilization** — thoracic extension
+2. **Seated Thoracic Flexion Extension** — cat-cow-in-a-chair
+3. **Sidelying Thoracic Rotation (both sides)** — "book opener" / thread-the-needle
+
+High-frequency, low-volume — correct dosing for mobility. If a day gets crushed, 1× is still much better than skipping.
+
+### Ergonomic awareness (not a formal experiment)
+
+Cervical flexion reproduces her pain → daily posture loads what PT is unwinding:
+- Phone at eye level (not lap)
+- Reading with book prop / stand
+- Computer monitor top-third at eye height
+- Neutral head position when driving
+
+### Questions to ask at next PT visits (2 visits scheduled week of 8/24)
+
+1. Progression timeline (how long mobility-only; when add strengthening; trigger for load)
+2. Movements to avoid in daily life beyond "don't look down for hours"
+3. Criteria for reintroducing paused upper-body RT (which movements first, what markers)
+4. Home exercise progression (when they'll upgrade)
+
+**When PT gives clearances or modifications:**
+- Integrate their prescribed additions
+- If they clear specific movements, resume gradually with any form modifications specified
+- Their diagnosis + timeline replaces the earlier "3–4 clean RT sessions" trigger
 
 **Nutritional experiments continue unaffected** — chickpea dial-down, Bark Thin baseline, protein-forward snack default, sensitive-window protocol, weekly weigh-in.
 
