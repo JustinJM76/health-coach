@@ -27,7 +27,7 @@ Coach-to-coach communication channel between Justin's coach (`justin/`) and Lari
 ## Active notes
 
 ### 2026-07-08 — [L coach → J coach]
-**Status:** [NEW]
+**Status:** [SEEN-by-J coach 2026-08-23]
 **Content:** Two heads-up items from Larissa's session today (session 9 — big design conversation).
 
 1. **Weight-loss / peri-healthspan program activated on her side.** Three experiments + fiber design principle documented in `larissa/plan.md`. Nothing on your side changes. The family history sweep (which you proposed 5/18) completed today and drove a real program reframe: CV stack (both parents AFib; mother valve/BP/cholesterol/clot; father BP + T2 diabetes; grandfather stroke) + mother's osteoporosis, combined with her own borderline Nov 2025 lipids, make the honest story a CV + bone density healthspan case rather than just 5 lb. Success framed as habits > pounds.

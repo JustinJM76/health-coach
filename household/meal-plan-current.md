@@ -4,68 +4,64 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-08-01 (Sat) — 2026-08-08 (Sat)
+## Week of 2026-08-23 (Sun) — 2026-08-29 (Sat)
 
-_**D1's birthday week** (ziti Monday, her request) + **D2 at sleepaway camp 8/2–8/8** (cooking for 3 from Sunday). Dance schedules mid-week → crockpot leverage. **Larissa needs grab-and-go Thursday** (cut-and-color ~5–8). Friday doubles as camping-prep planning day (NH trip departs 8/10). Planned 8/1._
+_**Back from NH camping** (returned ~8/18) → resume normal plan. **School starts Wed 8/26** (→ early-riser Phase 3 + school-year evenings). **Mon = D2's birthday, dinner out.** Justin's focus this week: **hydration** (felt weak on it camping) → deploy the new 2pm-alarm + meeting-start triggers. Family requests: grain bowls + shrimp curry; grilled thighs to round out. Planned 8/23._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sat 8/1 (tonight)** | **Pizza** (family request) | **Big salad — J+L eat it FIRST** | Salad first (volumetric pre-load — Justin's own design), then **2 slices, stop, apple close.** Family pizza night ≠ Justin pizza binge; the salad does the work. |
-| **Sun 8/2** *(D2 to camp)* | Turkey burritos (anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward, light rice/tortilla; chips open at plating. Margarita = the sanctioned Sunday drink if wanted. |
-| **Mon 8/3** *(🎂 D1's birthday)* | **Baked ziti** (D1's birthday request) | **Roasted broccoli + big green salad** (the J+L lane) | Her day, her menu. J: **veg-forward plate** — big salad + broccoli, modest ziti scoop (meatball-forward if the ziti has meat), no bread. Cake per birthday norms — small slice, enjoy it. |
-| **Tue 8/4** *(dance — quick/flexible)* | **Crockpot white chicken chili** — set AM; see `recipes/crockpot-white-chicken-chili.md` | Toppings: cilantro, lime, jalapeño; tortillas for D1 | Big bowl + spicy variant. Ready whenever the dance run lands. |
-| **Wed 8/5** *(easy — sets up Thu)* | **Slow-cooker Greek chicken gyros** — set AM; see `recipes/slow-cooker-greek-chicken-gyros.md` | Pita, romaine, tomato, cucumber, red onion, feta, tzatziki | **Bowl, not pita.** Cook-once-eat-twice on purpose → tomorrow's grab-and-go. |
-| **Thu 8/6** *(L cut-and-color ~5–8 — grab-and-go)* | **Leftover gyros night:** L takes a **Greek chicken pita to go** (better protein than the hummus sandwich — ~35g vs ~10g); J + D1 eat gyro bowls/pitas at home | Leftover fixings + tzatziki | Bowl over greens + tzatziki + feta + heat. Zero cooking. |
-| **Fri 8/7** | Guys' lunch → light dinner | — | Friday-flex light dinner. **Camping meal plan + band-workout design session today.** |
-| **Sat 8/8** *(D2 home from camp)* | TBD — simple grill or takeout around pickup logistics | — | Protein + veg default. Camping prep weekend. |
+| **Sun 8/23 (tonight)** | Turkey burritos (anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward, light rice/tortilla; chips open at plating. |
+| **Mon 8/24** *(🎂 D2's birthday)* | **OUT to eat** (D2's pick) | — | Her day. Lead with a lean protein + veg, choosy on bread/apps; drinks per policy (in-person social, ≤3, with the meal). Cake = small slice, enjoyed. |
+| **Tue 8/25** | **Mediterranean grain bowls — v2** (see `recipes/mediterranean-grain-bowls.md`) — more veg, less grain, staggered roast, **+ grilled chicken** | Quinoa + roasted veg + crispy chickpeas + feta + lemon-tahini | **+ grilled chicken on Justin's** (the satiety fix). Load veg/chickpeas/chicken, small grain scoop. Leftovers → lunches. |
+| **Wed 8/26** *(first day of school)* | **Shrimp curry** — chickpea curry + shrimp; see `recipes/chickpea-curry-with-shrimp.md` | Rice **or** naan + baby spinach + cilantro + lime | Big curry + shrimp + **either** ½ cup rice **or** one naan. Plant-forward, prep-ahead friendly for a hectic first school night. |
+| **Thu 8/27** | **Grilled chicken thighs** | Grilled or roasted veg + small potato/rice + salad | Thighs + **double veg**, small starch. Pull at 175°F. |
+| **Fri 8/28** | Guys' lunch → light dinner | — | Friday-flex: lighter dinner. |
+| **Sat 8/29** | TBD / flex | — | — |
 
 ### Week protein parade
-Pizza (flex) → turkey → beef/ziti (birthday) → chicken (chili) → chicken (gyros — different pattern: shredded-Greek vs chili) → gyros leftovers → light → flex. Two chicken nights are different preparations back-to-back mid-week — acceptable trade for the dance-week logistics + Thursday grab-and-go payoff.
+Turkey → out → chicken + chickpea (grain bowls) → shrimp + chickpea (curry) → chicken (thighs) → light. Two plant-forward nights (Tue/Wed chickpeas — good for the household). Thighs (Thu) separated from grain-bowl chicken (Tue) by the shrimp night.
 
-### Shopping list (week of 8/1–8/8)
+### Shopping list (week of 8/23–8/29)
 
-_Format: by department, one item per line, day-tagged. Sat pizza + Sun burrito staples assumed mostly on hand — check. Crockpot nights (Tue/Wed) are the bulk of the list._
+_Format: by department, one item per line, day-tagged. Sun burrito staples assumed on hand (back from trip — check the fridge/pantry first, restock as needed). Mon (out) needs nothing._
 
 **Meat & seafood**
-- [ ] Ground turkey, ~1.5 lb (check freezer — one was frozen mid-July) — Sun
-- [ ] Ground beef or Italian sausage for ziti (per D1's preferred version) — Mon
-- [ ] Chicken breast, boneless skinless, 1.5 lb — Tue (chili)
-- [ ] Chicken breast, boneless skinless, 2 lb — Wed (gyros)
+- [ ] Chicken breast, ~1 lb (grill for grain bowls) — Tue
+- [ ] Shrimp, ~1 lb (frozen peeled & deveined — check freezer) — Wed
+- [ ] Chicken thighs, bone-in or boneless, ~2 lb — Thu
 
 **Produce**
-- [ ] Salad greens, 2 bags/heads — Sat (pizza salad) + Mon
-- [ ] Broccoli, ~1 lb — Mon
-- [ ] Romaine, 1 head — Wed
-- [ ] Cucumbers, 3 (tzatziki + toppings) — Wed
-- [ ] Tomatoes, 2–3 — Wed
-- [ ] Red onion, 1 — Wed
-- [ ] Yellow onion, 2 — Tue, Wed
-- [ ] Jalapeño, 1–2 — Tue
-- [ ] Cilantro, 1 bunch — Tue
-- [ ] Limes, 2 — Tue
-- [ ] Lemons, 2 — Wed
-- [ ] Avocado, 1–2 — Sun
+- [ ] Zucchini, bell pepper, red onion, cherry tomatoes, cucumber (grain bowls) — Tue
+- [ ] Lemon(s) — Tue
+- [ ] Yellow onion, 1 + garlic + fresh ginger — Wed
+- [ ] Baby spinach, 1 bag — Wed
+- [ ] Cilantro, 1 bunch + limes, 2 — Wed
+- [ ] Broccoli/green beans + salad greens — Thu
+- [ ] Avocado + lettuce (burritos — check) — Sun
 
-**Dairy**
-- [ ] Greek yogurt, plain 5%, large tub (tzatziki) — Wed
-- [ ] Feta crumbles (check) — Wed
-- [ ] Ricotta + mozzarella for ziti — Mon
-- [ ] Shredded cheese, salsa (burritos — check) — Sun
+**Dairy & pantry**
+- [ ] Quinoa — Tue
+- [ ] Chickpeas, 4 cans (2 grain bowls + 2 curry) — Tue, Wed
+- [ ] Tahini, feta (check) — Tue
+- [ ] Coconut milk, full-fat, 1 can — Wed
+- [ ] Diced tomatoes, 1 can — Wed
+- [ ] Curry paste/powder + garam masala (check) — Wed
+- [ ] Rice + naan (check) — Wed
+- [ ] Burrito staples: tortillas, black beans, shredded cheese, salsa, rice (check) — Sun
 
-**Bakery**
-- [ ] Pita / pocketless flatbread — Wed (+ Thu to-go)
-- [ ] Tortillas (burritos + chili — check) — Sun, Tue
+### Past week archive (2026-08-01 → 2026-08-18: D1 birthday week + NH camping)
 
-**Pantry & canned**
-- [ ] Ziti/penne + marinara (or D1's preferred sauce) — Mon
-- [ ] Cannellini/navy beans, 2 cans — Tue
-- [ ] Diced green chiles, 1 can — Tue
-- [ ] Corn, 1 can/frozen — Tue
-- [ ] Chicken broth, 4 cups — Tue
-- [ ] Black beans, 1–2 cans (check) — Sun
-- [ ] Kalamata olives (check) — Wed
-- [ ] Red + white wine vinegar, dried dill/oregano (check) — Wed
-- [ ] Birthday cake fixings or bakery order per D1 — Mon
+| Day | Plan | Outcome |
+|---|---|---|
+| Sat 8/1 | Pizza + salad-first | Done; salad pre-load worked. |
+| Sun 8/2 | Turkey burritos | **Swapped → turkey + corn, no alcohol** (driving D1) — healthier audible. |
+| Mon 8/3 | Baked ziti (D1 birthday) | Done; J controlled portion + veg-loaded. Ziti ruled OUT of rotation ("too tempting"). |
+| Tue 8/4 | Crockpot white chicken chili | Done (dance night). |
+| Wed 8/5 | Slow-cooker gyros | Done; hydration deep-track day (~96 oz). |
+| Thu 8/6 | Gyro leftovers (L grab-and-go pita) | Done. |
+| Fri 8/7 | Guys' lunch → grill | **Broke 230 (229.4) this morning** + waist 45.5. |
+| Sat 8/8–Sun 8/9 | D2 home; camping prep | — |
+| **Mon 8/10–~Tue 8/18** | **NH camping (Pawtuckaway)** | Unplugged; protein-forward + high NEAT. **Held at 230** (8/21 read 230.0). Maintain-don't-lose = win. |
 
 ### Past week archive (2026-07-26 → 2026-08-01)
 
