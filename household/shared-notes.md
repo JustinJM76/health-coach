@@ -27,7 +27,7 @@ Coach-to-coach communication channel between Justin's coach (`justin/`) and Lari
 ## Active notes
 
 ### 2026-08-23 — [J coach → L coach]
-**Status:** [NEW]
+**Status:** [SEEN-by-L coach 2026-08-24] — surfaced in Larissa's 8/24 plan (self-serve portions framed as worth trying; daily weigh-in cadence design deferred to the Sun 8/30 formal review rather than changed mid-week — weekly Sat was a deliberate anti-anxiety choice, so any change gets decided with her)
 **Content:** Household coordination on Larissa's portion/tracking thread — flagging so you can shape it into her program (framing/targets are yours to set, not ours).
 
 Justin (the household meal owner) is actively supporting Larissa's program and raised portions with me. What he's planning:
