@@ -159,6 +159,10 @@ Peri bone-density-relevant (hip loading + glute strength). Doesn't count against
 2. **Seated Thoracic Flexion Extension** — cat-cow-in-a-chair
 3. **Sidelying Thoracic Rotation (both sides)** — "book opener" / thread-the-needle
 
+**Added 2026-08-24 (PT visit 2):**
+
+4. **Side-lying Head Lift** — strengthening against gravity; targets cervical lateral flexors (SCM + scalenes + upper cervical). Directly addresses the identified "decreased bilateral cervical lateral flexion" impairment. **PT progression signal:** moving from pure mobility → layered activation/strengthening. Confidence marker that Larissa is tolerating mobility work well.
+
 High-frequency, low-volume — correct dosing for mobility. If a day gets crushed, 1× is still much better than skipping.
 
 ### Ergonomic awareness (not a formal experiment)
@@ -175,6 +179,8 @@ Cervical flexion reproduces her pain → daily posture loads what PT is unwindin
 2. Movements to avoid in daily life beyond "don't look down for hours"
 3. Criteria for reintroducing paused upper-body RT (which movements first, what markers)
 4. Home exercise progression (when they'll upgrade)
+
+**_2026-08-24 PT visit 2 partial answers:_** PT said "no movement restrictions" (favorable, matches low-irritability) but did NOT specifically address restarting paused upper-body RT. Coach and Larissa agreed: **keep upper-body RT paused this week**. Even with no restrictions, jumping back to full row/pushup after 3+ months of shoulder issues + only ~5 days of mobility work would be premature. Target: ~2 more weeks of mobility work before layering load back. Progression questions (specifically for the RT clearance criteria) remain on the docket for the next PT visit.
 
 **When PT gives clearances or modifications:**
 - Integrate their prescribed additions
@@ -202,6 +208,11 @@ Levers in motion:
 **If 8/15 read still ~1 lb/3 weeks →** look at sharper levers (halve afternoon snack, dinner portion management, add 3rd full RT session once scap is clean).
 
 **_2026-08-08 update — pace-decision date moved to Sat 8/29._** Camping trip 8/10–8/18 means 8/15 weigh-in skipped. 8/22 would land on ~Day 29 or Day 1 of new cycle (naturally noisy window). **8/29 (Day 6–7, early follicular) is the first clean post-trip cycle-phase read** — that's the decision point. Formal review stays Sun 8/30.
+
+**_2026-08-24 — items to bring INTO the 8/30 formal review:_**
+- **Self-serve portions** (from J coach 8/23 note): Justin suggested Larissa plate her own dinner rather than him plating. Restores agency + hunger-cue driven. Larissa will discuss with Justin this week; landing in program at 8/30 review.
+- **Daily weigh-in question** (also from J coach 8/23 note): Justin offered to help set up daily weigh-ins. Deferred to 8/30 review — weekly Sat was a deliberate anti-anxiety choice; any cadence change decided with her. If she wants to try daily, will frame trailing-average interpretation to protect against daily noise reactivity.
+- **PT progression status** as of week of 8/24 — mobility work + new head-lift strength exercise landing well; RT clearance criteria still an open PT question.
 
 **Bigger frame:** the *behavior pattern* IS the healthspan lever. Sustainability + muscle preservation matter more than speed for peri weight loss. Don't break the pattern to chase the number.
 
