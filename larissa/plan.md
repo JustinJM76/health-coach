@@ -250,6 +250,27 @@ _Caffeine cutoff removed 2026-07-27 — Larissa is not a coffee drinker._
 
 Following the protocol requires pre-empting the windows. Coach surfaces the upcoming sensitive dates at each weekly weigh-in based on last confirmed Day 1.
 
+### Stress-driven vasomotor — separate mechanism, same symptoms (added 2026-08-28)
+
+**Warmth events can also arise outside her mapped sensitive windows** when stress load is elevated. Mechanism:
+
+- Acute stress (event, party, deadline) = sharp cortisol spike, clears 24–72 hours
+- Chronic stress (ongoing work, life circumstances) = elevated baseline cortisol persisting as long as stressor
+- Combined = acute spike on top of elevated baseline; longer to clear, baseline itself higher
+- In peri: system already primed for temperature dysregulation; chronic stress amplifies vasomotor activity
+
+**Confirmed 2026-08-22 to 8/28 window** — warmth persisted Days 3–9 (outside all mapped sensitive windows). Initially attributed to party stress alone; when ongoing work stress surfaced 8/28, picture resolved as stacked chronic + acute stress.
+
+**Response levers when this is happening:**
+
+- **Cooling stack applied opportunistically** (even outside mapped windows) if warmth is disrupting sleep
+- **Wind-down routine:** 20 min deliberate pre-bed transition (no email / no problem-solving)
+- **Physical decompression:** post-work walk, evening stretch, slow breathing (parasympathetic activation)
+- **Cardio during the day** — helps process cortisol; don't drop it because tired
+- **Explicit NOT-do list under stress:** no dietary restriction as coping, no alcohol, no compensating morning sleep-in (disrupts circadian without clearing cortisol)
+
+**Watch item:** if warmth outside sensitive windows becomes a repeated across-cycles pattern → peri window pattern may be structurally shifting → worth raising at next physician visit (cooling strategies, CBT-i for sleep, potentially larger hormonal conversation if disruptive).
+
 ## Design principle woven in — not a formal experiment
 
 **Add ~1/4 cup black beans or chickpeas to salad-kit lunches** (2×/week). ~30 seconds effort. Adds ~4g fiber (soluble) + ~3g protein per lunch — dual duty on peri protein target AND LDL-lowering.
