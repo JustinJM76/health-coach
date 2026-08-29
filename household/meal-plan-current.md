@@ -4,50 +4,57 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-08-23 (Sun) — 2026-08-29 (Sat)
+## Week of 2026-08-30 (Sun) — 2026-09-05 (Fri) + Labor Day camping
 
-_**Back from NH camping** (returned ~8/18) → resume normal plan. **School starts Wed 8/26** (→ early-riser Phase 3 + school-year evenings). **Mon = D2's birthday, dinner out.** Justin's focus this week: **hydration** (felt weak on it camping) → deploy the new 2pm-alarm + meeting-start triggers. Family requests: grain bowls + shrimp curry; grilled thighs to round out. Planned 8/23._
+_Event-heavy week (why the clean week is the NEXT one, 9/8). **Sat 8/29** neighborhood party; **Tue 9/1** HS open house 5:45–9 (early crockpot); **Wed 9/2** work event (Subway/leftovers); **Fri 9/4** depart for Labor Day camping (Justin plans camp meals himself, shops later in week). Rain forecast late week → no grilling Thu. Planned 8/29._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sun 8/23 (tonight)** | Turkey burritos (anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward, light rice/tortilla; chips open at plating. |
-| **Mon 8/24** *(🎂 D2's birthday)* | **OUT to eat** (D2's pick) | — | Her day. Lead with a lean protein + veg, choosy on bread/apps; drinks per policy (in-person social, ≤3, with the meal). Cake = small slice, enjoyed. |
-| **Tue 8/25** | **Mediterranean grain bowls — v2** (see `recipes/mediterranean-grain-bowls.md`) — more veg, less grain, staggered roast, **+ grilled chicken** | Quinoa + roasted veg + crispy chickpeas + feta + lemon-tahini | **+ grilled chicken on Justin's** (the satiety fix). Load veg/chickpeas/chicken, small grain scoop. Leftovers → lunches. |
-| **Wed 8/26** *(first day of school)* | **Shrimp curry** — chickpea curry + shrimp; see `recipes/chickpea-curry-with-shrimp.md` | Rice **or** naan + baby spinach + cilantro + lime | Big curry + shrimp + **either** ½ cup rice **or** one naan. Plant-forward, prep-ahead friendly for a hectic first school night. |
-| **Thu 8/27** | **Grilled chicken thighs** | Grilled or roasted veg + small potato/rice + salad | Thighs + **double veg**, small starch. Pull at 175°F. |
-| **Fri 8/28** | Guys' lunch → light dinner | — | Friday-flex: lighter dinner. |
-| **Sat 8/29** | TBD / flex | — | — |
+| **Sat 8/29 (tonight)** | **Neighborhood end-of-summer party** (dinner there; unknown spread) | — | **Big primer before leaving** (Justin's plan) → go light on party food; lead with protein + veg off the spread, one intentional treat if wanted. Drinks per policy (in-person social ✓, ≤3, with food, water alongside). |
+| **Sun 8/30** | Turkey burritos (anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward, light rice/tortilla; chips open at plating. |
+| **Mon 8/31** *(wide open — project cook)* | **Low-and-slow smoke on the Searwood** — pork shoulder → pulled pork (or smoked chicken thighs, ~2 hr, if shorter) — **cook big → feeds Wed leftovers** | Slaw + grilled/roasted veg; buns for the family | Pulled pork over slaw or a lettuce bowl (skip the bun) + veg. Set-and-leave; leftovers by design. |
+| **Tue 9/1** *(HS open house 5:45–9 — EARLY crockpot)* | **Turkey chili** (Justin's old recipe — set crockpot AM) | Cornbread/toppings for family; over greens or small rice for J | Big bowl, turkey + beans forward, spicy variant. Ready before the 5:45 out-the-door. |
+| **Wed 9/2** *(work event)* | **Subway for the girls** (on the way back from dance) / **leftovers for Justin** (Mon pulled pork or Tue chili) | — | Leftovers — protein + veg from the fridge. Zero cook. |
+| **Thu 9/3** *(open, short prep, RAIN → no grill)* | **Pan-seared salmon** (~10 min, indoor) | Steamed broccoli + small rice | Salmon + **double broccoli**, ½ cup rice. Quick, lean, rain-proof; nice light dinner before Fri departure. |
+| **Fri 9/4 → Labor Day** | **Depart for camping** — Justin plans + shops camp meals himself | — | Camping "maintain, don't lose" playbook (4th trip — dialed): protein-forward, high NEAT, hydrate; bands for outdoor workouts if he brings them. |
 
 ### Week protein parade
-Turkey → out → chicken + chickpea (grain bowls) → shrimp + chickpea (curry) → chicken (thighs) → light. Two plant-forward nights (Tue/Wed chickpeas — good for the household). Thighs (Thu) separated from grain-bowl chicken (Tue) by the shrimp night.
+(Party) → turkey → pork (smoke) → turkey chili → leftovers → salmon (fish) → camping. Varied; the smoke's leftovers bridge to Wed by design.
 
-### Shopping list (week of 8/23–8/29)
+### Shopping list (week of 8/30–9/3; camping shopped separately by Justin)
 
-_Format: by department, one item per line, day-tagged. Sun burrito staples assumed on hand (back from trip — check the fridge/pantry first, restock as needed). Mon (out) needs nothing._
+_Format: by department, one item per line, day-tagged. Sat (party, out) + Wed (Subway/leftovers) need nothing. Check pantry/freezer first._
 
 **Meat & seafood**
-- [ ] Chicken breast, ~1 lb (grill for grain bowls) — Tue
-- [ ] Shrimp, ~1 lb (frozen peeled & deveined — check freezer) — Wed
-- [ ] Chicken thighs, bone-in or boneless, ~2 lb — Thu
+- [ ] Pork shoulder, ~4–5 lb (Mon smoke → Wed leftovers) *or* chicken thighs ~2 lb if smoking those instead — Mon
+- [ ] Ground turkey, ~1.5–2 lb (per your chili recipe) — Tue
+- [ ] Salmon fillet, ~1.5–2 lb — Thu
+- [ ] Ground turkey, ~1.5 lb for burritos (check freezer) — Sun
 
 **Produce**
-- [ ] Zucchini, bell pepper, red onion, cherry tomatoes, cucumber (grain bowls) — Tue
-- [ ] Lemon(s) — Tue
-- [ ] Yellow onion, 1 + garlic + fresh ginger — Wed
-- [ ] Baby spinach, 1 bag — Wed
-- [ ] Cilantro, 1 bunch + limes, 2 — Wed
-- [ ] Broccoli/green beans + salad greens — Thu
+- [ ] Bagged slaw / cabbage + grilling veg — Mon
+- [ ] Onion + anything fresh per your turkey chili recipe — Tue
+- [ ] Broccoli, ~1 lb — Thu
 - [ ] Avocado + lettuce (burritos — check) — Sun
 
-**Dairy & pantry**
-- [ ] Quinoa — Tue
-- [ ] Chickpeas, 4 cans (2 grain bowls + 2 curry) — Tue, Wed
-- [ ] Tahini, feta (check) — Tue
-- [ ] Coconut milk, full-fat, 1 can — Wed
-- [ ] Diced tomatoes, 1 can — Wed
-- [ ] Curry paste/powder + garam masala (check) — Wed
-- [ ] Rice + naan (check) — Wed
-- [ ] Burrito staples: tortillas, black beans, shredded cheese, salsa, rice (check) — Sun
+**Pantry & canned**
+- [ ] Beans (kidney/black) + diced tomatoes + chili spices — per your turkey chili recipe — Tue
+- [ ] BBQ rub + grill pellets (check) — Mon
+- [ ] Buns / cornbread for the family (optional) — Mon, Tue
+- [ ] Rice (check) — Thu
+- [ ] Burrito staples: tortillas, black beans, cheese, salsa, rice (check) — Sun
+
+### Past week archive (2026-08-23 → 2026-08-29)
+
+| Day | Plan | Outcome |
+|---|---|---|
+| Sun 8/23 | Turkey burritos | Done (planning day). |
+| Mon 8/24 | Out — D2 birthday | Soup + Caesar w/ shrimp + small cake. |
+| Tue 8/25 | Grain bowls v2 | **Hit — chicken fixed satiety; kids enjoyed** (recipe confirmed). |
+| Wed 8/26 | Shrimp curry → **swapped** | Weather → grilled chicken thighs instead (curry bumped). |
+| Thu 8/27 | Grilled thighs → **swapped to shrimp curry** | Curry landed here. |
+| Fri 8/28 | Guys' lunch → light | Work crisis, no lunch out; grilled turkey burger + chicken sausage + veg (2 beers, one ambient/grilling — watch item). |
+| Sat 8/29 | (was TBD) | Neighborhood end-of-summer party. |
 
 ### Past week archive (2026-08-01 → 2026-08-18: D1 birthday week + NH camping)
 

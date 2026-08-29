@@ -35,6 +35,7 @@ HEALTH_FACTORS = {
     "cravings": "Food noise / cravings — any, and roughly what time?",
     "caffeine": "Caffeine — when was the last cup? (protecting 11:15 lights-out)",
     "alcohol": "Alcohol — any today? was it social? (social-only, <=3, 1-2x/wk)",
+    "dental": "Dental — PM brush + floss done? (building 2x/day brush + floss-every-time; added 2026-08-29)",
 }
 
 # Factors that support a detailed re-baseline day.

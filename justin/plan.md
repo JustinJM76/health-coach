@@ -172,6 +172,42 @@ Going forward: ≥1 plant-forward dinner per week, reduce chicken count, priorit
 
 _(Appended after each review.)_
 
+### 2026-08-29 — Formal review (Day 131) — "the maintenance month"
+
+**Numbers:** daily 230.3 (8/28) vs 231.0 at the 7/31 review; 7-day trailing ~232.4 (noisy — vacation gap 8/8–20 + party week); −19.7 off the 250 start (67% to 220, 10.3 to go). Waist stale (45.5 on 8/7 — resume). Weigh-in time drifted earlier (~7:35–7:45) = the early-riser shift showing in the data.
+
+**Frame: a maintenance month by circumstance — and he held.** The window contained NH camping, two kids' birthdays + a hosted party, first week of school, the start of the early-riser schedule shift, and a Bimzelx dosing gap. Net scale movement ~flat, but through *that* level of disruption, holding 230 = a win and another proof of the sustainability thesis. Not a stall to fix; a gauntlet passed.
+
+**Working / newly built this window:**
+- **Hydration solved structurally** — 2pm alarm + meeting-start trigger deployed, running hands-free; thread closed.
+- **Core progression** — suitcase carry → standing accessory; front plank added (first attempt ~20 sec, shaking — normal start).
+- **Early-riser shift underway** — up ~6:15 + sunrise walk, stepping it (day ~4–5).
+- **Rotation grew** — grain bowls v2 (satiety fixed w/ chicken, kid-approved) + fish tacos now family staples.
+- **Bimzelx reloaded** — hands trending better (supports the overdue-trough read; wheat thread stays paused until dosing stably back ~2 wk).
+
+**WATCH ITEMS:**
+1. **Ambient/stress drinking** — 8/28 (work-crisis Fri): 2 beers, one *while grilling* = the solo-activity "tending the smoker" category the alcohol rule targets, at the stress→drink intersection he flagged 7/31. Minor; named for awareness, no rule change.
+2. **Sleep-shift consistency** — next ~2 wk (esp. weekends) decide whether it sets or snaps back.
+3. **Waist cadence** — stale since 8/7; resume weekend reads.
+
+**DECISIONS:** Keep everything running. Disruptive stretch now past + school routine settling → **good window to resume the descent toward 220** (~1 lb/wk → ~mid-to-late Oct), then maintenance hold + Phase-2 decision. No overhaul; just clean weeks. Asked Justin for his felt-sense on pace after a maintenance month (restless-to-push vs content-with-held).
+
+**Next formal review: ~late September** (or at a 220-approach marker).
+
+#### Road to 220 by Jan 1 (Justin-set goal, 2026-08-29)
+
+Justin wants **220 by Jan 1** and floated a "one hard week a month" (0 alcohol, no eating out, portion control). Reframed and agreed:
+
+- **The math undercuts the need for heroics:** 230 → 220 = ~10 lb over ~18 weeks = **~0.55 lb/wk required** vs his demonstrated **~1 lb/wk clean-week pace** (~2× buffer). Even with 5–6 unavoidable holiday "hold" weeks, ~12 clean weeks at normal pace reach 220 with margin. **220 by Jan 1 = the normal system protected, not a willpower project.** Told him so directly (spending a willpower streak on a number the sustainable system already reaches is a bad trade given his 6-month-cliff history — which he named himself).
+- **His "hard week" → reframed as STRATEGIC "clean weeks" (periodization), not a monthly grind:**
+  - Levers = **removals, not added burden: 0 alcohol + no eating out** (his two biggest leak points; low willpower cost — "don't," not "measure/resist all day"; dry weeks = his proven #1 lever since June).
+  - **Portion control by TRAINED EYE ONLY — no food scale** (same trap flagged in the Larissa thread; tracking is his historical burnout mechanism).
+  - **Placed strategically, time-boxed with a clear end** — NOT "first week of every month forever" (that accumulates into sustained restriction = the cliff). Use as: momentum reset coming off a heavy stretch + buffer-banking before holiday clusters.
+  - **Guardrail:** a clean week is a *tightening overlay*, never permission to loosen other weeks ("I'll fix it in my hard week" = trap). The template stays the always-on baseline.
+- **Priority order to 220:** (1) protect the clean weeks so they hit ~1 lb/wk (does most of the work); (2) damage-control holiday weeks to hold-don't-gain (he's excellent at this now); (3) 2–4 strategic clean weeks as accelerant + buffer.
+- **First clean week: MON 9/8** (Justin's pick — day after Labor Day; first event-free weekend on the calendar). This week (8/30–9/5, Labor Day) has events → deliberately not the clean week.
+- Rough milestones: ~225 by early Nov, ~220 by year-end.
+
 ### 2026-07-31 — Formal review (Day 102) — "the one-pager review"
 
 **Artifacts:** `progress-review-2026-07-31.md` + `.svg` chart + archival `.pdf` (all committed).
