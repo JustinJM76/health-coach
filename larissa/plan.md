@@ -214,6 +214,8 @@ Levers in motion:
 - **Daily weigh-in question** (also from J coach 8/23 note): Justin offered to help set up daily weigh-ins. Deferred to 8/30 review — weekly Sat was a deliberate anti-anxiety choice; any cadence change decided with her. If she wants to try daily, will frame trailing-average interpretation to protect against daily noise reactivity.
 - **PT progression status** as of week of 8/24 — mobility work + new head-lift strength exercise landing well; RT clearance criteria still an open PT question.
 
+**_2026-08-29 — pace-decision deferred to Sat 9/5._** 8/29 weigh-in (128.4, Day 10) was supposed to be pace-decision quality but isn't clean: stress-driven warmth week + reduced exercise (one "lever in motion" not fully applied) + cortisol water retention. **Coach reminder: at 9/5 read, if near 127.4 anchor → trend intact + levers working (stay the course); if still elevated → sharper-levers conversation activated.** 8/30 formal review still covers full arc + shared-notes items.
+
 **Bigger frame:** the *behavior pattern* IS the healthspan lever. Sustainability + muscle preservation matter more than speed for peri weight loss. Don't break the pattern to chase the number.
 
 ## Peri-sensitive-window protocol (added 2026-07-25)
