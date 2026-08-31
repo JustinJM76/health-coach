@@ -12,10 +12,10 @@ _Event-heavy week (why the clean week is the NEXT one, 9/8). **Sat 8/29** neighb
 |---|---|---|---|
 | **Sat 8/29 (tonight)** | **Neighborhood end-of-summer party** (dinner there; unknown spread) | — | **Big primer before leaving** (Justin's plan) → go light on party food; lead with protein + veg off the spread, one intentional treat if wanted. Drinks per policy (in-person social ✓, ≤3, with food, water alongside). |
 | **Sun 8/30** | Turkey burritos (anchor) | Black beans + rice, cheese, salsa, avocado, lettuce | Turkey + beans forward, light rice/tortilla; chips open at plating. |
-| **Mon 8/31** *(wide open — project cook)* | **Low-and-slow smoke on the Searwood** — pork shoulder → pulled pork (or smoked chicken thighs, ~2 hr, if shorter) — **cook big → feeds Wed leftovers** | Slaw + grilled/roasted veg; buns for the family | Pulled pork over slaw or a lettuce bowl (skip the bun) + veg. Set-and-leave; leftovers by design. |
+| **Mon 8/31** *(swapped ← was Thu)* | **Pan-seared salmon** (~10 min) | Steamed broccoli + small rice | Salmon + **double broccoli**, ½ cup rice. |
 | **Tue 9/1** *(HS open house 5:45–9 — EARLY crockpot)* | **Turkey chili** — see `recipes/justin-turkey-chili.md` (set crockpot AM) | Cornbread/toppings for family; ladle over greens for J | Big bowl, turkey + beans forward, spicy variant (rice cooked in — portion by bowl). Ready before the 5:45 out-the-door. |
-| **Wed 9/2** *(work event)* | **Subway for the girls** (on the way back from dance) / **leftovers for Justin** (Mon pulled pork or Tue chili) | — | Leftovers — protein + veg from the fridge. Zero cook. |
-| **Thu 9/3** *(open, short prep, RAIN → no grill)* | **Pan-seared salmon** (~10 min, indoor) | Steamed broccoli + small rice | Salmon + **double broccoli**, ½ cup rice. Quick, lean, rain-proof; nice light dinner before Fri departure. |
+| **Wed 9/2** *(work event)* | **Subway for the girls** (on the way back from dance) / **leftover turkey chili for Justin** | — | Chili leftovers — protein + veg from the fridge. Zero cook. |
+| **Thu 9/3** *(swapped ← was Mon; project cook)* | **Smoke on the Searwood** (pulled pork / smoked thighs) **— or crockpot if rain wins** | Slaw + grilled/roasted veg; buns for family | Pulled pork over slaw / lettuce bowl (skip bun) + veg. Weather call day-of. |
 | **Fri 9/4 → Labor Day** | **Depart for camping** — Justin plans + shops camp meals himself | — | Camping "maintain, don't lose" playbook (4th trip — dialed): protein-forward, high NEAT, hydrate; bands for outdoor workouts if he brings them. |
 
 ### Week protein parade
