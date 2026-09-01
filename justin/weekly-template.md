@@ -118,6 +118,8 @@ Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No d
 
 Joint status gets logged after each session. Progression (adding reps/tubes/KB weight) is handled at the biweekly review, not daily.
 
+**Core rotation stable (as of 2026-09-01):** dead bug, Pallof press, **suitcase carry** (standing accessory, Mon/Thu), **front plank** (added 8/27), **side plank** (added 9/1). All disc-safe (anti-extension / anti-rotation / anti-lateral-flexion — no loaded flexion). Rotate freely across the core slot.
+
 ### Elliptical duration (revised 2026-06-16)
 
 Baseline durations above are a **floor, not a cap.** On days time allows, **extend toward 25–30 min** (Justin took Mon to 30 and it felt right). Optional and flexible — don't force it on a tight day; the baseline still counts as a complete session. **Watch item:** longer cardio can spike post-workout hunger (see 6/4) — keep the primer-first rule and don't let extra elliptical "earn" a bigger lunch. The fat-loss math lives in the daily deficit, not in burning it back at the machine.
