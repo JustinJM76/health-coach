@@ -175,6 +175,16 @@ Kitchen closes after the snack (or at 4 pm if you skipped) — no re-entry until
 
 **School-calendar note (2026-06-13):** week of 6/14 is the **last week of school** (D2 graduates Fri 6/19). The 7:25 AM-walk slot is school-bus-anchored — **revisit the AM-walk timing for summer** the week of 6/21.
 
+**School-year DANCE/evening schedule (added 2026-09-12 — the norm for 2026–27):**
+| Night | Dance / commitments | Dinner implication |
+|---|---|---|
+| **Mon** | Girls dance 4:45–8:00; Larissa class 7:30–8:15 (+15 min travel each way) | Long stretch out → **crockpot** (set AM). Girls eat late. |
+| **Tue** | Girls dance 5:15–8:00 | Justin **cooks after drop-off**. Girls eat late. |
+| **Wed** | D2 music 3–4 + dance 5–7:30; D1 dance 6–7:30 (carpool TBD); **Justin's game night** starts on arrival home | Max back-and-forth → **crockpot or easy assembly, prepped early.** |
+| **Thu** | D1 dance 5:15–8:15; Larissa class 6:45–7:30 | Justin **cooks after drop-off**. |
+| **Fri** | — | Guys' lunch anchor → light dinner. |
+Pattern: **girls eat late several nights.** Justin has cook time **Mon (crockpot) / Tue / Thu (after drop-off)**; **Wed = crockpot/easy.** Weekly meal planning should honor this.
+
 ## Dessert default
 
 Granny Smith apple. Apple-as-meal-closer was a day-2 win — it replaces the pantry-drift decision at 7:45 pm. Any fruit works; apple preferred.
