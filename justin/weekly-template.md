@@ -27,7 +27,9 @@ Rotations are **within** a slot, not across. Primer is always "primer slot" — 
 | Night shower | **Dental routine (added 2026-08-29): floss → brush → fluoride rinse, ON THE WAY INTO THE NIGHT SHOWER.** Anchor = the nightly shower (ironclad — Larissa-enforced, zero-exception daily cue → the new habit inherits that reliability; Justin's own hook). Targets the two failure points: PM brush (was inconsistent) + floss (was rare); AM brush already automatic. Floss picks fine if that's what gets used; spit-don't-rinse after brushing. |
 | 11:15 pm | **Lights out (Sun–Thu target).** |
 
-**AM anchor add (2026-08-29): brush is already religious — leave it. The new habit is entirely on the PM/floss side (above).** Goal state: brush 2×/day every day + floss every brush. Coach probes "dental" periodically via `checkin_variety.py`, weighted to *evening* check-ins during the build phase. Why it matters beyond teeth: oral inflammation ↔ systemic inflammation/CV risk (healthspan lever, esp. with PsA + CV watch); hydration (saliva) + reduced snacking already protect enamel.
+**AM anchor add (2026-08-29): brush is already religious — leave it. The new habit is entirely on the PM/floss side (above).** Goal state: brush 2×/day every day + floss every brush. Why it matters beyond teeth: oral inflammation ↔ systemic inflammation/CV risk (healthspan lever, esp. with PsA + CV watch); hydration (saliva) + reduced snacking already protect enamel.
+
+**Accountability (upgraded 2026-09-13, per Justin — "good-ish, not habit yet"):** dental is now a **PRIORITY_PROBE in `checkin_variety.py` — surfaces at the TOP of EVERY check-in**, not the random rotation (which was too infrequent for a build-phase habit). Coach asks PM-brush-+-floss done? every time until it's automatic, then retire it from PRIORITY_PROBES. Track yes/no in the journal for streak accountability.
 
 ## Primer slot (post-workout, pre-lunch)
 

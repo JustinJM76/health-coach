@@ -35,7 +35,15 @@ HEALTH_FACTORS = {
     "cravings": "Food noise / cravings — any, and roughly what time?",
     "caffeine": "Caffeine — when was the last cup? (protecting 11:15 lights-out)",
     "alcohol": "Alcohol — any today? was it social? (social-only, <=3, 1-2x/wk)",
-    "dental": "Dental — PM brush + floss done? (building 2x/day brush + floss-every-time; added 2026-08-29)",
+}
+
+# --- Priority habit-build probes: ALWAYS surfaced (not part of the random 2-3) ---
+# For habits still being installed — check EVERY time until they're automatic,
+# then retire from here (move to the random pool or drop). Review to retire.
+PRIORITY_PROBES = {
+    "dental": "Dental (BUILD — ask every check-in) — PM brush + floss done? "
+              "(2x/day brush + floss-every-time, anchored to the night shower; "
+              "not yet habit as of 2026-09-13 — accountability check per Justin's request)",
 }
 
 # Factors that support a detailed re-baseline day.
@@ -253,6 +261,12 @@ def build_brief(date):
     weekday = date.weekday()
     out.append(f"==== Coach variety brief — {date.isoformat()} "
                f"({date.strftime('%A')}) ====")
+
+    # Priority habit-build probes: ALWAYS shown, every check-in.
+    if PRIORITY_PROBES:
+        out.append("\nPRIORITY HABIT CHECK (ask EVERY time until automatic):")
+        for msg in PRIORITY_PROBES.values():
+            out.append(f"  - {msg}")
 
     # Health probes: 2-3 rotating factors.
     n = rng.choice([2, 2, 3])
