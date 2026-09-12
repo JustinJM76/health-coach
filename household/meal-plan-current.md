@@ -4,20 +4,21 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-09-13 (Sun) — 2026-09-19 (Sat) — 🎯 CLEAN WEEK (properly founded) + gluten-free
+## Week of 2026-09-13 (Sun) — 2026-09-20 (Sun) — 🎯 CLEAN WEEK (Sun–Sun, runs through a weekend) + gluten-free
 
-_**Clean week done right this time** — plan + shop BEFORE it starts, camping trigger food cleared first (the 9/8 attempt failed on missing scaffolding, not willpower). Terms: **0 alcohol, no eating out, portions by eye, + gluten-free** (Justin resuming the GF experiment — see note). Built around the **new school-year dance schedule** (below) + **HS parent meetings Mon 9/14 6–7 & Wed 9/16 6:30–7:30** → crockpot Mon + easy/prepped Wed. Planned 9/12._
+_**Clean week done right this time** — plan + shop BEFORE it starts, camping trigger food cleared first (the 9/8 attempt failed on missing scaffolding, not willpower). Terms: **0 alcohol, no eating out, portions by eye, + gluten-free** (Justin resuming the GF experiment — see note). **Runs Sun–Sun to capture a full weekend** (Justin's design point; likely extends into the following weekdays, which run clean anyway). **Fri 9/18 guys' lunch SKIPPED** (a couple guys traveling + guys' trip the following weekend ~9/26 → good one to skip) = no clean-week conflict. Built around the new school-year dance schedule (see weekly-template) + HS parent meetings Mon 9/14 6–7 & Wed 9/16 6:30–7:30. Planned 9/12._
 
 | Day | Main | Sides | Justin's plate |
 |---|---|---|---|
-| **Sat 9/12 (tonight)** | **Reset dinner — pan-seared salmon** (fast, GF) | Steamed broccoli + small rice | Salmon + double broccoli, ½ cup rice. Dry (clean week). |
+| **Sat 9/12 (tonight — PRE-clean-week)** | **Pizza** (Larissa's request) + big salad | **Salad first (J+L)** | Salad first (volumetric pre-load), then 2 slices, stop. Last non-GF/pre-clean meal — clean+GF starts tomorrow. |
 | **Sun 9/13** | **Turkey burrito BOWLS** (GF — skip flour tortilla; corn tortilla OK) | Black beans + rice, salsa, avocado, lettuce, cheese | Turkey + beans forward, small rice, **no flour tortilla**. **Dry — skip the Sunday margarita this week** (clean week). |
 | **Mon 9/14** *(girls dance 4:45–8; L class 7:30–8:15; HS mtg 6–7 → CROCKPOT)* | **White chicken chili** (GF) — `recipes/crockpot-white-chicken-chili.md`; set AM | Cilantro, lime, jalapeño; **corn tortillas or none** (skip cornbread — GF) | Big bowl, spicy variant. Ready through the meeting. |
 | **Tue 9/15** *(girls dance 5:15–8; cook after drop-off)* | **Mediterranean grain bowls (quinoa = GF)** + **shrimp** — `recipes/mediterranean-grain-bowls.md` | Quinoa + roasted veg + chickpeas + feta + lemon-tahini | Load veg/chickpeas/shrimp, small quinoa scoop. Leftovers → lunches. (Shrimp, not chicken — breaks up the week's chicken.) |
 | **Wed 9/16** *(chaos: D2 music 3–4 + dance 5–7:30, D1 6–7:30; HS mtg 6:30–7:30; game night → CROCKPOT, set AM)* | **Slow-cooker Greek chicken gyros** (GF as BOWLS) — `recipes/slow-cooker-greek-chicken-gyros.md`; set AM | Romaine, tomato, cucumber, red onion, feta, tzatziki, olives — **skip pita (GF)** | **Bowl over greens, no pita.** Zero evening cook for the back-and-forth night. |
 | **Thu 9/17** *(D1 dance 5:15–8:15; L class 6:45–7:30; cook after drop-off)* | **Pork tenderloin** (air-fryer, ~25 min, GF) | Roasted green beans/broccoli + small potato | Pork + double veg, small/skip potato. |
-| **Fri 9/18** | **Guys' lunch (anchor)** → light GF dinner at home | — | **Clean-week + the anchor: see note — dry-or-one-beer + lean, his call.** Light dinner. |
-| **Sat 9/19** | TBD / flex (GF, dry — clean week close) | — | — |
+| **Fri 9/18** *(guys' lunch SKIPPED this week)* | **Pan-seared salmon** at home (GF) | Steamed broccoli + small rice | Salmon + double broccoli, ½ rice. Clean home day (no eating out this Fri). |
+| **Sat 9/19** | TBD / flex — grill something (GF, dry) | Grilled veg + salad | Protein + double veg. Clean-weekend day. |
+| **Sun 9/20** *(clean-week close)* | Turkey burrito bowls (GF) **or** flex | Beans/rice/salsa/avo/lettuce | Turkey + beans forward, no flour tortilla. Dry (still clean). Likely extends into next week's weekdays. |
 
 ### Gluten-free note (this week)
 GF folds naturally into clean week — for Justin, "GF" mostly means dropping bread, flour tortillas, pita, pasta, and the trigger snacks (pretzels, muffins), which IS clean eating. Swaps already built in: burrito→bowl, chili→corn/none, grain bowl→quinoa, gyros→bowl, lunch sandwiches→salads/lettuce wraps/bowls. Most of the rotation is already GF. **Framing:** he's doing GF for the **digestion + food-choice benefit he noticed** (real, reason enough) — NOT as the controlled joint test (that stays parked; the rigorous celiac-serology-first test needs gluten intake, so if he ever wants the definitive answer, draw that blood BEFORE a long GF stretch).
@@ -30,8 +31,8 @@ Salmon (fish) → turkey → chicken (chili) → shrimp → chicken (gyros) → 
 _By department, day-tagged. Clear the camping trigger food first (pretzel bites, muffins). Sun burrito staples check pantry. Fri (guys' lunch) + Sat flex need little._
 
 **Meat & seafood**
-- [ ] Salmon fillet, ~1.5–2 lb — Sat
-- [ ] Ground turkey, ~1.5 lb (burritos — check freezer) — Sun
+- [ ] Salmon fillet, ~1.5–2 lb — Fri (guys' lunch skipped → cook at home)
+- [ ] Ground turkey, ~1.5 lb (burritos — check freezer) — Sun (+ Sun 9/20 close)
 - [ ] Chicken breast, 1.5 lb (white chili) — Mon
 - [ ] Shrimp, ~1 lb (frozen — check freezer) — Tue
 - [ ] Chicken breast, 2 lb (gyros) — Wed
