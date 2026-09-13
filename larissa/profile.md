@@ -51,7 +51,9 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - Mornings: oatmeal + Greek yogurt (recent protein-forward move)
 - _Open: typical lunch, snacks, dinner specifics from her side (dinner is per family meal plan)_
 
-**Work:** Mon–Fri, primarily desk-based. Standing desk used ~1 hr/day with intentional ankle/calf work (relevés, calf pumps, raise/lower). Stairs once weekly each direction (down then up, 7th floor). Otherwise mostly seated.
+**Work:** Mon–Fri, primarily desk-based. Standing desk used ~1 hr/day with intentional ankle/calf work (relevés, calf pumps, raise/lower). Stairs once weekly each direction (down then up, 7th floor). Otherwise mostly seated. **Fall 2026 update:** meetings up significantly → less time away from desk than usual.
+
+**Weekday timing (fall 2026):** alarm 5:45am, out of bed 6:00–6:15am, morning routine + AM PT, kids leave 6:40am, leave for work 7:40am, ~30 min commute (used for silence / mindfulness / podcast / music — functionally her decompression protocol), home ~5:30–5:45pm.
 
 **Sleep:**
 - Bedtime: 10:00–10:30 pm
@@ -74,16 +76,23 @@ _Created 2026-05-09. Intake session 2026-05-09: most TBC items now confirmed. Up
 - Sunday burrito night (family anchor); Saturday family dinner; Sunday 9pm date-night ice cream with Justin.
 - Larissa's lunches and breakfasts are her zone — handled independently, often leftovers to work.
 
-## Exercise (current baseline — solid for a desk-job week, gap noted)
-- **Sun:** minimal physical activity
-- **Mon:** 45 min lyrical dance class
-- **Tue:** 25 min elliptical
-- **Wed:** 25 min elliptical
-- **Thu:** 45 min jazz dance class (more aerobic)
-- **Fri:** typically no exercise (tired from the week)
-- **Sat:** no scheduled physical activity
-- Workday: mostly sitting; standing desk ~1 hr/day with deliberate calf/ankle work; stairs once/week each direction
-- **Notable gap:** no formal resistance / strength training. Flagged as a future thread — high-leverage for perimenopause (muscle preservation, bone density, glucose regulation, body composition during weight loss). Justin's home gym (20 lb kettlebell, Bodylastics resistance bands) is a potential resource. Not pushed in session 1.
+## Exercise (fall 2026 — post-redesign 2026-09-12)
+
+**Weekly template (school year):**
+- **Mon:** dance class 7:30–8:15 (+30 min travel)
+- **Tue:** elliptical 25 min (evening ~6)
+- **Wed:** yoga 15 min (evening) — Larissa-requested, added 9/12
+- **Thu:** dance class 6:45–7:30
+- **Fri:** core 10 min (evening) — Larissa-requested, added 9/12
+- **Sat:** flex movement (walk / hike / family)
+- **Sun:** family movement
+- **All days:** PT home program 2× daily (mobility trio + head lift)
+
+**Not activated: AM walk** — 85-min morning window (6:15 wake → 7:40 depart, with routine + PT + kids-leave-6:40) doesn't have runway. Revisit only if morning window ever expands.
+
+**Upper-body RT paused** pending PT clearance for specific movements (shoulder thread).
+
+**Historical baseline (pre-9/12):** Mon lyrical dance 45 min; Tue/Wed elliptical 25 min each; Thu jazz dance 45 min; Fri usually rest; Sat/Sun minimal. Fall pattern is close to this but with yoga + core added and RT slotted in whenever PT clears it.
 
 ## Patterns / history
 - Past energy levels were consistently high; the recent fatigue is a noticeable change to her — *not her baseline.*

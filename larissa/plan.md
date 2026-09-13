@@ -189,6 +189,52 @@ Cervical flexion reproduces her pain → daily posture loads what PT is unwindin
 
 **Nutritional experiments continue unaffected** — chickpea dial-down, Bark Thin baseline, protein-forward snack default, sensitive-window protocol, weekly weigh-in.
 
+## Fall weekly template (added 2026-09-12; norm for 2026–27 school year)
+
+**Weekday morning (all days):** alarm 5:45am, out of bed 6:00–6:15am, morning routine + AM PT exercises, kids leave 6:40am, Larissa leaves for work 7:40am. **Commute ~30 min** — used for silence / mindfulness / podcast / music. **This is her decompression protocol; protect it.**
+
+**Weekday evening:** home ~5:30–5:45pm after commute.
+
+| Day | Movement | Notes |
+|---|---|---|
+| **Mon** | AM PT + dance class 7:30–8:15 + PM PT | +30 min travel each way. Girls dance 4:45–8:00. |
+| **Tue** | AM PT + elliptical 25 min (evening ~6) + PM PT | Kids at dance 5:15–8:00; evening open. |
+| **Wed** | AM PT + **yoga 15 min (evening)** + PM PT | Kids fragmented; yoga fits well. |
+| **Thu** | AM PT + dance class 6:45–7:30 + PM PT | D1 dance 5:15–8:15. |
+| **Fri** | AM PT + **core 10 min (evening)** + PM PT | Free evening; quick add. |
+| **Sat** | AM PT + weigh-in + flex movement + PM PT | Weigh-in first thing. |
+| **Sun** | AM PT + family movement + PM PT | |
+
+**Weekly totals:**
+- 2 dance classes (~90 min structured cardio)
+- 1 elliptical (25 min) — add 2nd only if a free evening allows
+- 1 yoga (15 min) — Larissa-requested
+- 1 core (10 min) — Larissa-requested
+- PT exercises 2×/day = ~14 sessions/week
+- Weekend family movement (walk / hike / activity)
+
+**Adjustment rules:**
+- **Miss a day** = fine. Miss a week = investigate.
+- **Sensitive window overlap:** protocol runs (cooling stack + no alcohol) but doesn't require workout skips.
+- **PT progression:** if PT clears specific upper-body movements, they slot back in gradually — don't force full RT return on first clearance.
+
+## Nutrition — current active state (updated 2026-09-12)
+
+**Breakfast:** oatmeal + ground flax + Greek yogurt. Working; don't change.
+
+**Lunch rotation:**
+- 2×/wk burrito bowl (rice + black beans + cheese + jalapeño + ground turkey)
+- 2×/wk salad kit (Southwestern / Mediterranean / etc.) + avocado + **1/4 cup black beans or chickpeas** (confirmed correct portion 9/12; was over-serving at 3/4 through late July then corrected)
+- 1×/wk hummus sandwich + corn OR dinner leftover
+
+**Afternoon snack:** rotation of banana+PB, mini Rx bar, apple+string cheese, HB egg. **Halve on desk-heavy days** starting week of 9/14 (banana → half + PB; Rx bar → half). Keep protein density, reduce total.
+
+**Dinner:** family plan (Justin's meal infrastructure). **Justin has been plating smaller portions for Larissa and it's working** — don't change. Self-serve idea from J coach 8/23 not needed; same outcome achieved differently.
+
+**Alcohol:** minimal. Sensitive-window rule: none during Days 1–2, 12–15, 25–28.
+
+**Electrolytes:** Instant Hydration packets ~every other day. Continues (unrelated to weight thread; peri mineral profile).
+
 ## Weight-loss pace decision log (added 2026-08-01)
 
 **Current pace:** ~1 lb / 3 weeks (baseline 127.9 → 127.4 over 21 days).
@@ -215,6 +261,16 @@ Levers in motion:
 - **PT progression status** as of week of 8/24 — mobility work + new head-lift strength exercise landing well; RT clearance criteria still an open PT question.
 
 **_2026-08-29 — pace-decision deferred to Sat 9/5._** 8/29 weigh-in (128.4, Day 10) was supposed to be pace-decision quality but isn't clean: stress-driven warmth week + reduced exercise (one "lever in motion" not fully applied) + cortisol water retention. **Coach reminder: at 9/5 read, if near 127.4 anchor → trend intact + levers working (stay the course); if still elevated → sharper-levers conversation activated.** 8/30 formal review still covers full arc + shared-notes items.
+
+**_2026-09-12 — 2-week gap; fall program redesign; new low at 127.0._** Larissa returned after 2-week silence. Weigh-in 127.0 (Day 24 late luteal) = **new low across 9-week window** — dropping through typically-water-carrying phase = real signal. **Realistic pace forward: ~0.4–0.5 lb/wk (not 1 lb/wk).** Sharper-levers approach activated but calibrated to her real constraints:
+- **Chickpea 1/4 cup confirmed** (correction landed cleanly)
+- **Afternoon snack halving on desk-heavy days** starting week of 9/14
+- **Dinner portions:** Justin has been plating smaller and it works → self-serve idea NOT needed (same outcome, different path)
+- **Yoga 15 min Wed evening + core 10 min Fri evening** — Larissa-requested additions
+- **AM walk formally OFF** — 85-min AM window doesn't have runway for a walk on top of routine + PT + prep
+- **Commute as decompression** — her ~30 min drive with silence/mindfulness/podcast is already functionally a decompression protocol; protect it, don't stack another
+- **Return to normal cardio rhythm** (2 dance + elliptical) after 2 weeks of minimal exercise
+- Full fall weekly template below.
 
 **Bigger frame:** the *behavior pattern* IS the healthspan lever. Sustainability + muscle preservation matter more than speed for peri weight loss. Don't break the pattern to chase the number.
 
