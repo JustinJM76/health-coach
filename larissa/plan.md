@@ -308,6 +308,20 @@ _Caffeine cutoff removed 2026-07-27 — Larissa is not a coffee drinker._
 
 Following the protocol requires pre-empting the windows. Coach surfaces the upcoming sensitive dates at each weekly weigh-in based on last confirmed Day 1.
 
+### **CRITICAL RULE: "Day 1 = protocol on"** (added 2026-09-13)
+
+**The moment period arrives, sensitive-window protocol is ACTIVE for that night AND the next.** No lead time required. No prediction needed.
+
+**Why this rule exists:** Larissa's cycles are variable (23–27 days range as of 9/12; not fixed 26–27 as previously modeled). Predicting Day 1 to a specific date isn't reliable. Anchoring the protocol to the certain event (period arrival) rather than the uncertain prediction (calendar forecast) handles the variability.
+
+**Two confirmed incidents where late-Day-1-arrival + no-anticipation caused a protocol miss:**
+- **7/26 (Day 2 of that cycle):** 6 sips of margarita at dinner → >1 hr sleep latency + warm/cold cycles + REM-rebound dream
+- **9/12 (Day 1 of this cycle):** drinking alcohol in the afternoon when period started; unaware of window → warm + 2 hrs insomnia overnight
+
+Same day-of-cycle both times. Same trigger. Same result. The mechanism is now confirmed for her specifically.
+
+**Practical implementation:** as soon as period arrives (any time of day), cooling stack goes on tonight + tomorrow night; alcohol / hot bath / spicy dinner rules activate.
+
 ### Stress-driven vasomotor — separate mechanism, same symptoms (added 2026-08-28)
 
 **Warmth events can also arise outside her mapped sensitive windows** when stress load is elevated. Mechanism:
