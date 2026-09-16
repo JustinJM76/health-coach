@@ -79,6 +79,14 @@ Adapted from We Are Not Martha — "Mediterranean Grain Bowls": https://wearenot
 - **Roasting: stagger the trays** — chickpeas crisp faster than the veg. **Chickpeas ~20 min; veg ~25–30 min** (pull chickpeas earlier).
 - **Quinoa build worked well** (low-wheat; good texture) — keep quinoa as the default grain (couscous is wheat).
 
+### v2.1 — 2026-09-15 (shrimp variation) — HIT, D1 praised the rotation
+- **Grilled/sautéed shrimp works great** in place of the chicken (breaks up a chicken-heavy week; GF; fast). Kid-approved — **D1 cleaned her bowl and volunteered she "really likes the new meal selections."** Shrimp = a confirmed protein option for this bowl.
+
+### v2 — 2026-08-25 (second cook, with fixes) — CONFIRMED, kid-approved
+- **The chicken fixed the satiety for Justin** ("chicken on top fixed it for me") — v1's plant-only gap closed. Animal-protein-on-top is now the standard build for Justin's bowl.
+- **First time served to the kids — both enjoyed it.** Family-rotation-worthy, not just a "just us" meal.
+- Keep the v2 build below as the default.
+
 ### v2 targets (Justin's scaling — feed 4 + leftovers)
 - **Quinoa: 1.5×** tonight's (grain scales *least* — it was already over) → ~1.5 cups dry.
 - **Veg: 3×** tonight's (big volume — this is a veg-forward bowl).
