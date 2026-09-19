@@ -4,7 +4,94 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-09-13 (Sun) — 2026-09-20 (Sun) — 🎯 CLEAN WEEK (Sun–Sun, runs through a weekend) + gluten-free
+## Week of 2026-09-20 (Sun) — 2026-09-26 (Sat) — 🎯 CLEAN WEEK EXTENDED (Sun–Thu) → guys' camping (Fri–Sun)
+
+_Justin **extends clean+GF through Thursday** (0 alcohol, no eating out, portions by eye, gluten-free) — the descent is working (Fri 9/18 = 227.7, fresh clean-week low), so ride it. **Fri 9/25 he leaves for a guys' camping weekend** — **no rules imposed on the trip** (well-earned; the clean Sun–Thu banks the week, and "maintain-don't-lose + high NEAT" is the proven camping frame if he wants it, but it's his call). Built on the school-year dance schedule: **Mon crockpot** (girls dance 4:45–8, L class 7:30–8:15), **Tue cook after drop-off** (girls 5:15–8), **Wed crockpot/easy** (D2 music 3–4 + dance 5–7:30, D1 6–7:30, game night), **Thu cook after drop-off** (D1 5:15–8:15, L class 6:45–7:30). **Larissa requested grain bowls again (new protein)** → Tue, with salmon this time. Planned 9/19._
+
+| Day | Main | Sides | Justin's plate |
+|---|---|---|---|
+| **Sun 9/20** *(anchor)* | **Turkey burrito BOWLS** (GF — no flour tortilla; corn OK) | Black beans, corn, sautéed peppers/onions, salsa, avocado, romaine, cheese; rice for family | Turkey + beans/peppers forward over big romaine, avocado + salsa, **no flour tortilla**, small/no rice. **Small Sunday ice cream w/ Larissa** — protected anchor, kept small; **dry** (still clean). |
+| **Mon 9/21** *(girls dance 4:45–8; L class 7:30–8:15 → CROCKPOT, set AM)* | **Slow-cooker beef stew** (GF — thicken with **cornstarch, not flour**) — `recipes/slow-cooker-beef-stew.md`; week's red-meat variety night | Carrots, celery, potatoes, onion in the stew; side salad; crusty bread for family (not J) | Stew + **load the veg**, lean on the beef, **skip bread**. Ready through the long dance stretch. |
+| **Tue 9/22** *(girls dance 5:15–8; cook after drop-off)* | **Mediterranean grain bowls + SALMON** (GF, quinoa) — `recipes/mediterranean-grain-bowls.md` — **Larissa's request; NEW protein** (salmon vs last week's shrimp) | Quinoa + roasted veg + crispy chickpeas + feta + lemon-tahini | Load veg/chickpeas/**salmon**, small quinoa scoop. Roast veg + chickpeas earlier in the WFH day → fast assembly after drop-off. Leftovers → Larissa's lunches. |
+| **Wed 9/23** *(chaos: D2 music 3–4 + dance 5–7:30, D1 6–7:30; game night → CROCKPOT, set AM)* | **Slow-cooker pulled pork** (lean-leaning; GF) — serve as bowls / over slaw | Cabbage slaw, lime, cilantro; GF corn tortillas or buns for family; avocado | Pulled pork over **slaw/greens**, no bun, small/no starch. **Go easy on sweet BBQ sauce** (sugar bomb) — dry rub or light GF sauce. Zero evening cook for the back-and-forth night + game night. |
+| **Thu 9/24** *(D1 dance 5:15–8:15; L class 6:45–7:30; cook after drop-off — REAL dinner, last clean night)* | **Greek lemon chicken sheet pan** (GF) — rotation "real dinner" | Roasted veg (broccoli / green beans / brussels) + small potatoes | Chicken + **double roasted veg**, small/skip potato. Cap the clean stretch with a proper cook. |
+| **Fri 9/25** *(Justin leaves for camping)* | **Family: easy** — leftovers (stew/pork) or simple kid meal | — | **Justin: traveling** — no plate planned. |
+| **Sat 9/26** *(Justin camping)* | **Family: Larissa's call** — cook or takeout | — | **Justin: camping** — no rules. |
+
+### Grain bowls — protein rotation
+Larissa asked for these again with a different protein. Log so far: **v1 chicken** (satiety fix for Justin) → **shrimp** (9/15, D1-praised) → **salmon** (this week). Salmon is a natural Mediterranean pairing and keeps the rotation fresh; it also doubles as the week's fish night, so no separate salmon meal needed.
+
+### Week protein parade
+Turkey → beef → **salmon (fish)** → pork → chicken → (family leftovers) → (family flex). Clean no-repeat parade; **rests chicken to a single Thursday night** after last week's chicken-heavy run; plant-forward lean on Tue (chickpeas + salmon).
+
+### Clean-week extension + camping frame
+- **Sun–Thu:** clean + GF (0 alcohol, no eating out, portions by eye). Same rails that produced 227.7 — no new burden, just keep the removals.
+- **Fri–Sun camping:** **no rules, by Justin's call.** The optional (not imposed) frame that's worked before: *maintain-don't-lose* — lean into the built-in high NEAT (hiking, setup, hauling), protein-forward when it's easy, hydrate hard (camping + beers dehydrate), and just don't try to "make up" the trip on the scale Monday — it'll be water. He returns to the template Monday.
+
+### Shopping list (week of 9/20–9/26) — clean + GF (Sat 9/19 trip)
+
+_By department, **one item per line** (crossable), day-tagged. Sun–Thu firm; Fri/Sat are family meals (leftovers cover Fri). **Camping provisions NOT included** — flag if you want them added. "(check)" = likely already have it, verify before buying._
+
+**Meat & seafood**
+- [ ] Ground turkey, ~1.5 lb — Sun (check freezer)
+- [ ] Beef chuck / stew meat, ~2 lb — Mon
+- [ ] Salmon fillet, ~1.5–2 lb — Tue
+- [ ] Pork shoulder/butt, ~3 lb — Wed
+- [ ] Chicken thighs (boneless skinless), ~2 lb — Thu
+
+**Produce**
+- [ ] Romaine, 2 heads (burrito bowls Sun + pork bowls Wed) — Sun/Wed
+- [ ] Avocado, 2–3 — Sun + Wed
+- [ ] Bell peppers, 2 — Sun
+- [ ] Yellow onions, 2–3 (burrito Sun + stew Mon) — Sun/Mon
+- [ ] Limes, 2 — Sun + Wed
+- [ ] Garlic, 1 head (stew + grain-bowl dressing + Greek chicken) — Mon/Tue/Thu
+- [ ] Carrots, 4 — Mon
+- [ ] Celery, 1 bunch — Mon
+- [ ] Yukon/red potatoes, ~3 lb (stew Mon + Greek chicken Thu) — Mon/Thu
+- [ ] Zucchini, 1 — Tue
+- [ ] Cherry tomatoes, 2 pints (grain bowls Tue + Greek salad Thu) — Tue/Thu
+- [ ] Red onion, 2 (grain bowls Tue + Greek salad Thu) — Tue/Thu
+- [ ] Cucumbers, 3 (grain bowls Tue + Greek salad Thu) — Tue/Thu
+- [ ] Lemons, 3 (grain-bowl dressing Tue + Greek marinade/salad Thu) — Tue/Thu
+- [ ] Fresh parsley + mint (grain-bowl topping, optional) — Tue
+- [ ] Cabbage or bagged slaw mix — Wed
+- [ ] Cilantro — Wed
+- [ ] Roasting veg: broccoli / green beans / brussels, ~1.5 lb — Thu
+
+**Dairy & pantry (GF — check labels)**
+- [ ] Corn tortillas (GF) — Sun
+- [ ] Black beans, 2 cans — Sun
+- [ ] Corn (canned or frozen) — Sun
+- [ ] Salsa — Sun
+- [ ] Rice, for family — Sun (check)
+- [ ] Shredded cheese (burritos Sun + pork Wed) — Sun/Wed
+- [ ] Cornstarch — Mon (check)
+- [ ] Beef broth (GF), ~32 oz — Mon
+- [ ] Tomato paste — Mon
+- [ ] Worcestershire (GF — or coconut aminos / GF tamari) — Mon (check)
+- [ ] Bay leaves — Mon (check)
+- [ ] Dried thyme (stew + Greek chicken) — Mon/Thu (check)
+- [ ] Frozen peas — Mon
+- [ ] Quinoa — Tue (check)
+- [ ] Chickpeas, 3 cans (grain bowls Tue ×2 + Greek salad Thu ×1) — Tue/Thu
+- [ ] Tahini — Tue (check)
+- [ ] Feta, 1 container (grain bowls Tue + Greek salad Thu) — Tue/Thu
+- [ ] Kalamata olives (grain bowls Tue + Greek salad Thu) — Tue/Thu
+- [ ] GF BBQ sauce or dry-rub spices — Wed
+- [ ] Buns or tortillas for the family — Wed
+- [ ] Red wine vinegar (Greek salad dressing) — Thu (check)
+- [ ] Dried oregano (Greek chicken) — Thu (check)
+- [ ] Olive oil — (check level; used heavily this week)
+- [ ] Taco/burrito spices: cumin, chili powder — Sun (check)
+
+**Glop restock (daily lunch)**
+- [ ] Greek yogurt, large tub (also covers slaw dressing / any tzatziki) — daily
+- [ ] Frozen berries — daily
+- [ ] Whey protein — (check)
+- [ ] Psyllium husk — (check)
+
+## Week of 2026-09-13 (Sun) — 2026-09-20 (Sun) — 🎯 CLEAN WEEK (Sun–Sun, runs through a weekend) + gluten-free — ✅ EXECUTED (fresh low 227.7 on 9/18; extended into next week)
 
 _**Clean week done right this time** — plan + shop BEFORE it starts, camping trigger food cleared first (the 9/8 attempt failed on missing scaffolding, not willpower). Terms: **0 alcohol, no eating out, portions by eye, + gluten-free** (Justin resuming the GF experiment — see note). **Runs Sun–Sun to capture a full weekend** (Justin's design point; likely extends into the following weekdays, which run clean anyway). **Fri 9/18 guys' lunch SKIPPED** (a couple guys traveling + guys' trip the following weekend ~9/26 → good one to skip) = no clean-week conflict. Built around the new school-year dance schedule (see weekly-template) + HS parent meetings Mon 9/14 6–7 & Wed 9/16 6:30–7:30. Planned 9/12._
 
