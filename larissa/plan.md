@@ -218,6 +218,10 @@ Cervical flexion reproduces her pain → daily posture loads what PT is unwindin
 - **Sensitive window overlap:** protocol runs (cooling stack + no alcohol) but doesn't require workout skips.
 - **PT progression:** if PT clears specific upper-body movements, they slot back in gradually — don't force full RT return on first clearance.
 
+**Minimum-viable version (added 2026-09-20 after brutal-work-week debrief):** on high-stress weeks (on-call, illness, sleep-disrupted, packed calendar), the floor is **PT 2×/day + one cardio session + afternoon snack halved on desk-heavy days.** Better to hit the floor cleanly than try for full template and reactively skip pieces. Return to full template as bandwidth returns.
+
+**This week (9/21–9/27):** Mon 9/21 = holiday, no dance class. Larissa booked a **massage in place of the Mon dance** — good self-care given post-brutal-week recovery + chronic shoulder/thoracic work. Massage is parasympathetic-supportive; complements the PT mobility work. Rest of week returns to normal fall template. **Sensitive window Days 12–15 (Wed 9/23 – Sat 9/26)** — protocol applies.
+
 ## Nutrition — current active state (updated 2026-09-12)
 
 **Breakfast:** oatmeal + ground flax + Greek yogurt. Working; don't change.
