@@ -189,6 +189,25 @@ Cervical flexion reproduces her pain → daily posture loads what PT is unwindin
 
 **Nutritional experiments continue unaffected** — chickpea dial-down, Bark Thin baseline, protein-forward snack default, sensitive-window protocol, weekly weigh-in.
 
+## Right adductor thread (added 2026-09-23)
+
+**Working hypothesis:** unresolved grade-1 adductor strain from April 2026. Healed at rest during summer dance break BUT never rehabilitated to load-tolerance. Return to demanding stretching (dance straddle splits, yoga wide postures) triggers **protective nervous-system guarding reflex** — the "strong pull as if going to hurt myself" sensation is her body protecting her from re-injury. Trust the signal.
+
+**Interim rules (until PT eval):**
+- **Modify range** in dance and yoga — work to the edge of comfort, NOT the edge of the pull
+- **Warm up 3–5 min** before class (walking, easy hip circles)
+- **Post-class:** gentle movement, not aggressive stretching
+- **Contract-relax patterns** safer than pulling into stretch if she wants to work the area
+- **Do NOT** stretch aggressively to "loosen it up" (wrong for post-strain tissue; re-tear pathway)
+- **Do NOT** compare current ROM to pre-April baseline (that's the target, not today's floor)
+
+**Escalation path:**
+1. **MD MyChart message** for PT referral: "Had adductor strain April 2026, felt normal after summer rest, but returning to dance produces significantly reduced ROM + guarding pull sensation. Requesting PT referral for right adductor evaluation."
+2. Alternative: ask current PT at next visit for informal input + guidance on getting the new referral
+3. Once PT eval done → integrate their protocol here (progressive loading, contract-relax, eventual eccentric strengthening are standard)
+
+**Pattern observation:** second "old injury, incomplete rehab, current limitation" thread (with left shoulder chronic-since-January). Bodies collect these. PT is the right escalation for both.
+
 ## Fall weekly template (added 2026-09-12; norm for 2026–27 school year)
 
 **Weekday morning (all days):** alarm 5:45am, out of bed 6:00–6:15am, morning routine + AM PT exercises, kids leave 6:40am, Larissa leaves for work 7:40am. **Commute ~30 min** — used for silence / mindfulness / podcast / music. **This is her decompression protocol; protect it.**
