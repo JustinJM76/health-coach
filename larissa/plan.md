@@ -206,6 +206,8 @@ Cervical flexion reproduces her pain → daily posture loads what PT is unwindin
 2. Alternative: ask current PT at next visit for informal input + guidance on getting the new referral
 3. Once PT eval done → integrate their protocol here (progressive loading, contract-relax, eventual eccentric strengthening are standard)
 
+**_2026-09-26 update — Larissa chose path 2._** Talking to her existing PT at next visit rather than routing through MD MyChart. Reasonable — PT knows her context. **Watch:** if PT declines to address at all AND doesn't help with the referral, escalate to path 1 (MD MyChart) at that point rather than letting the thread sit indefinitely.
+
 **Pattern observation:** second "old injury, incomplete rehab, current limitation" thread (with left shoulder chronic-since-January). Bodies collect these. PT is the right escalation for both.
 
 ## Fall weekly template (added 2026-09-12; norm for 2026–27 school year)
