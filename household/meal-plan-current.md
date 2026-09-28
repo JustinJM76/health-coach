@@ -4,7 +4,77 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-09-20 (Sun) — 2026-09-26 (Sat) — 🎯 CLEAN WEEK EXTENDED (Sun–Thu) → guys' camping (Fri–Sun)
+## Week of 2026-09-28 (Mon) — 2026-10-04 (Sun) — 😌 EASY WEEK (post-clean-week + post-camping recovery)
+
+_Deliberately **low-effort** — Justin asked for easy coming off 11 clean days + a camping weekend. **No clean-week rails** (normal alcohol policy resumes; GF optional — most of the week is GF-friendly anyway, keep leaning that way if the digestion benefit's worth it, but no imposed rule). Strategy = **leverage**: one rotisserie chicken feeds two nights, one crockpot dump-and-go covers game night. Built on the dance schedule: Mon long-stretch (girls 4:45–8) → zero-cook rotisserie; Tue cook-after-drop-off → leftovers = trivial; Wed game night → crockpot set AM; Thu cook-after-drop-off → fast pork. Shopping late PM Mon 9/28. Planned 9/28._
+
+| Day | Main | Sides | Justin's plate |
+|---|---|---|---|
+| **Mon 9/28** *(girls dance 4:45–8 → ZERO-cook)* | **Store-bought rotisserie chicken** (Justin's call — easiest possible) | Bagged salad + microwave steamer veg (broccoli/green beans); rice for family | Chicken + big salad + veg, skip/small rice. No cooking on the long dance night. |
+| **Tue 9/29** *(girls dance 5:15–8; cook after drop-off)* | **Chickpea curry + side of shrimp** (~25 min) — `recipes/chickpea-curry-with-shrimp.md` — Justin swap-in; plant-forward slot | Rice/naan for family, cilantro, lime; chili crisp (J's heat) | Big curry + large shrimp portion + ½ cup rice (not naan too). ~35g protein (chickpeas + shrimp). Rotisserie leftovers → Justin's lunches instead. |
+| **Wed 9/30** *(D2 music 3–4 + dance 5–7:30, D1 6–7:30; game night → CROCKPOT, set AM)* | **Justin's turkey chili** (crockpot, dump-and-go) — `recipes/justin-turkey-chili.md` | Shredded cheese, avocado, green salad; corn chips for family | Big bowl + salad, skip chips. Set it AM → ready through game night. |
+| **Thu 10/1** *(D1 dance 5:15–8:15; cook after drop-off)* | **Pork tenderloin** (air fryer, ~25 min) | Microwave/roasted veg (broccoli, green beans, or brussels) | Pork + double veg, small/skip starch. Fast "real dinner" without the effort. |
+| **Fri 10/2** *(guys' lunch → light dinner)* | **Breakfast-for-dinner** (omelet/eggs) OR big salad OR leftovers | Whatever's easy | Protein + veg, light. Guys' lunch is the anchor; keep dinner small. |
+| **Sat 10/3** | **Family flex** — grill or takeout | — | Protein + double veg. |
+| **Sun 10/4** *(anchor)* | **Turkey burritos** | Beans, rice, salsa, avocado, romaine, cheese | Turkey + beans forward over greens, small/no rice. + 9pm ice cream date w/ Larissa (normal anchor). |
+
+### Why this is the easy week
+- **Rotisserie leverage:** Mon dinner off one $6 bird, and the leftovers carry Justin's lunches.
+- **One crockpot** (Wed turkey chili, his own recipe) covers game night and makes Larissa's-lunch leftovers.
+- **Tue shrimp curry** (~25 min, mostly pantry/freezer) = the plant-forward slot; curry leftovers improve overnight for Larissa's lunches too.
+- Protein parade: chicken → shrimp+chickpea → turkey → pork → light → flex → turkey. Good variety, plant-forward Tue.
+
+### Shopping list (week of 9/28–10/4) — EASY (late-PM Mon 9/28 trip)
+
+_By department, **one item per line** (crossable), day-tagged. "(check)" = likely have it. Lean list — this is a low-effort week._
+
+**Meat & seafood**
+- [ ] Rotisserie chicken, 1 (dinner Mon + Justin's lunch leftovers) — Mon
+- [ ] Shrimp, ~1 lb (curry side) — Tue (check freezer)
+- [ ] Ground turkey, ~1–1.5 lb (chili) — Wed (check freezer)
+- [ ] Pork tenderloin, ~1.5–2 lb — Thu
+- [ ] Ground turkey, ~1.5 lb (burritos) — Sun
+
+**Produce**
+- [ ] Bagged salad, 1–2 (Caesar/garden) — Mon
+- [ ] Broccoli / green beans (steamer) — Mon + Thu
+- [ ] Avocado, 2 — Wed + Sun
+- [ ] Romaine — Sun
+- [ ] Limes, 2–3 — Tue (curry) + Sun
+- [ ] Onions, 3 (chili ×2 + curry ×1) — Tue/Wed
+- [ ] Bell peppers, 3 (chili) + extra for burritos — Wed/Sun
+- [ ] Garlic (curry + chili) — Tue/Wed (check)
+- [ ] Fresh ginger (curry) — Tue (or ground, check)
+- [ ] Cilantro (curry topping) — Tue
+- [ ] Baby spinach (curry, optional) — Tue
+
+**Pantry & dairy**
+- [ ] Chickpeas, 2 cans (curry) — Tue
+- [ ] Full-fat coconut milk, 1 can (curry) — Tue
+- [ ] Diced tomatoes, 1 can (curry — plain) — Tue
+- [ ] Curry paste (red/green) OR curry powder + garam masala — Tue (check)
+- [ ] Jasmine/basmati rice (curry + family) — Tue (check)
+- [ ] Chili crisp / sriracha (Justin's heat lever) — Tue (check)
+- [ ] Corn tortillas — Sun
+- [ ] Black beans, 3–4 cans (chili ×2 + burritos) — Wed/Sun
+- [ ] Fire-roasted diced tomatoes, 2 cans (chili) — Wed
+- [ ] Corn (canned/frozen) — Sun
+- [ ] Salsa — Sun
+- [ ] Shredded cheese — Wed/Sun
+- [ ] Brown rice (chili) — Wed (check)
+- [ ] Corn chips, for family — Wed
+- [ ] Chili spices: cumin, chili powder, paprika — Wed (check)
+- [ ] Eggs (breakfast-for-dinner) — Fri (check)
+- [ ] Naan for family (optional, curry) — Tue
+
+**Glop restock (daily lunch)**
+- [ ] Greek yogurt, large tub — daily
+- [ ] Frozen berries — daily
+- [ ] Whey protein — (check)
+- [ ] Psyllium husk — (check)
+- [ ] Roasted chickpeas or savory nut packs (the savory-crunchy pairing for the glop) — daily
+
+## Week of 2026-09-20 (Mon) — 2026-09-26 (Sat) — 🎯 CLEAN WEEK EXTENDED (Sun–Thu) → guys' camping (Fri–Sun) — ✅ EXECUTED (program low 225.5 + waist 44.75 low; absorbed an emotional-eating weekend + a sodium spike without derailing)
 
 _Justin **extends clean+GF through Thursday** (0 alcohol, no eating out, portions by eye, gluten-free) — the descent is working (Fri 9/18 = 227.7, fresh clean-week low), so ride it. **Fri 9/25 he leaves for a guys' camping weekend** — **no rules imposed on the trip** (well-earned; the clean Sun–Thu banks the week, and "maintain-don't-lose + high NEAT" is the proven camping frame if he wants it, but it's his call). Built on the school-year dance schedule: **Mon crockpot** (girls dance 4:45–8, L class 7:30–8:15), **Tue cook after drop-off** (girls 5:15–8), **Wed crockpot/easy** (D2 music 3–4 + dance 5–7:30, D1 6–7:30, game night), **Thu cook after drop-off** (D1 5:15–8:15, L class 6:45–7:30). **Larissa requested grain bowls again (new protein)** → Tue, with salmon this time. Planned 9/19._
 
