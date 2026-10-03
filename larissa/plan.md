@@ -118,7 +118,65 @@ She owns a weighted vest, previously sidelined due to neck/shoulder discomfort (
 
 Peri bone-density-relevant (hip loading + glute strength). Doesn't count against upper-body recovery. Good pairing with elliptical days.
 
-## RT PAUSED — under PT direction (updated 2026-08-22 after initial eval)
+## RT RESTARTED 2026-10-03 — PT cleared with "start easy, go by pain"
+
+**At the weekly PT visit, Larissa raised restarting resistance training. PT cleared it with the directive: "can restart, start easy, go by any feelings of pain."** This resolves the pause that began 2026-08-05 (nearly 2 months paused for shoulder → PT eval → mobility work).
+
+### New 10-min RT protocol (both days, same)
+
+**Frequency: 2×/week, Wed + Sat** (3-day spacing for recovery; home-based days)
+
+**Warmup (~2 min):**
+- Band pull-aparts × 10
+- Arm circles × 10 each direction
+
+**Movements (~7 min, 2 sets × 8 reps each — reduced from pre-pause 3×10):**
+
+1. **Banded row** — scap-first cue (shoulder blades DOWN and BACK *before* pulling); elbows to ribs, not flared; same 3-band stack as before or less if too much restarting
+2. **Inclined pushups** — hands elevated on countertop/sturdy chair; scap-first before lowering, hold throughout; same regression as pre-pause
+3. **Goblet squat with 20 lb KB** — bell at chest, moderate stance (NOT wide — adductor watch); if any inner-thigh guarding pull, narrow stance further and reduce depth
+
+### Pain-monitoring rules (the safety valve — directly from PT's directive)
+
+**Stop that specific movement for the day if:**
+- Shoulder pain in row or pushup → flag at next PT visit
+- Adductor pain / pull in squat → narrow stance / reduce depth; if still painful, skip squat
+- Thoracic or cervical pain → stop session, report to PT
+
+**OK:** mild muscle soreness during or after (normal training response)
+**Not OK:** sharp pain, pulling sensations, joint discomfort
+
+### Progression criteria
+
+- **Weeks 1–2 (10/3–10/18 approx):** hold at 2×8 to establish tolerance
+- **If no pain across 2 clean weeks:** progress to either 2×10 OR 3×8 — not both at once
+- **Don't rush:** 2 months paused + active thoracic hypomobility diagnosis + chronic shoulder history + adductor still unaddressed = slow protects the win
+- **Weighted vest** remains deferred until RT progression proves stable
+
+### Updated weekly schedule (replaces fall template above for current state)
+
+| Day | Movement |
+|---|---|
+| Mon | AM PT + dance class 7:30 + PM PT |
+| Tue | AM PT + elliptical 25 min + PM PT |
+| Wed | AM PT + yoga 15 min + **RT 10 min** + PM PT |
+| Thu | AM PT + dance class 6:45 + PM PT |
+| Fri | AM PT + core 10 min + PM PT |
+| Sat | AM PT + weigh-in + **RT 10 min** + PM PT |
+| Sun | AM PT + family movement + PM PT |
+
+### Preserved from prior state
+
+- **PT home program** continues 2×/day (mobility trio + head lift) — still the base
+- **Scap-first cueing** carries forward on all upper-body movements
+- **Cardio + dance** unchanged
+- **Minimum-viable version** rule still applies on high-stress weeks (PT + one cardio + snack-halved)
+
+### Pre-pause state (archived — superseded by above)
+
+Earlier RT state (session 1 Mon 7/13 through pause 8/5) documented in prior journal/plan entries. Not actively relevant to current protocol; above is what's active.
+
+## RT PAUSED — under PT direction (updated 2026-08-22 after initial eval) [HISTORICAL]
 
 **Effective 2026-08-05:** All loaded upper-body work suspended. Larissa's left shoulder pain — chronic since January 2026 — worsened; she escalated to physical therapy.
 
