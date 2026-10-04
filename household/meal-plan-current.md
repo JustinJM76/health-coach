@@ -4,7 +4,79 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-09-28 (Mon) — 2026-10-04 (Sun) — 😌 EASY WEEK (post-clean-week + post-camping recovery)
+## Week of 2026-10-04 (Sun) — 2026-10-10 (Sat) — standard week (+ Sat 10/3 grill lead-in)
+
+_Back to a normal week — no clean/easy rails; standard alcohol policy, GF optional. Justin requests: **grilling tonight (Sat 10/3)** — grabbing **swordfish if it looks good** at the store; **grain bowls** back in (his + Larissa's standing favorite); and a **new recipe to try** → added **Tuscan white bean & sausage soup** (seasonal, `recipes/tuscan-white-bean-sausage-soup.md`). Built on the dance schedule: Mon crockpot, Tue cook-after-drop-off (grain bowls), Wed crockpot + game night (the new soup — set AM), Thu cook-after-drop-off real dinner, Fri guys' lunch → light. Planned 10/3._
+
+| Day | Main | Sides | Justin's plate |
+|---|---|---|---|
+| **Sat 10/3 (tonight — GRILL)** | **Grilled swordfish** (if it looks good; else grilled chicken / other fish) | Grilled veg (zucchini/asparagus/peppers) + big salad | Swordfish + **double grilled veg/salad**, small/skip starch. |
+| **Sun 10/4** *(anchor)* | **Turkey burritos** | Beans, rice, salsa, avocado, romaine, cheese | Turkey + beans forward over greens, small/no rice. + 9pm ice cream date w/ Larissa. |
+| **Mon 10/5** *(girls dance 4:45–8; L class 7:30–8:15 → CROCKPOT, set AM)* | **Slow-cooker pulled pork** (GF) — bowls / over slaw | Cabbage slaw, lime, cilantro; GF corn tortillas or buns for family; avocado | Pulled pork over **slaw/greens**, no bun, small/no starch; easy on sweet BBQ. Ready through the long dance night. |
+| **Tue 10/6** *(girls dance 5:15–8; cook after drop-off)* | **Mediterranean grain bowls + chicken** (quinoa = GF) — `recipes/mediterranean-grain-bowls.md` — Justin + Larissa request | Quinoa + roasted veg + chickpeas + feta + lemon-tahini | Load veg/chickpeas/chicken, small quinoa scoop. (Shrimp or salmon = easy protein swap if preferred.) Leftovers → Larissa's lunches. |
+| **Wed 10/7** *(D2 music 3–4 + dance 5–7:30, D1 6–7:30; game night → CROCKPOT, set AM)* | **🆕 Tuscan white bean & sausage soup (w/ kale)** — `recipes/tuscan-white-bean-sausage-soup.md` | Grated parm; crusty bread for family | Big bowl — load beans + kale + veg, skip bread. Zero evening cook for the back-and-forth + game night. |
+| **Thu 10/8** *(D1 dance 5:15–8:15; cook after drop-off — REAL dinner)* | **Grilled/seared flank or sirloin steak** (week's red-meat variety) | Roasted/grilled veg (broccoli/green beans/brussels) + small potato for family | Steak + **double veg**, small/skip starch. |
+| **Fri 10/9** *(guys' lunch → light dinner)* | **Light** — big salad / eggs / leftovers | — | Protein + veg, light. Guys' lunch is the anchor. |
+
+### Week protein parade
+Swordfish (fish) → turkey → pork → chicken → sausage (soup) → beef → light. No repeats; fish once, red meat once, plant-leaning twice (grain-bowl chickpeas Tue + white beans Wed).
+
+### Shopping list (week of 10/4–10/10) — standard (Sat 10/3 trip)
+
+_By department, **one item per line** (crossable), day-tagged. "(check)" = likely already have it._
+
+**Meat & seafood**
+- [ ] Swordfish steaks, ~1.5–2 lb — Sat (if it looks good; backup: salmon or chicken)
+- [ ] Ground turkey, ~1.5 lb (burritos) — Sun (check freezer)
+- [ ] Pork shoulder/butt, ~3 lb — Mon
+- [ ] Chicken breast, ~1–1.5 lb (grain bowls) — Tue
+- [ ] Lean Italian chicken/turkey sausage, ~1 lb (soup) — Wed
+- [ ] Flank or sirloin steak, ~1.5–2 lb — Thu
+
+**Produce**
+- [ ] Grilling veg: zucchini / asparagus / bell peppers — Sat
+- [ ] Salad greens — Sat + Fri
+- [ ] Lemons, 2 (swordfish + grain-bowl dressing) — Sat/Tue
+- [ ] Bell peppers (burritos) + extra — Sun
+- [ ] Yellow onions, 3 (burritos + soup + pulled pork) — Sun/Mon/Wed
+- [ ] Avocado, 2–3 — Sun + Mon
+- [ ] Romaine — Sun
+- [ ] Limes, 2 (burritos + pulled pork) — Sun/Mon
+- [ ] Cabbage / bagged slaw mix — Mon
+- [ ] Cilantro — Mon
+- [ ] Garlic, 1 head (pulled pork + grain bowls + soup) — Mon/Tue/Wed
+- [ ] Zucchini, red onion, cherry tomatoes, cucumber (grain bowls) — Tue
+- [ ] Carrots, 3 (soup) — Wed
+- [ ] Celery, 1 bunch (soup) — Wed
+- [ ] Kale, 1 bunch (soup) — Wed
+- [ ] Roasting/grilling veg: broccoli / green beans / brussels (steak night) — Thu
+
+**Pantry & dairy (GF — check labels)**
+- [ ] Corn tortillas — Sun
+- [ ] Black beans, 2 cans — Sun
+- [ ] Corn (canned/frozen) — Sun
+- [ ] Salsa — Sun
+- [ ] Rice, for family — Sun (check)
+- [ ] Shredded cheese — Sun
+- [ ] GF BBQ sauce or dry-rub spices; buns/tortillas for family — Mon
+- [ ] Quinoa — Tue (check)
+- [ ] Chickpeas, 2 cans (grain bowls) — Tue
+- [ ] Tahini — Tue (check)
+- [ ] Feta — Tue
+- [ ] Cannellini/white beans, 2 cans (soup) — Wed
+- [ ] Diced tomatoes, 1 can (soup) — Wed
+- [ ] Low-sodium chicken broth, ~48 oz (soup) — Wed
+- [ ] Parmesan (rind + grated, soup) — Wed
+- [ ] Italian seasoning + bay leaves (soup) — Wed (check)
+
+**Glop restock (daily lunch)**
+- [ ] Greek yogurt, large tub — daily
+- [ ] Frozen berries — daily
+- [ ] Whey protein — (check)
+- [ ] Psyllium husk — (check)
+- [ ] Roasted chickpeas / savory nut packs (glop pairing) — daily
+
+## Week of 2026-09-28 (Mon) — 2026-10-04 (Sun) — 😌 EASY WEEK (post-clean-week + post-camping recovery) — ✅ EXECUTED (camping water cleared 229.6→226; craving wave settling; food-environment pretzel win)
 
 _Deliberately **low-effort** — Justin asked for easy coming off 11 clean days + a camping weekend. **No clean-week rails** (normal alcohol policy resumes; GF optional — most of the week is GF-friendly anyway, keep leaning that way if the digestion benefit's worth it, but no imposed rule). Strategy = **leverage**: one rotisserie chicken feeds two nights, one crockpot dump-and-go covers game night. Built on the dance schedule: Mon long-stretch (girls 4:45–8) → zero-cook rotisserie; Tue cook-after-drop-off → leftovers = trivial; Wed game night → crockpot set AM; Thu cook-after-drop-off → fast pork. Shopping late PM Mon 9/28. Planned 9/28._
 
