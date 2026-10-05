@@ -172,6 +172,16 @@ Going forward: ≥1 plant-forward dinner per week, reduce chicken count, priorit
 
 _(Appended after each review.)_
 
+### 2026-10-05 — Lifestyle-medicine consult (Day 168) — "clinician in the corner"
+
+- **Brad Biskup, Hartford HealthCare.** First visit, 1+ hr. Very positive on the program. Justin brought the 1-pager (reasons: establish care, validate approach, LDL/non-HDL → ApoB/Lp(a), PsA↔inflammation↔diet, **accountability through the 6–9-month danger zone** — he's ~5½ months in).
+- **Ordered:** coronary calcium score (radiology) + extensive blood panel; **draw early November.**
+- **Adopted (most immediately):** sleep stack (saline spray, Mg glycinate 200 mg 1 hr pre-bed, 30-min read); **training format change** (15 min elliptical → 20-rep circuit ×1–2 at first-burn → 30 min elliptical); slow breathing; ↑ plant protein; 2%/0% Greek yogurt; ⅓ cup nuts/day; **low-GL ≤8**; water 10 min pre-meal; alcohol OK as-is; **psyllium → 2 Tbsp/day (ramped)**; **omega-3 2,000 mg EPA+DHA** (Nordic Naturals Ultimate Omega ×2). Full detail in `weekly-template.md` → "Clinician protocol."
+- **Weight at visit:** ~226.9 (reported). Program: 250 → ~225 low, waist 47.25 → 44.75.
+- **Decided:** keep **1×/wk heavy strength day (Thursday)**; Mon/Tue circuits, Wed cardio. Revisit with Brad in Nov.
+- **Open:** yogurt-satiety test · psyllium tolerance on the ramp · read Nov labs knowing psyllium/omega-3 will already be moving lipids/TG.
+- **Strategic read:** this directly addresses Justin's own named risk — past plans broke down at 6–9 months. A clinician relationship + fresh protocol at month 5½ is accountability and novelty right when the old pattern would bite.
+
 ### 2026-08-29 — Formal review (Day 131) — "the maintenance month"
 
 **Numbers:** daily 230.3 (8/28) vs 231.0 at the 7/31 review; 7-day trailing ~232.4 (noisy — vacation gap 8/8–20 + party week); −19.7 off the 250 start (67% to 220, 10.3 to go). Waist stale (45.5 on 8/7 — resume). Weigh-in time drifted earlier (~7:35–7:45) = the early-riser shift showing in the data.

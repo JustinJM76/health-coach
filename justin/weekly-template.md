@@ -8,6 +8,55 @@ Each day has a **default plan**. If today matches the default, you don't decide 
 
 Rotations are **within** a slot, not across. Primer is always "primer slot" — cottage cheese, eggs, or Greek yogurt are interchangeable.
 
+## 🩺 Clinician protocol — Brad Biskup, Hartford HealthCare (added 2026-10-05)
+
+_First lifestyle-medicine consult 2026-10-05. Positive on the program; these are his additions. **Where this conflicts with older rules below, this section wins.** Ordered: coronary calcium score + extensive blood panel (draw **early November**)._
+
+### Evening / sleep stack
+| When | What |
+|---|---|
+| **~1 hr before bed (~9:15–9:30pm alarm)** | **Magnesium glycinate 200 mg.** |
+| Night shower | Dental routine (unchanged) → **saline nasal spray** before bed (snoring/sleep quality). |
+| In bed | **2–3 min slow deep breathing** (e.g., ~5 s in / ~5 s out), then **read 30 min** (up from ~15). Then lights out. |
+
+### Training — new session structure (replaces the old strength-then-finisher format)
+1. **15 min elliptical** (warm-up, aerobic zone).
+2. **Circuit: 20 reps of each exercise, 1–2 rounds**, minimal rest. Each set should end **just as the burn starts** — aerobic, not to failure. → **Use lighter loads than the old 6–8-rep work:** 20 lb KB (not 35), lighter band tension, incline/knee pushups if needed to reach 20 clean.
+3. **30 min elliptical** (aerobic zone / Zone 2).
+- Pull exercise choices from the day's rotation below (all disc-safe picks still apply). Per-side moves = 10/side.
+- **Tight day fallback:** 10 min elliptical + 1 circuit round + 15 min elliptical.
+- **Mobility (5–7 min, the 5 standard stretches)** still goes after the circuit/strength block, before the 30-min elliptical (same reason as before: bank it before the post-cardio hunger/fog).
+
+### Weekly split (decided 2026-10-05 — Justin: protect strength, 1×/wk)
+| Day | Session |
+|---|---|
+| **Mon** | Circuit (Lower + Push menu) |
+| **Tue** | Circuit (Upper Pull + Core menu) |
+| **Wed** | Cardio + mobility (elliptical-only day, unchanged) |
+| **Thu** | **💪 STRENGTH day** — 15 min elliptical → heavy block → mobility → 30 min elliptical (15 if short on time) |
+| **Fri** | Rest |
+
+**Thursday strength block** (load-driven, full rest between sets, ~2 reps in the tank):
+- **KB goblet squat @ 35 lb — 3×6–12**, double progression (build to 3×12, then add load).
+- **Band row — 3×10–12** at the bumped baseline · **Pushups — 3×10** (tempo optional) · **Band chest press — 3×10–12**.
+- **Suitcase carry @ 35 lb — 3 trips/side** (disc insurance).
+- **Why 1×/wk works:** strength *maintenance* needs far less volume than building; one heavy session/week holds it, and the 20-rep circuit days add muscle stimulus on top. Progress on the squat will be slower than at 2–3 heavy days — accepted trade. Revisit with Brad at the November follow-up.
+
+### Stress
+- **Slow deep breathing** any time he's stressed — or just in general (bedtime stack above makes it daily).
+
+### Diet adjustments
+- **↑ Plant-based protein** (legumes, lentils, chickpeas, edamame, tofu) — build into Saturday meal planning; aligns with Larissa's plant-forward preference.
+- **↓ Animal fat:** **Greek yogurt → 2% or 0%** (test 2% first in the glop; protein, not fat, is the main satiety driver).
+- **⅓ cup nuts daily** (~250–270 kcal) — explicit part of the plan; **replaces** the 100-cal packs / crackers / cookies, and is the glop's savory-crunchy pairing.
+- **Low glycemic load only (≤8 per serving).** Practical rule: non-starchy veg, legumes, nuts, berries/apples, dairy, proteins = in; **starches (rice, potatoes, bread, pasta, tortillas, tots) only as small ½-cup-ish portions or swapped for legumes**; sweets/crackers/ripe bananas = out or rare.
+- **Water ~10 min before every meal** (rides the existing primer/lunch/dinner pours).
+- **Alcohol:** current policy OK as-is.
+
+### Supplements / fiber
+- **Psyllium husk → 2 Tbsp/day (target 5–7 g fiber).** **RAMP** from current ½ tsp: +~1 tsp every 3–4 days as tolerated; split into 2 doses once >1 Tbsp (glop at lunch + in a glass of water ~10 min before dinner); big glass of water with each; keep ≥2 hr from other supplements/meds. Back off a step if cramping returns.
+- **Omega-3: 2,000 mg EPA+DHA daily** — Nordic Naturals Ultimate Omega, **2 softgels with dinner** (fat-containing meal = better absorption, fewer fishy burps).
+
 ## Fixed daily anchors (Mon–Fri)
 
 | Time | Block |
@@ -96,6 +145,8 @@ When the normal workout slot gets eaten by work or life, this is the floor that 
 **Rule:** a missed workout *day* is fine. A missed workout *week* is what the program is protecting against. If Mon–Wed gets nuked, hit Thu. If Mon–Thu disappears, do something Saturday.
 
 ## Workout rotation (4x/week — Mon–Thu)
+
+> **2026-10-05: session FORMAT changed per clinician** — 15 min elliptical → 20-rep circuit (1–2 rounds, lighter loads, stop at first burn) → 30 min elliptical. See "Clinician protocol" at the top. The day-by-day table below is now the **exercise menu** for each day's circuit; old set/rep/load prescriptions are superseded on Mon/Tue — **except Thursday, which stays a heavy STRENGTH day** (see "Weekly split" in the Clinician protocol).
 
 Weekends are Justin's active outdoor time (yard, chores, hiking, projects). No dedicated session needed — movement is baked in.
 

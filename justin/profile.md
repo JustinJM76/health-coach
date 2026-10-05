@@ -21,7 +21,15 @@ _Last updated: 2026-04-25_
 - Respiration: 16
 - Weight at visit: 237 lb → +13 lb over 10 months
 
-## Labs (Quest, 2025-06-25; full: `lab-results/bloodwork-20250625.pdf`)
+## Labs — MOST RECENT (Quest, 2026-07-22, fasting; full: `lab-results/bloodwork-20260722.pdf`)
+
+- **Lipids:** Total chol **200 (H)** · **LDL-C 123 (H)** (Martin-Hopkins) · HDL 59 · Triglycerides **79** · Chol/HDL 3.4 · **Non-HDL 141 (H)**.
+- **Metabolic:** fasting glucose 93; CMP all in range (eGFR 83, creatinine 1.09); liver AST 16 / ALT 21 / ALP 68.
+- **CBC** all in range (Hgb 16.2, Hct 50.5 high-normal). **TSH 1.95.**
+- **Read:** strong metabolic picture with one isolated flag — **atherogenic lipids (LDL-C / non-HDL) mildly high, essentially unchanged from June 2025 (126/142); body weight at the two draws was similar (~237 vs ~235).** The bigger drop (to ~225) came after the July draw, so Nov labs are the first read at the new weight. → ApoB / Lp(a) ordered via lifestyle medicine (draw early Nov 2026).
+- **Next:** extensive panel + coronary calcium score ordered 2026-10-05 (Brad Biskup); draw early November 2026.
+
+## Labs — prior (Quest, 2025-06-25; full: `lab-results/bloodwork-20250625.pdf`)
 
 **Strong signals:**
 - Fasting glucose: 77 mg/dL (no prediabetes signal)
@@ -45,6 +53,8 @@ _Last updated: 2026-04-25_
 - Justin distinguishes reliably between **mechanical** joint pain (form/load/depth issue) and **PsA inflammatory** pain (autoimmune flare). Trust his read.
 - **KB squat rule:** stay at his natural squat depth. Do NOT cue him deeper without a dedicated progression plan. A depth-increase cue on 2026-04-23 produced a left-knee twinge that resolved, but it's a flag.
 - Annual physical + bloodwork; no other meds noted
+- **Care team:** **Lifestyle medicine — Brad Biskup, Hartford HealthCare** (first visit 2026-10-05; positive on the program; ordered calcium score + extensive panel, draw early Nov 2026).
+- **Supplements (started per clinician, 2026-10-05):** magnesium glycinate 200 mg nightly (~1 hr pre-bed); omega-3 2,000 mg EPA+DHA (Nordic Naturals Ultimate Omega ×2, with dinner); psyllium husk ramping to 2 Tbsp/day; saline nasal spray at bedtime.
 
 ## Daily rhythm
 - **Eating window:** 1pm – 8pm (~17:7 IF, sustained ~1 year)
