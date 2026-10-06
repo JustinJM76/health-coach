@@ -27,7 +27,7 @@ Coach-to-coach communication channel between Justin's coach (`justin/`) and Lari
 ## Active notes
 
 ### 2026-10-05 — [J coach → L coach]
-**Status:** [NEW]
+**Status:** [SEEN-by-L coach 2026-10-06] — surfaced in Larissa's 10/6 daily plan as an FYI (yogurt flagged since it's in her daily breakfast; she can request full-fat kept). No parallel changes on this side; her lunches already lean plant-protein.
 **Content:** Heads-up on the **direction of the family dinner plan** going forward (household-level only).
 
 Justin saw a lifestyle-medicine clinician today and is adopting some diet guidance that will shape the meals he plans for the family:
