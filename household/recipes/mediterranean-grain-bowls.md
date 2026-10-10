@@ -72,6 +72,19 @@ _Why it earns a slot: **plant-forward** (Larissa's preference), protein flexible
 - **Dress-to-order for leftovers** — keep tahini separate so the grains/veg don't go soggy.
 - **Quinoa is the default grain** (GF + lower-wheat) — the original farro/couscous build is retired.
 
+
+## 🍂 Fall variation — Miso-Tahini Harvest Bowl (added 2026-10-10)
+
+_Adapted from Soom Foods, "Butternut Squash Grain Bowl with Miso Tahini Dressing" (https://soomfoods.com/blogs/recipes/butternut-squash-grain-bowl), scaled to the v3 size (4 dinners + 1 leftover lunch). Chosen over a maple-tahini + feta idea that wasn't sourced. Savory, no added sugar (low-GL)._
+
+**Swap in for the Mediterranean components:**
+- **Veg (roast 425°F):** ~1½–2 lb butternut squash, ¾" cubes (25–30 min) + 1 lb Brussels sprouts, halved (20–25 min). Olive oil, salt, pepper. (Original boils the squash; we roast.)
+- **Harissa chickpeas:** 2 cans chickpeas (drained) + **2 Tbsp harissa paste** + 2 Tbsp water, medium heat 5–7 min, stirring.
+- **Quinoa:** 1¼ cups dry (same as v3).
+- **Miso-tahini dressing (~2.5× original):** 5 Tbsp tahini · 5 tsp white miso · 2½ tsp lemon juice · 2½ tsp rice vinegar · 2 small garlic cloves, grated · ¼ tsp turmeric · ¼ tsp ground ginger · 5–10 Tbsp cold water to a pourable drizzle.
+- **Top:** pomegranate seeds (optional). **No feta, no maple.** Protein: chicken (or shrimp).
+- **Justin's plate:** small quinoa scoop; load squash, Brussels, chickpeas, chicken.
+
 ## Source
 Adapted from We Are Not Martha — "Mediterranean Grain Bowls": https://wearenotmartha.com/mediterranean-grain-bowls/
 

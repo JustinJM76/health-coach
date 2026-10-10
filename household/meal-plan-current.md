@@ -14,7 +14,7 @@ _First week built on Brad's diet guidance: **more plant protein** (3 legume-forw
 | **Sun 10/11** *(anchor; rainy)* | **Turkey burritos** | Beans, rice, salsa, avocado, romaine, cheese | Turkey + beans over greens, small/no rice. + ice cream date. |
 | **Mon 10/12 — HOLIDAY LUNCH** *(L + girls home; Justin still working)* | **Canned soup** — no cooking. Pick bean/lentil, higher-protein, lower-sodium (e.g., Progresso Tomato Sausage & Lentil, any lentil/minestrone/bean) | Grilled cheese or sandwiches for the girls | Soup + a protein side (cottage cheese, eggs, leftover turkey). |
 | **Mon 10/12 — DINNER** | **🍂 Maple-mustard pork tenderloin** (Dijon + 1 Tbsp maple + garlic + thyme; 400°F / air fryer ~20–25 min to 145°F, rest) | **Roasted butternut squash + Brussels** (roast a DOUBLE batch — half for Tue) | Pork + double Brussels, modest squash. (If dance runs today, this still works — ~30 min.) |
-| **Tue 10/13** *(girls dance 5:15–8; cook after drop-off)* | **🍂 Fall grain bowls** — Larissa's favorite, autumn edition: Monday's squash + Brussels, crispy chickpeas, quinoa, feta, **pepitas**, a few dried cranberries, **maple-tahini** dressing (the 1.5× lemon-tahini + 1–2 tsp maple) + chicken | — | Load squash/Brussels/chickpeas/chicken, **small quinoa scoop**, go light on cranberries. |
+| **Tue 10/13** *(girls dance 5:15–8; cook after drop-off)* | **🍂 Fall grain bowls — miso-tahini** (adapted from Soom Foods; see `recipes/mediterranean-grain-bowls.md` → Fall variation): quinoa + Monday's roasted squash + roasted Brussels + **harissa chickpeas** + **miso-tahini dressing** + pomegranate seeds + chicken. No feta, no maple. | — | Load squash/Brussels/chickpeas/chicken, **small quinoa scoop**. |
 | **Wed 10/14** *(game night → CROCKPOT, set AM)* | **🍂 Pumpkin turkey chili** — Justin's chili + **1 can pumpkin purée** + pinch of cinnamon; **skip the brown rice, add a 3rd can of beans** (low-GL, more plant protein) | Cheese, avocado, salad; chips for family | Big bowl + salad, skip chips. |
 | **Thu 10/15** *(L out)* | **Leftovers** (Justin) · **Subway** for the girls | — | Leftover chili / pork / bowls — protein + veg. |
 | **Fri 10/16** *(guys' lunch → light)* | Light — big salad / eggs / leftovers | — | Protein + veg. |
@@ -58,13 +58,14 @@ _By department, **one item per line** (crossable), day-tagged. "(check)" = likel
 - [ ] **Canned soups, 3–4** (bean/lentil, higher-protein, lower-sodium) — Mon lunch
 - [ ] Bread + cheese for grilled cheese (girls) — Mon
 - [ ] Dijon mustard — Mon (check)
-- [ ] Maple syrup (pork + dressing) — Mon/Tue (check)
+- [ ] Maple syrup (pork) — Mon (check)
 - [ ] Quinoa — Tue (check)
 - [ ] Chickpeas, 2 cans — Tue
 - [ ] Tahini — Tue (check)
-- [ ] Feta — Tue
-- [ ] Pepitas (pumpkin seeds) — Tue
-- [ ] Dried cranberries, small bag — Tue
+- [ ] **White (mellow) miso** — Tue
+- [ ] **Harissa paste** — Tue
+- [ ] Rice vinegar — Tue (check)
+- [ ] Pomegranate seeds (optional) — Tue
 - [ ] **Pumpkin purée, 1 can (plain — NOT pie filling)** — Wed
 - [ ] Fire-roasted diced tomatoes, 2 cans — Wed
 - [ ] Chili spices + cinnamon — Wed (check)
