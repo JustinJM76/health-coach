@@ -4,7 +4,80 @@ _This is the rolling weekly family **dinner** plan. **Owned by Justin** (who pla
 
 _Lunches and breakfasts for each principal are individual and not tracked here._
 
-## Week of 2026-10-04 (Sun) — 2026-10-10 (Sat) — standard week (+ Sat 10/3 grill lead-in)
+## Week of 2026-10-11 (Sun) — 2026-10-17 (Sat) — 🍂 FALL FLAVORS week (+ Sat 10/10 takeout lead-in)
+
+_First week built on Brad's diet guidance: **more plant protein** (3 legume-forward meals), **low glycemic load** (starches small or swapped for beans), lower-fat dairy for Justin. **Larissa's request: fall flavors** → roasted butternut squash, maple-mustard, pumpkin. Rainy weekend → no grill. **Mon 10/12 = holiday** (L + girls home for lunch → planned lunch). **Thu: L out** → leftovers for Justin, Subway for the girls. Efficiency: **roast a double batch of squash + Brussels Mon** → half goes into Tue's fall grain bowls. Planned 10/10._
+
+| Day | Main | Sides | Justin's plate |
+|---|---|---|---|
+| **Sat 10/10 (tonight — TAKEOUT)** | **Sushi or Indian** | — | **Sushi:** sashimi/nigiri, edamame, seaweed salad, miso; skip tempura + mayo/fried rolls. **Indian:** tandoori/tikka chicken + **dal or chana masala** (plant protein) + saag; skip naan, small rice. |
+| **Sun 10/11** *(anchor; rainy)* | **Turkey burritos** | Beans, rice, salsa, avocado, romaine, cheese | Turkey + beans over greens, small/no rice. + ice cream date. |
+| **Mon 10/12 — HOLIDAY LUNCH** *(L + girls home; Justin still working)* | **Canned soup** — no cooking. Pick bean/lentil, higher-protein, lower-sodium (e.g., Progresso Tomato Sausage & Lentil, any lentil/minestrone/bean) | Grilled cheese or sandwiches for the girls | Soup + a protein side (cottage cheese, eggs, leftover turkey). |
+| **Mon 10/12 — DINNER** | **🍂 Maple-mustard pork tenderloin** (Dijon + 1 Tbsp maple + garlic + thyme; 400°F / air fryer ~20–25 min to 145°F, rest) | **Roasted butternut squash + Brussels** (roast a DOUBLE batch — half for Tue) | Pork + double Brussels, modest squash. (If dance runs today, this still works — ~30 min.) |
+| **Tue 10/13** *(girls dance 5:15–8; cook after drop-off)* | **🍂 Fall grain bowls** — Larissa's favorite, autumn edition: Monday's squash + Brussels, crispy chickpeas, quinoa, feta, **pepitas**, a few dried cranberries, **maple-tahini** dressing (the 1.5× lemon-tahini + 1–2 tsp maple) + chicken | — | Load squash/Brussels/chickpeas/chicken, **small quinoa scoop**, go light on cranberries. |
+| **Wed 10/14** *(game night → CROCKPOT, set AM)* | **🍂 Pumpkin turkey chili** — Justin's chili + **1 can pumpkin purée** + pinch of cinnamon; **skip the brown rice, add a 3rd can of beans** (low-GL, more plant protein) | Cheese, avocado, salad; chips for family | Big bowl + salad, skip chips. |
+| **Thu 10/15** *(L out)* | **Leftovers** (Justin) · **Subway** for the girls | — | Leftover chili / pork / bowls — protein + veg. |
+| **Fri 10/16** *(guys' lunch → light)* | Light — big salad / eggs / leftovers | — | Protein + veg. |
+| **Sat 10/17** | Flex — next planning day | — | — |
+
+### Week protein parade
+Takeout → turkey → canned soup (lunch) + pork → chicken + chickpeas → turkey + beans → leftovers → light. **Plant protein:** bean/lentil soup (Mon lunch), chickpeas (Tue), 3 cans beans (Wed) + dal/chana if Indian tonight.
+
+### Shopping list (week of 10/11–10/17) — fall flavors (Sat 10/10 trip)
+
+_By department, **one item per line** (crossable), day-tagged. "(check)" = likely have it._
+
+**Meat & seafood**
+- [ ] Ground turkey, ~1.5 lb (burritos) — Sun (check freezer)
+- [ ] Pork tenderloin, ~1.5–2 lb — Mon
+- [ ] Chicken breast, ~1–1.5 lb (grain bowls) — Tue
+- [ ] Ground turkey, ~1.5 lb (chili) — Wed
+
+**Produce**
+- [ ] Butternut squash, 2 medium (or ~3 lb pre-cubed) — Mon/Tue
+- [ ] Brussels sprouts, ~2 lb — Mon/Tue
+- [ ] Yellow onions, 3 (burritos, chili) — Sun/Wed
+- [ ] Red onion, 1 (grain bowls) — Tue
+- [ ] Bell peppers, 4 (burritos + chili) — Sun/Wed
+- [ ] Garlic, 1 head — Mon/Tue/Wed
+- [ ] Fresh thyme (pork, optional) — Mon
+- [ ] Lemons, 2 (dressing) — Tue
+- [ ] Romaine — Sun
+- [ ] Avocado, 3 — Sun/Wed
+- [ ] Limes, 2 — Sun
+- [ ] Salad greens — Wed/Fri
+
+**Pantry & dairy**
+- [ ] Corn tortillas — Sun
+- [ ] Black beans, 4 cans (burritos ×2 + chili ×2) — Sun/Wed
+- [ ] Kidney beans, 1 can (chili) — Wed
+- [ ] Corn — Sun
+- [ ] Salsa — Sun
+- [ ] Shredded cheese — Sun/Wed
+- [ ] Rice, for family — Sun (check)
+- [ ] **Canned soups, 3–4** (bean/lentil, higher-protein, lower-sodium) — Mon lunch
+- [ ] Bread + cheese for grilled cheese (girls) — Mon
+- [ ] Dijon mustard — Mon (check)
+- [ ] Maple syrup (pork + dressing) — Mon/Tue (check)
+- [ ] Quinoa — Tue (check)
+- [ ] Chickpeas, 2 cans — Tue
+- [ ] Tahini — Tue (check)
+- [ ] Feta — Tue
+- [ ] Pepitas (pumpkin seeds) — Tue
+- [ ] Dried cranberries, small bag — Tue
+- [ ] **Pumpkin purée, 1 can (plain — NOT pie filling)** — Wed
+- [ ] Fire-roasted diced tomatoes, 2 cans — Wed
+- [ ] Chili spices + cinnamon — Wed (check)
+- [ ] Corn chips, family — Wed
+
+**Justin's daily + supplements**
+- [ ] **2% Greek yogurt** (Justin) + **full-fat** if Larissa wants hers kept — daily
+- [ ] Frozen berries — daily
+- [ ] Nuts (⅓ cup/day) — daily
+- [ ] Psyllium husk — (check supply; ramp is climbing)
+- [ ] **Saline nasal spray** — still needed
+
+## Week of 2026-10-04 (Sun) — 2026-10-10 (Sat) — standard week (+ Sat 10/3 grill lead-in) — ✅ EXECUTED (new low 224.3; Tuscan soup + grain bowls v3 hits; first week on Brad's protocol)
 
 _Back to a normal week — no clean/easy rails; standard alcohol policy, GF optional. Justin requests: **grilling tonight (Sat 10/3)** — grabbing **swordfish if it looks good** at the store; **grain bowls** back in (his + Larissa's standing favorite); and a **new recipe to try** → added **Tuscan white bean & sausage soup** (seasonal, `recipes/tuscan-white-bean-sausage-soup.md`). Built on the dance schedule: Mon crockpot, Tue cook-after-drop-off (grain bowls), Wed crockpot + game night (the new soup — set AM), Thu cook-after-drop-off real dinner, Fri guys' lunch → light. Planned 10/3._
 

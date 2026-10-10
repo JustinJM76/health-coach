@@ -53,6 +53,7 @@ _Last updated: 2026-04-25_
 - Justin distinguishes reliably between **mechanical** joint pain (form/load/depth issue) and **PsA inflammatory** pain (autoimmune flare). Trust his read.
 - **KB squat rule:** stay at his natural squat depth. Do NOT cue him deeper without a dedicated progression plan. A depth-increase cue on 2026-04-23 produced a left-knee twinge that resolved, but it's a flag.
 - Annual physical + bloodwork; no other meds noted
+- **Imaging — Coronary calcium score (CT, 2026-10-09): TOTAL 0** (LM/LAD/Cx/RCA all 0; no calcified plaque). Incidentals: **6 mm LLL pulmonary nodule** (Fleischner: no f/u if low-risk; consider 12-mo non-contrast CT if high-risk — category to confirm with Brad) and **14 mm right hepatic hypodensity, likely cyst**.
 - **Care team:** **Lifestyle medicine — Brad Biskup, Hartford HealthCare** (first visit 2026-10-05; positive on the program; ordered calcium score + extensive panel, draw early Nov 2026).
 - **Supplements (started per clinician, 2026-10-05):** magnesium glycinate 200 mg nightly (~1 hr pre-bed); omega-3 2,000 mg EPA+DHA (Nordic Naturals Ultimate Omega ×2, with dinner); psyllium husk ramping to 2 Tbsp/day; saline nasal spray at bedtime.
 

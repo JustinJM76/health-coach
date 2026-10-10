@@ -24,7 +24,8 @@ _First lifestyle-medicine consult 2026-10-05. Positive on the program; these are
 2. **Circuit: 20 reps of each exercise, 1–2 rounds**, minimal rest. Each set should end **just as the burn starts** — aerobic, not to failure. → **Use lighter loads than the old 6–8-rep work:** 20 lb KB (not 35), lighter band tension, incline/knee pushups if needed to reach 20 clean.
 3. **30 min elliptical** (aerobic zone / Zone 2).
 - Pull exercise choices from the day's rotation below (all disc-safe picks still apply). Per-side moves = 10/side.
-- **Tight day fallback:** 10 min elliptical + 1 circuit round + 15 min elliptical.
+- **Two sizes (set 2026-10-05 after the first session ran ~75 min):** **Full ~70–75 min** on open days · **Compact ~40 min** = 10 min elliptical → 1 circuit round → mobility → 15 min elliptical on meeting-heavy days. Realistic week: 1–2 full + 1–2 compact + Thu strength (+ Wed elliptical-only).
+- **Calibrated stations (10/5):** goblet squat @ **20 lb** (burn ~rep 15 at first — expect it to move toward 18–20); pushups = **windowsill incline**.
 - **Mobility (5–7 min, the 5 standard stretches)** still goes after the circuit/strength block, before the 30-min elliptical (same reason as before: bank it before the post-cardio hunger/fog).
 
 ### Weekly split (decided 2026-10-05 — Justin: protect strength, 1×/wk)
@@ -37,7 +38,7 @@ _First lifestyle-medicine consult 2026-10-05. Positive on the program; these are
 | **Fri** | Rest |
 
 **Thursday strength block** (load-driven, full rest between sets, ~2 reps in the tank):
-- **KB goblet squat @ 35 lb — 3×6–12**, double progression (build to 3×12, then add load).
+- **KB goblet squat @ 35 lb — 3×6–12**, double progression (build to 3×12, then add load). **Log:** 10/8 → 8/8/10.
 - **Band row — 3×10–12** at the bumped baseline · **Pushups — 3×10** (tempo optional) · **Band chest press — 3×10–12**.
 - **Suitcase carry @ 35 lb — 3 trips/side** (disc insurance).
 - **Why 1×/wk works:** strength *maintenance* needs far less volume than building; one heavy session/week holds it, and the 20-rep circuit days add muscle stimulus on top. Progress on the squat will be slower than at 2–3 heavy days — accepted trade. Revisit with Brad at the November follow-up.

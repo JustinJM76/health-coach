@@ -59,5 +59,6 @@ Brown the sausage + sauté the aromatics first (worth the 8 min), then add every
 - **Thicken naturally** — mash a ladle of beans against the side instead of adding starch.
 
 ## Iteration notes
-### v1 — planned Wed 2026-10-07 (first cook) — TBD
-- Log: sausage choice (chicken vs turkey) + heat level; did the kids eat the kale? crockpot vs stovetop; did it satisfy Justin as a full dinner or want a protein bump?
+### v1 — Wed 2026-10-07 (first cook) — HIT, keep in rotation
+- **Crockpot** (started in the AM) worked well for game night. Served with **crusty baguette** for the family. Justin: "great," **"definitely worth keeping in rotation."**
+- **Kids don't love the kale texture** → **v2: swap in baby spinach** (stir in for the last ~2 min instead of kale's 20–30). Softer, milder; same plant-forward volume.
